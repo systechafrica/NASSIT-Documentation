@@ -1,0 +1,15 @@
+pids
+logs
+node_modules
+npm-debug.log
+coverage/
+run
+dist
+.DS_Store
+.nyc_output
+.basement
+basement_dist
+.idea
+docs/src/.vuepress/dist
+gh-pages-key
+gh-pages-key.pub
