@@ -1,19 +1,3 @@
-# Section 2: Administrative Panel
-
-The administrative panel facilitates the creation and management of system User Profiles and User Accounts. The system administrator is responsible for enabling system Rights and Permissions for specific User Profiles. To access the Administrative Panel, first navigate to the landing page and click on the **\'Administrative Panel\'** hot link.
-This action will open the Admin Panel Links window as shown below:
-
-<img  alt="admin panel image" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image1.png">  
-
-
-**Actions**
-
--   Navigate to the section labelled 1 and click on the hot links to access shortcut routes to commonly visited links within the administrative panel module.
-
--   Access the section labelled 2 and click on the menu items listed to configure related settings, including notifications and the scheduler.
-
--   Locate the icon labelled 3 and click to open the FundMaster AI and prompt it to user your questions.
-
 ## User Management
 
 User accounts are individual accounts for system users, assigned to specific profiles that dictate permissions for accessing specific system functions.
@@ -46,9 +30,10 @@ This window displays a grid table listing all system users along with their spec
 
 -   Click the label 7 button to open a section on the lower side of the window, revealing various details of a selected user.
 
-#### Operations
 
-##### New User
+## Operations
+
+### New User
 
 To add a new user, find the \'**Operations**\' menu, and from the drop-down list, click \'**New User**' as shown below:
 
@@ -70,7 +55,7 @@ Clicking the '**New User**' will open '**User Details**' form where the details 
 -   Click button labeled 4 to exit the user details dialog box.
 
 
-##### Users Details
+### Users Details
 
 To access adsditional details about a user\'s account, including user role, schemes, sponsors, modules, and member classes allowed for access, click '**Details**' from the Operations menu as shown below:
 
@@ -94,7 +79,7 @@ This action will open a lower section displaying comprehensive information about
 -   Click button labeled 5 to view the roles the user is allowed to play.
 
 
-###### Allowing Schemes Access to Users
+### Allowing Schemes Access to Users
 
 To grant specific schemes access to a user profile, locate the '**Allowed Scheme**' tab, and click to reveal a table listing the user\'s current schemes. Click the '**Assign Schemes to User**' button to view all schemes available in the system, as depicted in the following screenshot:
 
@@ -109,7 +94,7 @@ To grant specific schemes access to a user profile, locate the '**Allowed Scheme
 -   Click the button **labeled 3** to remove select schemes from a user's assigned schemes.
 
 
-###### Assigning Schemes to a User
+### Assigning Schemes to a User
 
 Click the '**Assign Scheme to User'** tab to open a grid table listing all the schemes that can be added to a user account as shown below:
 
@@ -127,7 +112,7 @@ Click the '**Assign Scheme to User'** tab to open a grid table listing all the s
 **Note:** To allow a user access to **Sponsors, Member Classes,** follow the steps taken to add schemes to a user as shown in the previous section.
 
 
-###### Assigning Modules to a User
+### Assigning Modules to a User
 
 To assign specific modules to a user, click the **'Module Access'** tab to open a grid table column showing the modules that can be added to a user account as shown below:
 
@@ -157,7 +142,7 @@ To engage with profiles, click **Profiles Register'** and access the Profile Reg
 -   Click **label 4** button to initialize permissions for a profile.
 
 
-#### New Profile
+### New Profile
 
 Click "**New Profile"** tab to open a dialog box. Through this, a new profile can be created by providing the profile name and a description as shown below:
 
@@ -179,7 +164,7 @@ The **'Reason for Suspension Register'** window displays a list of reasons why s
 -   Click **label 3** button to delete a selected record from the list
 
 
-#### New Reason for Suspension
+### New Reason for Suspension
 
 Click the '**New Reason for Suspension'** button to open a dialog box. Through this, a reason for a member's suspension from using the system is recorded as shown below:
 
@@ -203,7 +188,7 @@ Click '**System Rights'** to open a window listing all the system rights grouped
 -   Click **label 4** button to filter records by key words typed on the adjacent text box
 
 
-#### New Permission 
+### New Permission 
 
 Click the **'New Permission'** button to open a dialog box. Through this, a new permission is created by providing details of the new permission as shown below:
 
@@ -214,7 +199,7 @@ Click the **'New Permission'** button to open a dialog box. Through this, a new 
 
 Once a system user profile is created, the next step is to allow access to specific system rights to a newly created profile. The permissions given enable a user profile access to certain system functionalities.
 
-#### Step 1: Assigning Permissions to a user profile
+### Step 1: Assigning Permissions to a user profile
 
 To assign permissions to a profile, click the **'Profile Permissions'** menu to open the profiles permission window with a grid table where permissions are assigned to profiles. The table provides drop-down menus to choose profiles and the modules whose permissions are to be assigned to a profile among others as shown below:
 
@@ -229,7 +214,7 @@ To assign permissions to a profile, click the **'Profile Permissions'** menu to 
 -   Click the filter button **labelled 3** to search for a record based on the name typed on the adjacent search box.
 
 
-#### Step 2: Enabling Permissions
+### Step 2: Enabling Permissions
 
 Select **'Permission'** from the list and click the **'Enable'** button to activate the permissions in that profile as shown below:
 
@@ -265,6 +250,7 @@ Click **'Password Policy Settings'** to open a dialog box. Adjust the password p
 Click on **'Current Sessions'** to open the respective window. Inside this window, you will find a list displaying all currently logged-in users, as illustrated in the screenshot below:
 
 <img  alt="Current Sessions" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image23.png">  
+
 
 **Action**
 
@@ -375,314 +361,219 @@ The Email Setup feature enables the configuration of different Simple Mail Trans
 -   Click **label 5** button to set a selected email set up as the default email set up.
 
 
-#### New SMTP Set UP
+### New SMTP Set UP
 
 Clicking '**Email Set Up'** button labeled 1 will open a dialog box to configure email set up parameters as shown below:
 
 <img  alt="new email setup" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image31.png">  
 
+
 ### S.M.S Set Up
 
-This setup feature allows for the configuration of SMS service
-providers, enabling the system to send and receive SMS messages. Refer
-to the screenshot below for details:
+This setup feature allows for the configuration of SMS service providers, enabling the system to send and receive SMS messages. Refer to the screenshot below for details:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image32.png){width="6.268055555555556in"
-height="1.8493055555555555in"}
+<img  alt="sms setup" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image32.png">  
 
-![Hammer with solid
-fill](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image2.png){width="0.2952296587926509in"
-height="0.2952296587926509in"}**Action**
 
--   Click **label 1** button to configure a new SMS Set Up
+**Action**
 
--   Click **label 2** button to view the details of a selected SMS Set
-    > Up from the list
+-   Click **label 1** button to configure a new SMS Set Up.
 
--   Click **label 3** button to test a selected SMS Set Up
+-   Click **label 2** button to view the details of a selected SMS Set Up from the list.
 
--   Click **label 5** button to set a selected SMS Set Up as the default
-    > Set Pp
+-   Click **label 3** button to test a selected SMS Set Up.
 
--   Click **label 4** button to delete a selected SMS Set Up from the
-    > list
+-   Click **label 5** button to set a selected SMS Set Up as the default Set up.
+
+-   Click **label 4** button to delete a selected SMS Set Up from the list.
+
 
 #### New SMS Set Up
 
-Clicking on the **\'New SMS Setup**\' button labeled 1 opens an
-\'External API Details\' dialog box for configuring a new SMS setup as
-shown in the screenshot below:
+Clicking on the **'New SMS Setup**' button labeled 1 opens an 'External API Details' dialog box for configuring a new SMS setup as shown in the screenshot below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image33.png){width="6.00462489063867in"
-height="2.1388057742782154in"}
+<img  alt="new sms setup" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image33.png">  
+
 
 ### Notifications Templates
 
-The system provides the flexibility to customize notification templates.
-Simply click on the \'**Notifications Templates\'** menu item to access
-a grid table displaying all available templates, as illustrated in the
+The system provides the flexibility to customize notification templates. Simply click on the \'**Notifications Templates\'** menu item to access a grid table displaying all available templates, as illustrated in the
 screenshot below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image34.png){width="6.268055555555556in"
-height="1.5763888888888888in"}
+<img  alt="Notifications Templates" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image34.png">  
 
-![Hammer with solid
-fill](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image2.png){width="0.2952296587926509in"
-height="0.2952296587926509in"}**Action**
+**Action**
 
 -   Click **label 1** button to add a new template.
 
 -   Click **label 2** button to view the details of a selected template.
 
--   Click **label 3** button to delete a selected template from the
-    > system.
+-   Click **label 3** button to delete a selected template from the system.
 
--   Click **label 4** text box to type key words to search for a
-    > template quickly.
+-   Click **label 4** text box to type key words to search for a template quickly.
 
--   Click **label 5** button to add an attachment to a template
+-   Click **label 5** button to add an attachment to a template.
 
--   Click **label 6** button to view the details of a selected template
-    > from the list.
+-   Click **label 6** button to view the details of a selected template from the list.
 
-#### New Notification Template
 
-Click the '**New'** button to open a dialog box where a new email
-notification template can be configured as shown below:
+### New Notification Template
 
-![A screenshot of a computer Description automatically
-generated](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image35.png){width="5.989130577427821in"
-height="3.5652121609798777in"}
+Click the '**New'** button to open a dialog box where a new email notification template can be configured as shown below:
+
+<img  alt="New Notification Template width=" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image35.png">  
 
 **Tip**
 
 -   Make use of reserved keywords.
 
+
 #### Add Notification Attachment
 
-Click the '**Add Notification Attachment'** button to open the
-Attachment configuration dialog box where the attachment details are
-configured as shown below:
+Click the '**Add Notification Attachment'** button to open the Attachment configuration dialog box where the attachment details are configured as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image36.png){width="5.913343175853019in"
-height="1.5015923009623797in"}
+<img  alt="Add Notification Attachment" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image36.png">  
+
 
 ### Email Outbox
 
-Click the **'Outbox'** link to open the outbox window where all outgoing
-email triggered from the system at the initiation of certain processes
-are listed as shown below:
+Click the **'Outbox'** link to open the outbox window where all outgoing email triggered from the system at the initiation of certain processes are listed as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image37.png){width="6.268055555555556in"
-height="2.3680555555555554in"}
+<img  alt="email outbox" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image37.png">  
 
-![Hammer with solid
-fill](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image2.png){width="0.2952296587926509in"
-height="0.2952296587926509in"}**Action**
 
--   Click **label 1** button to view the details of a selected mail from
-    > the list.
+**Action**
 
--   Click **label 2** button resent a mail if it is marked as 'No' in
-    > the delivery column.
+-   Click **label 1** button to view the details of a selected mail from the list.
 
--   Click **label 3** text box and provide an email address to filter
-    > the records by email.
+-   Click **label 2** button resent a mail if it is marked as 'No' in the delivery column.
 
--   Click **label 4** text box and type the mail subject to filter
-    > records based of the mail subject.
+-   Click **label 3** text box and provide an email address to filter the records by email.
 
--   Click **label 5** date filter and select a date to filter records by
-    > date.
+-   Click **label 4** text box and type the mail subject to filter records based of the mail subject.
+
+-   Click **label 5** date filter and select a date to filter records by date.
 
 -   Click **label 6** dropdown menu to filter mails on delivery status.
 
+
 ### Periodic Emails
 
-![A screenshot of a computer Description automatically
-generated](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image38.png){width="6.268055555555556in"
-height="2.1645833333333333in"}
+<img  alt="periodic email" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image38.png">  
 
 ### S.M.S Outbox
 
-![A screenshot of a computer Description automatically
-generated](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image39.png){width="6.268055555555556in"
-height="1.9361111111111111in"}
+<img  alt="sms outbox" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image39.png">  
+
 
 ## System Utility 
 
-System utility feature enables configurations related to FundMaster
-integration with other systems. To configure specific utilities, click
-the menu items to open configuration dialog boxes as shown below:
+System utility feature enables configurations related to FundMaster integration with other systems. To configure specific utilities, click the menu items to open configuration dialog boxes as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image40.png){width="4.506626202974628in"
-height="2.7011800087489064in"}
+<img  alt="system utility" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image40.png">  
 
-**Note:** system utility configurations are confidential settings and
-therefore has not been demonstrated using sample system screenshot.
+
+**Note:** system utility configurations are confidential settings and therefore has not been demonstrated using sample system screenshot.
 
 ### Integration
 
-Click this link to open a dialog box to configure parameters related to
-FundMaster integration with other external systems.
+Click this link to open a dialog box to configure parameters related to FundMaster integration with other external systems.
 
 ### Mobile Money Middleware Integration Settings
 
-Click this link to open a dialog box to configure parameters related to
-FundMaster integration with other various mobile money service
-providers.
+Click this link to open a dialog box to configure parameters related to FundMaster integration with other various mobile money service providers.
 
 ### Database links
 
-Click this link to open a dialog box to configure parameters related to
-connecting FundMaster to vender-based databases.
+Click this link to open a dialog box to configure parameters related to connecting FundMaster to vender-based databases.
 
 ### Straight To Bank Config
 
-Click this link to open a dialog box to configure IPAs related to
-FundMaster integration with partnering banking institution for money
-transactions.
+Click this link to open a dialog box to configure IPAs related to FundMaster integration with partnering banking institution for money transactions.
 
-### Report Settings
+## Report Settings
 
 #### Report Server
 
-Click the '**Report Server'** menu item to open a Report Server Config
-dialog box to configure settings that enables FundMaster to connect to a
-report server as shown in the screenshot below:
+Click the '**Report Server'** menu item to open a Report Server Config dialog box to configure settings that enables FundMaster to connect to a report server as shown in the screenshot below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image41.png){width="6.268055555555556in"
-height="2.6805555555555554in"}
+<img  alt="report server" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image41.png">  
 
-#### Reports Configurations
+### Reports Configurations
 
-Click the '**Reports Configurations'** menu item to open a reports
-configurations dialog box to configure settings that enable a scheme to
-connect to a report server as shown in the screenshot below:
+Click the '**Reports Configurations'** menu item to open a reports configurations dialog box to configure settings that enable a scheme to connect to a report server as shown in the screenshot below:
 
-![Graphical user interface, text, application Description automatically
-generated](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image42.jpg){width="6.268055555555556in"
-height="3.321527777777778in"}
+<img  alt="Reports Configurations" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image42.jpg">  
 
-![Hammer with solid
-fill](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image2.png){width="0.2952296587926509in"
-height="0.2952296587926509in"}**Action**
+**Action**
 
--   Click **label 1** button to open a dialog box where a new
-    > configuration is done.
+-   Click **label 1** button to open a dialog box where a new configuration is done.
 
--   Click **label 2** button to view the details of a select report
-    > configuration.
+-   Click **label 2** button to view the details of a select report configuration.
 
--   Click **label 3** button to upload or edit logos that are used on
-    > the header of generated reports.
+-   Click **label 3** button to upload or edit logos that are used on the header of generated reports.
 
--   Click **label 4** button to remove selected configurations from the
-    > list.
+-   Click **label 4** button to remove selected configurations from the list.
 
--   Click **label 5** button to show the Mapping section on the lower
-    > side of the window where an individual scheme is mapped to a
-    > report configuration.
+-   Click **label 5** button to show the Mapping section on the lower side of the window where an individual scheme is mapped to a report configuration.
 
--   Click **label 6** button to create a new mapping: connect a scheme
-    > to the selected report configuration.
+-   Click **label 6** button to create a new mapping: connect a scheme to the selected report configuration.
 
 -   Click **label 7** button to remove a selected scheme mapping.
 
-#### 
 
-#### New Configuration
+### New Configuration
 
-Click the **'New Configuration'** button to open a dialog box where
-settings for a new report configuration are done as shown below:
+Click the **'New Configuration'** button to open a dialog box where settings for a new report configuration are done as shown below:
 
-![A screen shot of a computer Description automatically
-generated](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image43.png){width="6.268055555555556in"
-height="2.527083333333333in"}
+<img  alt="New Configuration" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image43.png">  
 
 #### Uploading report logos
 
-To upload logos for use in the system-generated reports, select the
-configuration whose reports need logos. Locate the list in the report's
-configuration window. Then click the **'Upload/Edit logo'** button to
-open a dialog box and upload the logos as shown below:
+To upload logos for use in the system-generated reports, select the configuration whose reports need logos. Locate the list in the report's configuration window. Then click the **'Upload/Edit logo'** button to open a dialog box and upload the logos as shown below:
 
-![](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image44.jpg){width="5.363888888888889in"
-height="3.269083552055993in"}
+<img  alt="Uploading report logos" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image44.jpg">  
 
-![Hammer with solid
-fill](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image2.png){width="0.2952296587926509in"
-height="0.2952296587926509in"}**Action**
 
--   Click **label 1** button to upload the logo that goes to the right
-    > side of the report's header.
+**Action**
 
--   Click **label 2** button to upload the logo that goes to the left
-    > side of the report's header.
+-   Click **label 1** button to upload the logo that goes to the right side of the report's header.
 
--   Click **label 3** button to close the window after a successful
-    > upload.
+-   Click **label 2** button to upload the logo that goes to the left side of the report's header.
 
-Click either of the **'Upload'** buttons to open a Logo Upload dialog
-box through which a path to locate the logo from a user's device is
-provided. Click the **'Upload logo'** button to move the selected logo
-to the system as shown below:
+-   Click **label 3** button to close the window after a successful upload.
 
-![](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image45.jpg){width="5.566666666666666in"
-height="1.0762226596675415in"}
+Click either of the **'Upload'** buttons to open a Logo Upload dialog box through which a path to locate the logo from a user's device is provided. Click the **'Upload logo'** button to move the selected logo to the system as shown below:
 
-#### Mapping Scheme to a Configuration
+<img  alt="logo upload" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image45.jpg">  
 
-To map a scheme to a specific report configuration, select the
-configuration you want to map a scheme to from the list of
-configurations on the upper section of the window, then click the **'New
-Mapping'** button located in the lower section of the window to open a
-new mapping dialog box. Type the name of the new mapping and click the
-**'Get Scheme to Map'** button to map the scheme to the set report
-configuration as shown below:
 
-![](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image46.jpg){width="5.591666666666667in"
-height="1.4899136045494312in"}
+### Mapping Scheme to a Configuration
 
-**\
-**Click the **'Get Scheme to Map'** button to open the scheme details
-window. Search for the scheme you want to map and click the Double-Click
-to Select button to select the scheme. You can also select multiple
-schemes by clicking the **'Select Multiple'** button as shown below:
+To map a scheme to a specific report configuration, select the configuration you want to map a scheme to from the list of
+configurations on the upper section of the window, then click the **'New Mapping'** button located in the lower section of the window to open a new mapping dialog box. Type the name of the new mapping and click the **'Get Scheme to Map'** button to map the scheme to the set report configuration as shown below:
 
-![](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image47.jpg){width="6.505780839895013in"
-height="2.411017060367454in"}
+<img  alt="mapping Scheme to a Configuration" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image46.jpg">  
+
+
+Click the **'Get Scheme to Map'** button to open the scheme details window. Search for the scheme you want to map and click the Double-Click to Select button to select the scheme. You can also select multiple schemes by clicking the **'Select Multiple'** button as shown below:
+
+<img  alt="Get Scheme to Map" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image47.jpg">  
+
 
 ### Reports Register
 
-Click the **'Reports Register'** link to open the Reports Register
-window where a list of all report objects from the various module are
-listed. From this window a particular report can be selected and
-**'Enables'** or **'Disabled'** as shown in the screenshot below:
+Click the **'Reports Register'** link to open the Reports Register window where a list of all report objects from the various module are listed. From this window a particular report can be selected and **'Enables'** or **'Disabled'** as shown in the screenshot below:
 
-![Graphical user interface, text, application, email Description
-automatically
-generated](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image48.jpg){width="6.268055555555556in"
-height="2.4722222222222223in"}
+<img  alt="Reports Registe" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image48.jpg">  
 
 **Tip**
 
-Select a report from the list and click the **'Enable'** button to have
-the report activated so that it can be generated. Otherwise Click
-**'Disable'** button means the report cannot be generated.
+Select a report from the list and click the **'Enable'** button to have the report activated so that it can be generated. Otherwise Click **'Disable'** button means the report cannot be generated.
+
 
 ### Form Fields Validation Matrix
 
-The Form Fields Validation Form enables the configurations of various
-fields validations in a form. See screenshot below:
+The Form Fields Validation Form enables the configurations of various fields validations in a form. See screenshot below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_aeab3b4e558543a0908e178523c5ae00/media/image49.png){width="6.268055555555556in"
-height="2.8465277777777778in"}
+<img  alt="Form Fields Validation Form" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image49.png">  

@@ -28,13 +28,6 @@ module.exports = {
                 ],
             },
             {text: 'Glossary', link: '/glossary/'},
-            {
-                text: 'Installation Guides',
-                items: [
-                    {text: 'FundMaster on Oracle', link: '/deployment/' },
-                    {text: 'Postgress Database', link: '/deployment/postgres/' }
-                ]
-            },
             {text: 'Video Tutorials', link: '/videotutorials/'},
             {text: 'FAQ', link: '/frequentquestions/'},
         ],
@@ -65,8 +58,6 @@ function getSidebar() {
                 '/workflow/',
                 '/investments/',
                 '/videotutorials/',
-                '/deployment/',
-                '/frequentquestions/'
             ]),
         '/administration/': generateSidebar(
             '/administration/',
@@ -74,17 +65,6 @@ function getSidebar() {
             [
                 '',
                 'userManagement',
-                'usersRegister',
-                'profilesRegister',
-                'profilePermissionsgit ',
-                'passwordPolicySettings',
-                'notifications',
-                'sms',
-                'email',
-                'auditTrail',
-                'systemRights',
-                'systemUtility',
-                'otherAdminSettings',
             ]),
             '/setupscheme/': generateSidebar(
                 '/setupscheme/',

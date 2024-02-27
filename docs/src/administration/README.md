@@ -1,17 +1,18 @@
 ### Admin Panel User Guide
 
-#### Introduction
+### Administrative Panel
 
-The administrative panel aids in the creation and management of system **User Profiles** and **User Accounts**. The system administrator is responsible for **Enabling** and **Disabling** system Rights and **Permissions** to specific User Profiles. 
+The administrative panel facilitates the creation and management of system User Profiles and User Accounts. The system administrator is responsible for enabling system Rights and Permissions for specific User Profiles. To access the Administrative Panel, first navigate to the landing page and click on the **\'Administrative Panel\'** hot link.
+This action will open the Admin Panel Links window as shown below:
 
-Clicking the **Administrative Pane** link on the landing page will open the Admin Panel Links window as shown below:
-
-<img  alt="admin panel image" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd2.jpeg">  
+<img  alt="admin panel image" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image1.png">  
 
 
-**Action**
+**Actions**
 
--	Click the hot links under the section **labelled 1** to configure users and other settings-related parameters such as profile permissions among others.
+-   Navigate to the section labelled 1 and click on the hot links to access shortcut routes to commonly visited links within the administrative panel module.
 
--	Click the menu items links listed on the left-side panel in the section **labelled 2** to configure other related settings such as notifications and schedular.
+-   Access the section labelled 2 and click on the menu items listed to configure related settings, including notifications and the scheduler.
+
+-   Locate the icon labelled 3 and click to open the FundMaster AI and prompt it to user your questions.
 
