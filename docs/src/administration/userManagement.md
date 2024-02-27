@@ -37,7 +37,7 @@ This window displays a grid table listing all system users along with their spec
 
 To add a new user, find the \'**Operations**\' menu, and from the drop-down list, click \'**New User**' as shown below:
 
-<img  alt="new user" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image6.png">  
+<img  alt="new user" width="75%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image6.png">  
 
 
 Clicking the '**New User**' will open '**User Details**' form where the details of the new user are captured. See the screenshot below:
@@ -60,7 +60,7 @@ Clicking the '**New User**' will open '**User Details**' form where the details 
 
 To access adsditional details about a user\'s account, including user role, schemes, sponsors, modules, and member classes allowed for access, click '**Details**' from the Operations menu as shown below:
 
-<img  alt="user details" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image8.png">  
+<img  alt="user details" width="85%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image8.png">  
 
 This action will open a lower section displaying comprehensive information about the selected user, as depicted below:
 
@@ -122,7 +122,7 @@ To assign specific modules to a user, click the **'Module Access'** tab to open 
 
 Click **'Assign Module(s) to User'** to open a dialog box for selecting the modules to allow a user access. Select the modules and click 'Assign' to allow a user access as shown below:
 
-<img  alt="assign module " width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image13.png">  
+<img  alt="assign module " width="65%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image13.png">  
 
 
 ## Profiles Register
@@ -148,7 +148,7 @@ To engage with profiles, click **Profiles Register'** and access the Profile Reg
 
 Click "**New Profile"** tab to open a dialog box. Through this, a new profile can be created by providing the profile name and a description as shown below:
 
-<img  alt="new profile" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image15.png">  
+<img  alt="new profile" width="75%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image15.png">  
 
 
 ## Reasons For Suspension
@@ -171,7 +171,7 @@ The **'Reason for Suspension Register'** window displays a list of reasons why s
 
 Click the '**New Reason for Suspension'** button to open a dialog box. Through this, a reason for a member's suspension from using the system is recorded as shown below:
 
-<img  alt="new Reason for Suspension" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image17.png">  
+<img  alt="new Reason for Suspension" width="75%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image17.png">  
 
 
 ## System Rights
@@ -234,7 +234,7 @@ Select **'Permission'** from the list and click the **'Enable'** button to activ
 
 Click the **'New Permission'** button to open a dialog box. Through this, a new permission is created by providing details of the new permission as shown below:
 
-<img  alt="new permission" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image19.png">  
+<img  alt="new permission" width="75%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image19.png">  
 
 
 
@@ -288,7 +288,7 @@ Click on **'Take Notes'** to open the Notes window. Inside this window, you will
 
 Click the **'New'** button to open a dialog box. Within this window, enter the details of the new Note as illustrated below:
 
-<img  alt="new notes" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image25.png">  
+<img  alt="new notes" width="75%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image25.png">  
 
 
 ## Audit Trail

@@ -3,7 +3,7 @@
 FundMaster employs an advanced notification system that facilitates communication both within the system and externally, utilizing emails, SMS, or a combination of both. This component empowers administrators to customize a notifications matrix, specifying which key system activities warrant notifications. Additionally, administrators can design email
 templates to effectively communicate with the target audience, addressing various issues like password reset alerts among other configurations. See screenshot below:
 
-<img  alt="notification" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image27.png">  
+<img  alt="notification" width="65%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image27.png">  
 
 
 ### Notification Configuration Matrix
@@ -51,7 +51,7 @@ The Email Setup feature enables the configuration of different Simple Mail Trans
 
 Clicking '**Email Set Up'** button labeled 1 will open a dialog box to configure email set up parameters as shown below:
 
-<img  alt="new email setup" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image31.png">  
+<img  alt="new email setup" width="85%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image31.png">  
 
 
 ### S.M.S Set Up

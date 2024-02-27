@@ -2,7 +2,7 @@
 
 System utility feature enables configurations related to FundMaster integration with other systems. To configure specific utilities, click the menu items to open configuration dialog boxes as shown below:
 
-<img  alt="system utility" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image40.png">  
+<img  alt="system utility" width="65%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image40.png">  
 
 
 **Note:** system utility configurations are confidential settings and therefore has not been demonstrated using sample system screenshot.
@@ -67,7 +67,7 @@ Click the **'New Configuration'** button to open a dialog box where settings for
 
 To upload logos for use in the system-generated reports, select the configuration whose reports need logos. Locate the list in the report's configuration window. Then click the **'Upload/Edit logo'** button to open a dialog box and upload the logos as shown below:
 
-<img  alt="Uploading report logos" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image44.jpg">  
+<img  alt="Uploading report logos" width="85%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image44.jpg">  
 
 
 **Action**

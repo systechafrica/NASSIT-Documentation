@@ -182,14 +182,7 @@ function getSidebar() {
                 'fundManagement',
                 'posting',              
             ]),
-        '/deployment/': generateSidebar(
-            '/deployment/',
-            'Installation Guides',
-            [
-                '',
-                'postgres',
-            ]),
-            '/videotutorials/': generateSidebar(
+        '/videotutorials/': generateSidebar(
                 '/videotutorials/',
                 'Videos Tutorials',
             [
@@ -197,12 +190,6 @@ function getSidebar() {
                 'employerEnrollment',
                 'membersModule',
                 'schemeSetup',
-            ]),
-            '/frequentquestions/': generateSidebar(
-                '/frequentquestions/',
-                'Frequently Asked Questions ',
-            [
-                '',
             ]),
     };
 }
@@ -221,7 +208,6 @@ function generateSidebar(basePath, title, children) {
                 '/workflow/',
                 '/investments/',
                 '/videotutorials/',
-                '/deployment/'
             ]
         }
     ];
