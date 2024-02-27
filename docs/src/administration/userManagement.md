@@ -2,7 +2,7 @@
 
 User accounts are individual accounts for system users, assigned to specific profiles that dictate permissions for accessing specific system functions.
 
-### Users Register
+## Users Register
 
 To view current system users, navigate to the '**Users Register**' menu on the left side panel and click to open the \'**Existing Users**\' window as shown below:
 
@@ -43,6 +43,7 @@ To add a new user, find the \'**Operations**\' menu, and from the drop-down list
 Clicking the '**New User**' will open '**User Details**' form where the details of the new user are captured. See the screenshot below:
 
 <img  alt="user details" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image7.png">  
+
 
 **Action**
 
@@ -85,6 +86,7 @@ To grant specific schemes access to a user profile, locate the '**Allowed Scheme
 
 <img  alt="assign scheme to users" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image10.png">  
 
+
 **Action**
 
 -   Click the button **labeled 1** to open a dialog box listing all available schemes from which new schemes can be selected and added to a user's account as to be shown in the following screenshot.
@@ -123,7 +125,7 @@ Click **'Assign Module(s) to User'** to open a dialog box for selecting the modu
 <img  alt="assign module " width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image13.png">  
 
 
-### Profiles Register
+## Profiles Register
 
 User profiles representing distinct groups of users with specific privileges. A system Administrator profile is created by default and serves as a foundational template from which other profiles are derived.
 
@@ -149,11 +151,12 @@ Click "**New Profile"** tab to open a dialog box. Through this, a new profile ca
 <img  alt="new profile" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image15.png">  
 
 
-### Reasons For Suspension
+## Reasons For Suspension
 
 The **'Reason for Suspension Register'** window displays a list of reasons why system users can be suspended from using the system. New reasons for suspension can also be added as shown below:
 
 <img  alt="Reason for Suspension Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image16.png">  
+
 
 **Action**
 
@@ -171,11 +174,12 @@ Click the '**New Reason for Suspension'** button to open a dialog box. Through t
 <img  alt="new Reason for Suspension" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image17.png">  
 
 
-### System Rights
+## System Rights
 
 Click '**System Rights'** to open a window listing all the system rights grouped based on modules. A user can create a new system permission, view the details of a selected permission in the list, and remove one among other actions. See the screenshot below:
 
-<img  alt="system rights" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image18.png">  
+<img  alt="system rights" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image18.png"> 
+
 
 **Action**
 
@@ -188,14 +192,7 @@ Click '**System Rights'** to open a window listing all the system rights grouped
 -   Click **label 4** button to filter records by key words typed on the adjacent text box
 
 
-### New Permission 
-
-Click the **'New Permission'** button to open a dialog box. Through this, a new permission is created by providing details of the new permission as shown below:
-
-<img  alt="new permission" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image19.png">  
-
-
-### Profile Permissions
+## Profile Permissions
 
 Once a system user profile is created, the next step is to allow access to specific system rights to a newly created profile. The permissions given enable a user profile access to certain system functionalities.
 
@@ -233,7 +230,15 @@ Select **'Permission'** from the list and click the **'Enable'** button to activ
 -   Click to select an option from the print drop-down menu **labelled 8** to view a print layout copy of permission details.
 
 
-### Password Policy Settings
+### New Permission 
+
+Click the **'New Permission'** button to open a dialog box. Through this, a new permission is created by providing details of the new permission as shown below:
+
+<img  alt="new permission" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image19.png">  
+
+
+
+## Password Policy Settings
 
 Click **'Password Policy Settings'** to open a dialog box. Adjust the password policy settings based on the configuration provided below:
 
@@ -245,7 +250,7 @@ Click **'Password Policy Settings'** to open a dialog box. Adjust the password p
 -   Enter the required details into the form text fields and click the **'Proceed'** button to apply the policy changes. If you wish to discard the changes, click **'Cancel'** to exit the process.
 
 
-### Current Sessions
+## Current Sessions
 
 Click on **'Current Sessions'** to open the respective window. Inside this window, you will find a list displaying all currently logged-in users, as illustrated in the screenshot below:
 
@@ -261,7 +266,7 @@ Click on **'Current Sessions'** to open the respective window. Inside this windo
 -   Click the filter button **labelled 3** to filter records based on the set dates.
 
 
-### Take Notes
+## Take Notes
 
 Click on **'Take Notes'** to open the Notes window. Inside this window, you will find a list displaying all current notes written by various system users as shown in the screenshot below:
 
@@ -279,14 +284,14 @@ Click on **'Take Notes'** to open the Notes window. Inside this window, you will
 -   Click **label 4** search box and type key words to filter records.
 
 
-#### New Note
+### New Note
 
 Click the **'New'** button to open a dialog box. Within this window, enter the details of the new Note as illustrated below:
 
 <img  alt="new notes" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image25.png">  
 
 
-### Audit Trail
+## Audit Trail
 
 Click **'Audit Trail**' to open the corresponding window. In this window, a list of all key activities within the system, attributed to active users, is generated, as shown in the screenshot below:
 
@@ -388,7 +393,7 @@ This setup feature allows for the configuration of SMS service providers, enabli
 -   Click **label 4** button to delete a selected SMS Set Up from the list.
 
 
-#### New SMS Set Up
+### New SMS Set Up
 
 Clicking on the **'New SMS Setup**' button labeled 1 opens an 'External API Details' dialog box for configuring a new SMS setup as shown in the screenshot below:
 
@@ -428,7 +433,7 @@ Click the '**New'** button to open a dialog box where a new email notification t
 -   Make use of reserved keywords.
 
 
-#### Add Notification Attachment
+### Add Notification Attachment
 
 Click the '**Add Notification Attachment'** button to open the Attachment configuration dialog box where the attachment details are configured as shown below:
 
@@ -475,6 +480,7 @@ System utility feature enables configurations related to FundMaster integration 
 
 **Note:** system utility configurations are confidential settings and therefore has not been demonstrated using sample system screenshot.
 
+
 ### Integration
 
 Click this link to open a dialog box to configure parameters related to FundMaster integration with other external systems.
@@ -491,9 +497,10 @@ Click this link to open a dialog box to configure parameters related to connecti
 
 Click this link to open a dialog box to configure IPAs related to FundMaster integration with partnering banking institution for money transactions.
 
+
 ## Report Settings
 
-#### Report Server
+### Report Server
 
 Click the '**Report Server'** menu item to open a Report Server Config dialog box to configure settings that enables FundMaster to connect to a report server as shown in the screenshot below:
 
@@ -528,7 +535,7 @@ Click the **'New Configuration'** button to open a dialog box where settings for
 
 <img  alt="New Configuration" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image43.png">  
 
-#### Uploading report logos
+### Uploading report logos
 
 To upload logos for use in the system-generated reports, select the configuration whose reports need logos. Locate the list in the report's configuration window. Then click the **'Upload/Edit logo'** button to open a dialog box and upload the logos as shown below:
 
@@ -572,7 +579,7 @@ Click the **'Reports Register'** link to open the Reports Register window where 
 Select a report from the list and click the **'Enable'** button to have the report activated so that it can be generated. Otherwise Click **'Disable'** button means the report cannot be generated.
 
 
-### Form Fields Validation Matrix
+## Form Fields Validation Matrix
 
 The Form Fields Validation Form enables the configurations of various fields validations in a form. See screenshot below:
 
