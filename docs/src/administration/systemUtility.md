@@ -81,7 +81,7 @@ To upload logos for use in the system-generated reports, select the configuratio
 
 Click either of the **'Upload'** buttons to open a Logo Upload dialog box through which a path to locate the logo from a user's device is provided. Click the **'Upload logo'** button to move the selected logo to the system as shown below:
 
-<img  alt="logo upload" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image45.jpg">  
+<img  alt="logo upload" width="75%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image45.jpg">  
 
 
 ### Mapping Scheme to a Configuration
@@ -89,12 +89,12 @@ Click either of the **'Upload'** buttons to open a Logo Upload dialog box throug
 To map a scheme to a specific report configuration, select the configuration you want to map a scheme to from the list of
 configurations on the upper section of the window, then click the **'New Mapping'** button located in the lower section of the window to open a new mapping dialog box. Type the name of the new mapping and click the **'Get Scheme to Map'** button to map the scheme to the set report configuration as shown below:
 
-<img  alt="mapping Scheme to a Configuration" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image46.jpg">  
+<img  alt="mapping Scheme to a Configuration" width="75%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image46.jpg">  
 
 
 Click the **'Get Scheme to Map'** button to open the scheme details window. Search for the scheme you want to map and click the Double-Click to Select button to select the scheme. You can also select multiple schemes by clicking the **'Select Multiple'** button as shown below:
 
-<img  alt="Get Scheme to Map" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image47.jpg">  
+<img  alt="Get Scheme to Map" width="85%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image47.jpg">  
 
 
 ### Reports Register
