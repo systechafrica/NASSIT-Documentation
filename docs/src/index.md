@@ -1,23 +1,21 @@
 ---
 home: true
-heroImage: "/img/logo/fundmaster-hero-image.png"
-tagline: Step by Step user guide on how to run core processes in FundMaster Xe
+heroImage: "/img/knowledge-base-hero.jpg"
+tagline: This central repository provides relevant information on how to run various end-to-end processes in FundMaster system.
 actionText: Get Started →
 actionLink: /introduction/
-
 features:
-- title:
-  details: 
-  
-- title: 
-  details: 
-  
-- title: 
-  details:
----
-## Quick video Tutorial
-FundMaster Xe 'how to' tutorials.
-- [Quick Video Tutorial](/videotutorials/)
+  - title: Our Vision
+    details: To be the leading innovative retirement benefits technology solutions provider in Africa.
+  - title: Our Mission
+    details: Providing innovative, state of the art technology solutions to the retirement benefits industry ensuring industry best practices, compliance and learning, while maintaining motivated human resources.
+  - title: Our Core Values
+    details:
+      Passion for excellence  |
+      Product differentiation  |
+      Delight our clients  |
+      Positive can-do attitude  |
+      Always and steadily becoming.  
 ---
  ::: slot footer
  Licensed | Copyright © 2023 [Systech Limited](https://systechafrica.com/)

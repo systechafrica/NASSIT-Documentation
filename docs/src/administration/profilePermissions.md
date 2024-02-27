@@ -1,4 +1,4 @@
-### Profile Permissions
+## Profile Permissions
 
 Once a profile is created, the next step is to allow access to certain sub-functions in the system to a newly created profile. The permissions given enable the new profile to access system modules and rights to certain functions in an
 individual module.
@@ -39,7 +39,7 @@ After clicking the **Filter** button, a grid table listing all **Permissions** i
 -	Select an option from the print drop-down menu **labelled 8** to view a print layout copy of Permission details.
 
 
-### How to video
+## How to video
 
 The following video shows how to create a user profile and enable/disable permissions: 
 

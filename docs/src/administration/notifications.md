@@ -1,9 +1,9 @@
-### Notifications
+## Notifications
 
 FundMaster communicates, internally and externally, through an advanced notification system using emails, SMS, or both. The system allows an administrator to configure a notification matrix (i.e., what key system activities need notifications) and set up email templates for sending messages to the target audience concerning issues such as password reset alerts.
 
 
-### Notifications Config Matrix
+## Notifications Config Matrix
 
 Clicking the **Notifications** link labeled 3, will display a drop-down menu from which the **Notifications Config Matrix** link is accessed. Click this link to display a **Send Notifications on?** form where a user is allowed to select the key events and activities for which notification messages ought to be sent.
 
@@ -21,7 +21,7 @@ Check the **Yes** or **No** checkbox on the listed items enclosed under label 1,
 -   Click the **Save** button to confirm the configurations, otherwise close the form.
   
 
-### Creatining Notifications Templates
+## Creatining Notifications Templates
 
 The system allows administrators to design notifications templates in such a way that instead of writing a notification to every recipient individually, keywords (e.g., member name, member number etc. are dynamically embedded in a message from the database to enable sending of a copy to a list of members in a click. See a grid table listing available templates on the screenshot below:
 

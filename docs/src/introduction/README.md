@@ -1,4 +1,6 @@
-### Login Process
+### Login Process User Guide
+
+#### Introduction
 
 To access FundMaster on your device, launch your preferred internet browser and input the web Internet Protocol address provided by your system administrator as shown below:
 
@@ -25,25 +27,15 @@ After inputting the access IP address, a user is directed to the login page wher
 - The system is set to allow a user only three attempts at log in after which the account is locked. The locked account can only be reactivated by the system administrator.
 
 
-### How to video
-
-The following video demonstrates how to successfully login to FundMaster from your browser:
-
-<video width="640" height="340" controls>
-  <source src="../.vuepress/public/videos/login-tutorial.mp4" type="video/mp4">
-</video> 
-
-
-
-### Landing Page
+## Landing Page
 
 This is the dashboard (with the main menu and other controls) seen on a user’s screen when one successfully logs in to FundMaster. See the screenshot below:
 
-<img  alt="Landing Page Image" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd17.png"> 
+<img  alt="Landing Page" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd17.png"> 
 
 
 The circled numbers in the screenshot above correspond to the numbers in the following table that describe the key navigation clickable elements on the FundMaster landing page:
-+
+
 
 | **No.** 	| **Interface Elements**    	| **Description**                                                                                                                                   	|
 |---------	|---------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------	|
@@ -52,19 +44,33 @@ The circled numbers in the screenshot above correspond to the numbers in the fol
 | 3.    	| Logout button             	| Clicking this button will terminate all the running processes and close the system.                                                               	|
 | 4.    	| Main menu bar             	| This is the location of the major menu. Click to expand and display more menu items.                                                                                    	|
 | 5.    	| Scheme Setup link         	| A shortcut to launching the scheme setup module. Click to open the setup page.                                                                    	|
-| 6.    	| Investments link          	| A link to the Investments Module.                                                                                                          	|
-| 7.    	| Workflow link             	| A link to the Workflow Module.                                                                                                           |
+| 6.    	| Investments link          	| A link to the Investments Module.                                                                                                                 	|
+| 7.    	| Workflow link             	| A link to the Workflow Module.                                                                                                                    	|
 | 8.    	| Fees and Commission link  	| A link to the Fees and Commission Module.                                                                                                         	|
 | 9.    	| Pensioners Register link  	| A link to the Pensioners Register Module.                                                                                                         	|
 | 10.   	| Administrative Panel link 	| A link to the Administrative Panel Module.                                                                                                        	 |
-| 11.   	| Accounts link             	| A link to the Accounts Module.                                                                                                           |
-| 12.   	| Member Register link      	| A shortcut to the Members Register Module.                                                                                                           |
+| 11.   	| Accounts link             	| A link to the Accounts Module.                                                                                                                    	|
+| 12.   	| Member Register link      	| A shortcut to the Members Register Module.                                                                                                             |
 
 
-### How to Video
+### Main Menu Bar
 
-The following video shows interface walk through in FundMaster landing page: 
+Clicking the hamburger icon on the upper-left corner of the landing page will enable a user to expand the menu bar, allowing access to more controls. The expanded menu bar displays a help tab, on the uppermost side, for accessing the help documentation.
 
-<video width="640" height="340" controls>
-  <source src="../.vuepress/public/videos/landing-page-fm.mp4" type="video/mp4">
-</video>
+Located on the lowermost side of the menu bar are more controls that enable other configurations for a user account. See screenshot below:
+
+<img  alt="main menu bar Image" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd1.png">  
+
+
+ 
+| **No.**  | **Element**         | **Description**                                                                                                                                                                  |
+|----------|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.        | Help link           | A link to the help documentation for user reference. Click to open the page.                                                                                                     |
+| 2.        |   Account config    | A section with links for configuring user account details.                                                                                                                       |
+| 2(a). |   Profile           | This is where the logged in user's profile name is displayed.                                                                                                                      |
+| 2(b). |   Switch Scheme     | Allows a user to change from the currently running scheme to another without terminating a session. Note that a successful switch will change the scheme name on the uppermost bar |
+| 2(c). |   Change Password   | Allows a user to change password for security reasons.                                                                                                                          |
+| 2(d). |   Products Setup    | Clicking on this link will open the products page to view available products and create new.                                                                        |
+| 2(e). |   Logout            | Click to terminate all the running processes and close the current profile account ready to log in as a new user.                                                                |
+ 
+ 

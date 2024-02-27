@@ -1,10 +1,10 @@
 ---
-title: FundMaster Xe User Guide
+title: How to Videos
 ---
 
-# FundMaster User Guide
+### FundMaster UI Navigation
 
-Welcome to the FundMaster Xe 'how to' tutorials! Check out our quick video tutorials below:
+This category of videos shows how to navigate various user interfaces (UI) in FundMaster Xe:
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">
@@ -33,23 +33,36 @@ export default {
       videos: [
         {
           id: 1,
-          thumbnail: "https://img.youtube.com/vi/CTnr9bLD48k/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/CTnr9bLD48k",
-          description: "Financial Adviser Explains - The New State Pension (UK)"
+          thumbnail: "https://img.youtube.com/vi/StIAaFSmr7I/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/StIAaFSmr7I",
+          description: "How to log in to FundMaster"
         },
         {
           id: 2,
-          thumbnail: "https://img.youtube.com/vi/E2RDvUiRRG8/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/E2RDvUiRRG8",
-          description: "Pensions Explained UK | Pension Basics for everyone"
+          thumbnail: "https://img.youtube.com/vi/s82gFzfPMbA/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/s82gFzfPMbA",
+          description: "How to navigate Fundmaster Landing Page interface."
         },
         {
           id: 3,
-          thumbnail: "https://img.youtube.com/vi/QsyQ5wazRno/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/QsyQ5wazRno",
-          description: "Pensions For Beginners 2023 - A Complete Guide (UK)"
+          thumbnail: "https://img.youtube.com/vi/L2UxRTHFyak/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/L2UxRTHFyak",
+          description: "How to nagivate FundMaster Xe Admin Panel interface."
+        },
+        {
+          id: 4,
+          thumbnail: "https://img.youtube.com/vi/mc-1DVWJM_4/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/mc-1DVWJM_4",
+          description: "How to create User Profiles in FundMaster."
+        },
+        {
+          id: 5,
+          thumbnail: "https://img.youtube.com/vi/WUA_HwAqufM/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/WUA_HwAqufM",
+          description: "How to Assign Permissions to user profiles in FundMaster."
         },
         // Add more videos here...
+        
       ],
       currentVideo: null
     };
@@ -97,7 +110,7 @@ export default {
 
 .video-modal-frame {
   position: relative;
-  width: 70%;
+  width: 90%;
   padding-bottom: 56.25%;
   height: 0;
 }
@@ -105,7 +118,7 @@ export default {
 .video-modal-frame iframe {
   position: absolute;
   width: 100%;
-  height: 100%;
+  height: 90%;
 }
 
 .close-modal {

@@ -1,4 +1,4 @@
-### Profiles Register
+## Profiles Register
 
 A profile denotes a group of users with specific privileges in the system. The system supports profiling of users and by default creates a **System Administrator Profile** from which other profiles are created. 
 
@@ -20,7 +20,7 @@ Clicking the **Profiles** link will open the profile’s grid table where profil
 -   Click **label 4** button to save a copy of the profile register.
   
 
-### Creating a New Profile
+## Creating a New Profile
 
 Clicking the **New Profile** tab will open a dialogue box. Through this, a new profile can be created by providing the profile name and a description as shown below:
 
