@@ -7,7 +7,7 @@ User accounts are individual accounts for system users, assigned to specific pro
 To view current system users, navigate to the '**Users Register**' menu on the left side panel and click to open the \'**Existing Users**\' window as shown below:
 
 
-<img  alt="user register" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image4.png">  
+<img  alt="user register" width="65%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image4.png">  
 
 
 This window displays a grid table listing all system users along with their specific details, as shown below:

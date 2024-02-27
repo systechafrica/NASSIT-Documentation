@@ -65,6 +65,8 @@ function getSidebar() {
             [
                 '',
                 'userManagement',
+                'notifications',
+                'systemUtility',
             ]),
             '/setupscheme/': generateSidebar(
                 '/setupscheme/',
