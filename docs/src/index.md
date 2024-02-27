@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: "/img/knowledge-base-hero.jpg"
+heroImage: "/img/nassit-hero.png"
 tagline: This documentation provided user guide information on how to run various end-to-end processes in FundMaster Xc for NASSIT pension administration.
 actionText: Get Started →
 actionLink: /introduction/

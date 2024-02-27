@@ -1,7 +1,7 @@
 const {description} = require('../../package');
 
 module.exports = {
-    logo: "/img/nassit-hero.png",
+    logo: "/img/logo/fundmaster-hero-image.png",
     title: 'FundMaster Xc',
     description: description,
     themeConfig: {
