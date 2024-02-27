@@ -73,9 +73,10 @@ function getSidebar() {
             'Admin Panel User Guide',
             [
                 '',
+                'userManagement',
                 'usersRegister',
                 'profilesRegister',
-                'profilePermissions',
+                'profilePermissionsgit ',
                 'passwordPolicySettings',
                 'notifications',
                 'sms',
