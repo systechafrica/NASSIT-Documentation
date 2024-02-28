@@ -326,7 +326,7 @@ details regarding a selected employer can be viewed as shown below:
     director can be achieved.
 
 
-### Configurations
+## Configurations
 
 The **'Configurations'** menu allows access to some of the key
 configurations that need to be set for the scheme to execute
@@ -433,7 +433,7 @@ Entitlement'*, '*Contribution Refunds'* among others as shown below:
     Refunds'* parameters.
 
 
-### Incomed Drawdown Scheme Setup
+## Incomed Drawdown Scheme Setup
 
 Clicking the **'Income Drawdown Scheme Setup'** menu, shown below, will
 open the 'Additional IDD scheme'. See the dialog box in the next image.
@@ -447,7 +447,7 @@ scheme details:
 <img  alt="Additional IDD scheme" width="70%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image36.jpg">  
 
 
-### Module Allowance Configurations
+## Module Allowance Configurations
 
 The set of configurations under the **'Module Allowance Configuration'**
 menu, shown below, determine whether a scheme is allowed access to some
@@ -761,7 +761,7 @@ where records for other service providers are listed as shown below:
 <img  alt="Enhancement Rates" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image61.png">  
 
 
-### Job Grades
+## Job Grades
 
 The **'Job Grades'** menu enables creation of job group profiles at the
 pension administration level. See screen shot below:
@@ -975,7 +975,7 @@ new scheme bank details can be captured as shown below:
 <img  alt="New Scheme Bank" width="70%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image77.png">  
 
 
-## Scheme Migration
+## Full Scheme Migration
 
 The **'Full Scheme Migration'** window gives a platform where a new
 scheme came be quickly set up by way of cloning configurations from a
