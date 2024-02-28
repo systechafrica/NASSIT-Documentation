@@ -13,4 +13,3 @@ This action will open the Admin Panel Links window as shown below:
 -   Access the section **labelled 2** and click on the menu items listed to configure related settings, including notifications and the scheduler.
 
 -   Locate the icon **labelled 3** and click to open the FundMaster AI and prompt it to user your questions.
-

@@ -1,4 +1,4 @@
-## User Management
+### User Management
 
 User accounts are individual accounts for system users, assigned to specific profiles that dictate permissions for accessing specific system functions.
 

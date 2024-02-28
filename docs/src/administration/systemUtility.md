@@ -1,4 +1,4 @@
-## System Utility 
+### System Utility 
 
 System utility feature enables configurations related to FundMaster integration with other systems. To configure specific utilities, click the menu items to open configuration dialog boxes as shown below:
 

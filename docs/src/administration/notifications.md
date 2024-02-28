@@ -1,4 +1,4 @@
-## Notifications
+### Notifications
 
 FundMaster employs an advanced notification system that facilitates communication both within the system and externally, utilizing emails, SMS, or a combination of both. This component empowers administrators to customize a notifications matrix, specifying which key system activities warrant notifications. Additionally, administrators can design email
 templates to effectively communicate with the target audience, addressing various issues like password reset alerts among other configurations. See screenshot below:
