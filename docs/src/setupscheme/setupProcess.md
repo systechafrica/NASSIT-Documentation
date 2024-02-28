@@ -5,11 +5,7 @@ Access all scheme configurations is provided for by clicking the
 which is organized into submenu categories, providing a convenient order
 of configurations. See screenshot below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image4.png){width="3.5131386701662293in"
-height="4.33194772528434in"}
-
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image4.png">  
 
 
 **Action**
@@ -30,7 +26,7 @@ looks like:
 generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image5.png){width="6.55382874015748in"
 height="2.0156692913385825in"}
 
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image5.png">  
 
 
 **Action**
