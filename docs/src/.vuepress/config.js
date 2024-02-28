@@ -42,7 +42,7 @@ function getSidebar() {
             ]),
         '/introduction/': generateSidebar(
             '',
-            'User Resourses',
+            'User Manuals',
             [
                 '/introduction/',
                 '/introduction/productsSetup',
@@ -56,7 +56,7 @@ function getSidebar() {
             ]),
         '/administration/': generateSidebar(
             '/administration/',
-            'Admin Panel User Guide',
+            'Admin Panel Module',
             [
                 '',
                 'userManagement',
@@ -65,7 +65,7 @@ function getSidebar() {
             ]),
             '/setupscheme/': generateSidebar(
                 '/setupscheme/',
-                'Schemes Setup User Guide',
+                'Schemes Setup Module',
             [
                 '',
                 'newScheme',
@@ -93,7 +93,7 @@ function getSidebar() {
             ]),
         '/members/': generateSidebar(
             '/members/',
-            'Members User Guide',
+            'Members Module',
             [
                 '',
                 'memberConfigurations',
@@ -122,7 +122,7 @@ function getSidebar() {
             ]),
         '/pensioners/': generateSidebar(
             '/pensioners/',
-            'Pensioners User Guide',
+            'Pensioners Module',
             [
                 '',
                 'onboarding',
@@ -133,7 +133,7 @@ function getSidebar() {
             ]),
         '/workflow/': generateSidebar(
             '/workflow/',
-            'Workflow User Guide',
+            'Workflow Module',
             [
                 '',
                 'adminPanel',
@@ -142,7 +142,7 @@ function getSidebar() {
             ]),
         '/reports/': generateSidebar(
             '/reports/',
-            'Reports Engine User Guide',
+            'Reports Engine Module',
             [
                   '',
                   'dashBoards',
