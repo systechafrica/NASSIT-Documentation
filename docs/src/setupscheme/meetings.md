@@ -11,7 +11,7 @@ to view a list of scheduled meetings as shown below:
 To schedule a new meeting, click the **'Add Meeting'** button to open a
 dialog box to capture the details of a new meeting:
 
-## Meetings
+## Add Meeting
 
 Click the **'Meetings'** link to open a window where all scheduled
 meetings are listed. Clicking the **'Add Meeting'** button will open a
