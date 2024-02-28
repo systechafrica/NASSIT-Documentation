@@ -1,5 +1,3 @@
-### Scheme Setup User Guide
-
 ### Introduction
 
 The Scheme Setup module implements the trust deed and rules of a scheme. These are implemented in the system through configurations such as Basic Scheme Details, Contribution Rates, Vesting Scales, Schemes Member Classes, Reasons for
