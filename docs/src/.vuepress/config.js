@@ -68,7 +68,7 @@ function getSidebar() {
                 'Schemes Setup Module',
             [
                 '',
-                'setupProcess',
+                'setupProcess'
             ]),
         '/members/': generateSidebar(
             '/members/',

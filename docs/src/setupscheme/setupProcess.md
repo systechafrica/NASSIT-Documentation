@@ -22,10 +22,6 @@ migration of a scheme among others. From this window a new scheme can
 also be created. The screenshot below shows how the scheme register
 looks like:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image5.png){width="6.55382874015748in"
-height="2.0156692913385825in"}
-
 <img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image5.png">  
 
 
@@ -62,23 +58,16 @@ actions related to schemes. These actions include tasks like capturing a
 scheme\'s bank details and initiating the scheme migration process. See
 the screenshot below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image6.png){width="5.107869641294839in"
-height="2.2125in"}
-
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="operations menu" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image6.png">  
 
 
-#### New Scheme
+### New Scheme
 
-To create a new scheme, click the \'**New Scheme\'** button to launch
+To create a new scheme, click the **'New Scheme'** button to launch
 the Scheme Details dialog box. In this dialog box, critical
 configurations can be set, as illustrated below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image7.png){width="6.375873797025372in"
-height="2.9611854768153982in"}
-
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="new scheme setup" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image7.png">  
 
 
 **Tips**
@@ -93,11 +82,8 @@ The '**Certification**' menu provides access to the buttons through
 which a newly created scheme is certified and approved before further
 configurations can be done. See screenshot below:
 
-> ![A screenshot of a computer Description automatically
-> generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image8.png){width="5.727657480314961in"
-> height="1.9747922134733158in"}
 
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="scheme certification" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image8.png">  
 
 
 **Action**
@@ -113,11 +99,7 @@ various basic registers related to schemes. These registers may include
 information such as employer details and billing addresses. See the
 screenshot below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image9.png){width="4.896976159230096in"
-height="2.699912510936133in"}
-
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="open registers" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image9.png">  
 
 
 ### Employer Management
@@ -129,9 +111,7 @@ drop-down menu, as shown in the previous screenshot, and click the
 **'Employers'** menu item. This will open the employers window where
 their details are displayed as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image10.png){width="6.649312117235346in"
-height="2.306558398950131in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="employer enrollment process" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image10.png">  
 
 
 **Action**
@@ -161,31 +141,23 @@ height="2.306558398950131in"}
 Click the '**New Employer'** link to open a form where the details of a
 new employer are captured into the system as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image11.png){width="6.4848851706036745in"
-height="3.5298632983377076in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="new employer creation" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image11.png">  
 
 
 Clicking the **'Save'** button on the employer details form upon
 completion of capturing the details will load a form for scheduling a
 meeting. Fill in the meeting information and save as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image12.png){width="6.123898731408574in"
-height="4.36529636920385in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="schedule employer meeting" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image12.png">  
 
 
-##### Onboarding Employers in Batch 
+### Onboarding Employers in Batch 
 
 Employers can also be onboarded into the system in batch form using a
 template. To initiate this process, click on the **'Import from
 Template'** menu item as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image13.png){width="6.304702537182852in"
-height="2.125180446194226in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Onboarding Employers in Batch" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
 
 
 ##### Employer Documents checklist
@@ -195,22 +167,17 @@ all documents needed for employer enrollment are listed. Clicking the
 '**New Document**' button will open a dialog box for capturing the
 details for a new document as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image14.png){width="6.598261154855643in"
-height="2.279346019247594in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New employer document" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image14.png">  
 
 
-##### Receiving Enrollment Documents
+### Receiving Enrollment Documents
 
 After a new employer has been created in the system, all the documents
 needed for registration need to be uploaded into the system. To upload
 the documents, follow the steps demonstrated in the following
 screenshot:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image15.png){width="6.575199037620298in"
-height="3.3196522309711285in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Receiving Enrollment Documents" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image15.png">  
 
 
  **Action**
@@ -230,46 +197,39 @@ height="3.3196522309711285in"}
 -   Click **label 5** button to open a dialog box through which the
     document is uploaded to the system.
 
+
 Clicking the **'Receive Documents'** button, will open a dialog box for
 through which the required document is uploaded into the system as shown
 below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image16.png){width="4.183696412948382in"
-height="2.275196850393701in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Receive Documents" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image16.png">  
 
 
-##### Details Tabs
+### Details Tabs
 
-###### Employer Change History ![A screenshot of a computer Description automatically generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image17.png){width="6.268055555555556in" height="1.5222222222222221in"}
+#### Employer Change History 
 
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
-
-
-###### Employer Documents Verification ![A screenshot of a computer Description automatically generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image18.png){width="6.268055555555556in" height="1.8555555555555556in"}
-
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Employer Change History" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image17.png">  
 
 
-###### Directors ![A screenshot of a computer Description automatically generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image19.png){width="6.268055555555556in" height="1.3138888888888889in"}
+#### Employer Documents Verification 
 
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Employer Documents Verification" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image18.png">  
+
+
+#### Directors 
+
+<img  alt="Directors" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image19.png">  
 
 
 ### Employer Exceptions
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image20.png){width="6.268055555555556in"
-height="1.5298611111111111in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Employer Exceptions" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image20.png">  
 
 
-### Schedule Employer visit
+### Schedule Employer Visit
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image21.png){width="6.662988845144357in"
-height="1.389291338582677in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Schedule Employer Visit" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image21.png">  
 
 
 ### Supervisor
@@ -279,10 +239,7 @@ details are listed. Clicking the '**New Supervisor**' from the
 '**Operations'** drop-down menu will open a dialog box for capturing the
 details for a new supervisor as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image22.png){width="6.605161854768154in"
-height="1.5052974628171478in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Supervisor" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image22.png">  
 
 
 ### Inspectors
@@ -292,9 +249,7 @@ details are listed. Clicking the **'New Inspector**' from the
 **'Operations'** drop-down menu will open a dialog box for capturing the
 details for a new Inspector as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image23.png){width="6.782199256342957in"
-height="2.641946631671041in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Inspector" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image23.png">  
 
 
 ### Cost Centers
@@ -303,10 +258,7 @@ The **'Cost Center'** window lists all the cost centers created for
 different sponsors. From this window, new cost centers can be created
 among other actions related to cost centers. See screenshot below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image24.png){width="6.619337270341207in"
-height="1.5437292213473315in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Cost Center" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image24.png">  
 
 
 #### New Cost Center
@@ -315,10 +267,7 @@ To create a new cost center, click the **'New Cost Center'** button, as
 shown on the previous illustration, to open a dialog box to capture the
 details of the cost center as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image25.png){width="5.0665288713910765in"
-height="2.859634733158355in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Cost Center" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image25.png">  
 
 
 Click the **'Lookup Sponsor'** button to select the sponsor whose cost
@@ -326,9 +275,7 @@ center is being created for. This action will open a window for
 selecting the sponsor. Click the **'Apply Selected Sponsor'** button to
 tie the sponsor to the new cost center as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image26.png){width="6.617048337707787in"
-height="1.730138888888889in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="cost center Sponsor lookup" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image26.png">  
 
 
 ### Member Classes
@@ -338,13 +285,8 @@ different categories of members under a sponsor. From this window, new
 member classes can be created among other actions related member
 classes. See screenshot below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image27.png){width="6.5092946194225725in"
-height="2.1216863517060367in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Member Classes" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image27.png">  
 
-
-#### 
 
 #### New Member Class
 
@@ -352,10 +294,7 @@ To create a new cost center, click the **'New Member Class'** button, as
 shown on the previous illustration, to open a dialog box to capture the
 details of the member class as shown below:
 
-![A screenshot of a member class Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image28.png){width="5.266485126859143in"
-height="2.2510640857392827in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Member Class" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image28.png">  
 
 
 Click the **'Lookup Sponsor'** button to select the sponsor whose member
@@ -363,9 +302,7 @@ class is being created for. This action will open a window for selecting
 the sponsor. Click the **'Apply Selected Sponsor'** button to tie the
 sponsor to the new member class created as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image26.png){width="6.6595472440944885in"
-height="1.7412510936132983in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Member Class sponsor lookup" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image26.png">  
 
 
 ### Scheme Details
@@ -374,9 +311,7 @@ Clicking the '**Show Details'** button (see previous illustration) after
 selected an employer from the list, will open a section where extra
 details regarding a selected employer can be viewed as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image29.png){width="6.63781605424322in"
-height="1.9253051181102363in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Scheme Details" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image29.png">  
 
 
 **Action**
@@ -393,10 +328,7 @@ The **'Configurations'** menu allows access to some of the key
 configurations that need to be set for the scheme to execute
 effectively. See the screenshot below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image30.png){width="6.534832677165355in"
-height="1.9251181102362205in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Configurations" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image30.png">  
 
 
 #### Scheme Configurations
@@ -407,10 +339,8 @@ to be set up. Click the 'Scheme Configurations' menu link to open the
 subsets such as '*Basic Scheme* Details', '*Members Configurations'*
 among others as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image31.png){width="6.696802274715661in"
-height="3.9345384951881015in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+
+<img  alt="Scheme Configurations" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image31.png">  
 
 
 **Action**
@@ -443,10 +373,7 @@ schemes in FundMaster when configured. Click the 'Global Configurations'
 menu link to open a configurations window and set the required
 parameters as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image32.png){width="6.312477034120735in"
-height="5.138240376202974in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Global Configurations" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image32.png">  
 
 
 #### Benefits Configurations
@@ -454,13 +381,10 @@ height="5.138240376202974in"}
 The **'Benefits Configurations'** are those that determine members
 benefits are calculated at the point of exiting a scheme. Click the
 'Benefits Configurations' menu link to open the configurations window to
-set the required parameters for different subsets such as **'*Medical
-Configurations'***, **'*Death Claim Configurations'*** among others as
-shown below:
+set the required parameters for different subsets such as **'Medical Configurations'**,
+**'*Death Claim Configurations'*** among others as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image33.jpg){width="6.502564523184602in"
-height="3.508474409448819in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Benefits Configurations" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image33.png">  
 
 
 **Action**
@@ -483,16 +407,14 @@ height="3.508474409448819in"}
 
 #### Contribution Configuration Matrix
 
-The '**Contribution** **Configuration Matrix'** is a window where
+The **'Contribution Configuration Matrix'** is a window where
 different sets of configurations related to a scheme members'
 contributions management are configured. Click the **'Contribution
 Configurations matrix'** menu link to open the configurations window to
 set the required parameters for different sets such as '*Severance Due
 Entitlement'*, '*Contribution Refunds'* among others as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image34.png){width="6.268055555555556in"
-height="3.754861111111111in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Contribution Configuration Matrix" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image34.png">  
 
 
 **Action**
@@ -515,22 +437,16 @@ height="3.754861111111111in"}
 
 ### Incomed Drawdown Scheme Setup
 
-Clicking the '**Income Drawdown Scheme Setup'** menu, shown below, will
+Clicking the **'Income Drawdown Scheme Setup'** menu, shown below, will
 open the 'Additional IDD scheme'. See the dialog box in the next image.
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image35.jpg){width="6.846527777777778in"
-height="0.63792760279965in"}
-
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Income Drawdown Scheme Setup" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image35.jpg">  
 
 
 Below is the **'Additional IDD scheme'** dialog box for configuring IDD
 scheme details:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image36.jpg){width="5.059321959755031in"
-height="3.3279133858267715in"}
-
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Additional IDD scheme" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image36.jpg">  
 
 
 ### Module Allowance Configurations
@@ -539,19 +455,13 @@ The set of configurations under the **'Module Allowance Configuration'**
 menu, shown below, determine whether a scheme is allowed access to some
 extra modules.
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image37.jpg){width="6.846796806649169in"
-height="0.5423731408573929in"}
-
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Module Allowance Configuration" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image37.jpg">  
 
 
 Clicking the **'Module Allowance Configuration'** menu will open a
 dialog box where the configurations are done as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image38.jpg){width="5.249968285214348in"
-height="3.2288134295713036in"}
-
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Module Allowance Configuration dialogue box" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image38.jpg">  
 
 
 **Districts, Regions, and Trustees Details**
@@ -560,22 +470,16 @@ To capture the details pertaining a scheme's served districts, villages,
 regions, and the scheme trustees, click the respective menu items as
 shown in the screenshot below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image39.jpg){width="6.601949912510936in"
-height="0.9830511811023622in"}
-
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Districts, Regions, and Trustees Details" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image39.jpg">  
 
 
 ### Districts
 
-The **\'Districts\'** window facilitates the input of details pertaining
+The **'Districts'** window facilitates the input of details pertaining
 to districts covered by a scheme, specifically in terms of membership.
 These details are captured as illustrated below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image40.jpg){width="6.52500656167979in"
-height="3.118643919510061in"}
-
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Districts" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image40.jpg">  
 
 
 **Action**
@@ -603,13 +507,11 @@ height="3.118643919510061in"}
 
 ### Villages
 
-The **\'Villages**\' window facilitates the input of details pertaining
+The **'Villages'** window facilitates the input of details pertaining
 to villages covered by a scheme, specifically in terms of membership.
 These details are captured as illustrated below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image41.jpg){width="6.542373140857393in"
-height="1.4764916885389325in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Villages" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image41.jpg">  
 
 
 **Action**
@@ -627,15 +529,13 @@ height="1.4764916885389325in"}
 -   Click **label 5** button to filter a village by name from the list.
 
 
-### Regions {#regions-1}
+### Regions
 
-The \'**Regions**\' window facilitates the input of details pertaining
+The **'Regions'** window facilitates the input of details pertaining
 to regions covered by a scheme, specifically in terms of membership.
 These details are captured as illustrated below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image42.png){width="6.382049431321085in"
-height="3.49873031496063in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Regions" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image42.png">  
 
 
 **Action**
@@ -654,13 +554,11 @@ height="3.49873031496063in"}
 
 ### Trustees
 
-The **\'Trustees\'** window shows the records with the scheme trustees.
+The **'Trustees'** window shows the records with the scheme trustees.
 From this window, new trustees can be added to the system. see
 screenshot below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image43.png){width="6.664505686789151in"
-height="1.9517497812773403in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Trustees" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image43.png">  
 
 
 **Action**
@@ -681,33 +579,24 @@ height="1.9517497812773403in"}
 Clicking the **'New Trustee'** button will open a dialog box for
 capturing the trustee's details as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image44.png){width="6.067355643044619in"
-height="4.26919728783902in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Trustee" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image44.png">  
 
 
 Clicking the '**Upload Document'** button will open an upload window for
 selecting the type of document to upload to the system as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image45.png){width="5.612970253718285in"
-height="1.523520341207349in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Upload Document" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image45.png">  
 
 
 After selecting the type of document to upload, click the browse button
 to give a path for uploading a document from your device as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image46.png){width="5.4271905074365705in"
-height="1.0854374453193352in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="browse to upload document" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image46.png">  
 
 
-The window below shows a list of all uploaded documents.
+The window below shows a list of all uploaded documents:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image47.png){width="5.571836176727909in"
-height="1.383008530183727in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="all uploaded documents" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image47.png">  
 
 
 ## Service Providers
@@ -717,10 +606,7 @@ capturing and managing a scheme's various service prover details. The
 screenshot below shows a drop-down menu with links to various
 configurations windows:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image48.png){width="6.667730752405949in"
-height="1.5949070428696412in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Service Providers" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image48.png">  
 
 
 ### Fund Managers
@@ -728,9 +614,7 @@ height="1.5949070428696412in"}
 The '**Fund Managers'** menu provides a window through which the details
 of contracted scheme fund managers are captured as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image49.jpg){width="6.635469160104987in"
-height="1.7673020559930008in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Fund Managers" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image49.jpg">  
 
 
 **Action**
@@ -754,9 +638,7 @@ Clicking the **'New Fund Manager'** button, as shown in the previous
 screenshot, will load a dialog box for capturing the details of a new
 Fund Manager as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image50.png){width="5.89586832895888in"
-height="4.347108486439195in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Fund Manager" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image50.png">  
 
 
 #### Pay Management Fee
@@ -765,9 +647,7 @@ Clicking the **'Pay Management Fee'** button, as shown in the previous
 screenshot, will load a dialog box for capturing the payment details as
 shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image51.jpg){width="5.788325678040245in"
-height="3.058333333333333in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Pay Management Fee" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image51.jpg">  
 
 
 ### Custodians
@@ -775,9 +655,7 @@ height="3.058333333333333in"}
 The **'Custodian'** menu provides a window through which the details of
 contracted scheme custodians are captured as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image52.jpg){width="6.561698381452318in"
-height="1.7927263779527558in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Custodian" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image52.jpg">  
 
 
 **Action**
@@ -794,9 +672,7 @@ Clicking the '**New'** button, as shown in the previous screenshot, will
 load a dialog box for capturing the details of a new custodian as shown
 below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image53.jpg){width="5.625in"
-height="4.068246937882765in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="new custodian" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image53.jpg">  
 
 
 ### External Pension Administrators
@@ -808,9 +684,7 @@ listed.
 Clicking the '**New'** button will open a dialog box for capturing the
 details of the external scheme as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image54.png){width="6.406619641294838in"
-height="2.589336176727909in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="new External Pension Administrators" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image54.png">  
 
 
 ### Legal Advisors
@@ -819,9 +693,7 @@ The '**Legal Advisors'** menu link provides access to a window through
 which the details of contracted scheme Legal Advisors are captured as
 shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image55.jpg){width="6.660670384951881in"
-height="1.7164545056867893in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Legal Advisors" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image55.jpgg">  
 
 
 **Action**
@@ -838,33 +710,27 @@ height="1.7164545056867893in"}
 
 ### Insurance/Annuity Providers
 
-The '**Insurance/Annuity Providers'** menu provides access to the
+The **'Insurance/Annuity Providers'** menu provides access to the
 **'Annuity Providers'** window where a list of providers is displayed.
 
 Click the **'New'** button to open a dialog box and capture the provider
 details as shown in the screenshot below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image56.png){width="6.366801181102362in"
-height="2.699505686789151in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="new Insurance/Annuity Providers" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image56.png">  
 
 
 ### Brokers
 
-The **'Brokers**' menu link provides access to the Brokers window where
+The **'Brokers'** menu link provides access to the Brokers window where
 records for different brokers are listed as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image57.png){width="6.541881014873141in"
-height="1.5300142169728783in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Brokers" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image57.png">  
 
 
 Click the **'New Broker'** button to open a dialog box and capture a new
 broker's details as shown in the screenshot below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image58.png){width="5.794227909011374in"
-height="3.566666666666667in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Broker" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image58.png">  
 
 
 ### Other Service Providers
@@ -872,10 +738,7 @@ height="3.566666666666667in"}
 The **'Other Services Providers'** menu provides access to a window
 where records for other service providers are listed as shown below:
 
-![Graphical user interface, text, application Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image59.jpg){width="6.585324803149606in"
-height="1.818150699912511in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Other Service Providers" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image59.jpg">  
 
 
 **Action**
@@ -892,16 +755,12 @@ height="1.818150699912511in"}
 
 ## Enhancement Rates, Job Grades, Investments Options
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image60.png){width="6.901988188976378in"
-height="0.6836220472440945in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Enhancement Rates, Job Grades, Investments Options" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image60.png">  
 
 
 ### Enhancement Rates
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image61.png){width="6.610398075240595in"
-height="3.32497375328084in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Enhancement Rates" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image61.png">  
 
 
 ### Job Grades
@@ -909,10 +768,7 @@ height="3.32497375328084in"}
 The **'Job Grades'** menu enables creation of job group profiles at the
 pension administration level. See screen shot below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image62.png){width="6.6131441382327205in"
-height="1.9306047681539809in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Job Grades" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image62.png">  
 
 
 **Action**
@@ -923,20 +779,16 @@ height="1.9306047681539809in"}
 
 -   Click **label 3** button to delete a selected job grade.
 
+
 Clicking the **'New Job Grade'** button will open job grade dialog box
 allowing the capturing of the title of a new job grade as shown below:
 
-![A blue and white box with white text Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image63.png){width="5.425470253718285in"
-height="1.2417738407699037in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Job Grad" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image63.png">  
 
 
 ### Investments Options
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image64.png){width="6.37792104111986in"
-height="1.915637576552931in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Investments Options" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image64.png">  
 
 
 ## Member Class Specific Info
@@ -945,9 +797,7 @@ The configurations under '**Member Class Specific Info**' inform how a
 member of a particular class in a scheme is treated apart from a member
 from another class under the same employer. See screenshot below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image65.png){width="6.5892432195975505in"
-height="1.1658562992125985in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Member Class Specific Info" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image65.png">  
 
 
 ### Contribution Age Bands
@@ -956,9 +806,7 @@ To set contribution Age, click the **'Contribution Age Bands'** link and
 then click the '**New Contribution Age Band'** button to add a new Age
 band as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image66.png){width="6.4435958005249345in"
-height="1.6248195538057744in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Contribution Age Band" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image66.png">  
 
 
 **Action**
@@ -981,9 +829,7 @@ Click the **'New Contribution Age Band'** button labelled 1, to load a
 **Contribution Age Band** **Details** dialog box through which a new age
 band can be configured as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image67.png){width="6.268055555555556in"
-height="2.047222222222222in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Contribution Age Band" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image67.png">  
 
 
 ### Contribution Rates
@@ -992,10 +838,7 @@ To set contribution rates, click the **'Contribution Rates'** link and
 then click the **'New Contribution Rates'** button to add a new rate as
 shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image68.png){width="6.268055555555556in"
-height="1.2277777777777779in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Contribution Rates" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image68.png">  
 
 
 **Action**
@@ -1028,10 +871,7 @@ Click the **'New Contribution Rates'** button labelled 1, to load a
 Contribution Rates Details dialog box through which a new Rate can be
 configured as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image69.png){width="5.493497375328084in"
-height="4.1841283902012245in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Contribution Rates'" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image69.png">  
 
 
 ### Retirement Ages
@@ -1042,8 +882,7 @@ retiree under each category during benefits processing. The following
 screenshot shows a window displaying the already configured retirement
 ages:
 
-#### ![](vertopal_cff63856cc34443e873aeafb942f792a/media/image70.png){width="6.531678696412948in" height="1.7338692038495187in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Retirement Ages" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image70.png">  
 
 
 **Action**
@@ -1064,9 +903,7 @@ ages:
 Click the **'New Retirement Age'** button to open a dialog box. Fill in
 the details to create a new retirement age as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image71.png){width="4.252706692913386in"
-height="5.297918853893264in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Retirement Age" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image71.png">  
 
 
 ### Eligible Ages
@@ -1074,9 +911,7 @@ height="5.297918853893264in"}
 Eligibility age is a configuration set to determine who can be allowed
 in a member class in terms of age limits as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image72.png){width="6.49044072615923in"
-height="2.261514654418198in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Eligible Ages" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image72.png">  
 
 
 **Action**
@@ -1093,17 +928,12 @@ height="2.261514654418198in"}
 Click the **'New Eligible Age'** button to open a dialog box. Fill in
 the details to create a new eligible age as shown below:
 
-![A blue and white form Description automatically generated with medium
-confidence](vertopal_cff63856cc34443e873aeafb942f792a/media/image73.png){width="6.268055555555556in"
-height="2.027083333333333in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Eligible Age" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image73.png">  
 
 
 ## Asset Codes
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image74.png){width="6.268055555555556in"
-height="1.96875in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Asset Codes" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image74.png">  
 
 
 ## Risk Assessment
@@ -1119,9 +949,7 @@ where a list of all risk related questions is displayed in a grid table.
 Click the **'New Question'** button to load a dialog box for typing in a
 new question as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image75.png){width="6.548461286089239in"
-height="2.7714041994750658in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Question" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image75.png">  
 
 
 ## Bankers
@@ -1129,9 +957,7 @@ height="2.7714041994750658in"}
 To set the scheme's bank details, click the **'Bankers'** link to open a
 window listing banker's account records as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image76.png){width="6.68295384951881in"
-height="1.7540343394575677in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Bankers" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image76.png">  
 
 
 **Action**
@@ -1148,9 +974,7 @@ height="1.7540343394575677in"}
 Then click the **'New Scheme Bank'** button to open a dialog box where a
 new scheme bank details can be captured as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image77.png){width="5.250454943132109in"
-height="3.3752919947506563in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Scheme Bank" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image77.png">  
 
 
 ## Scheme Migration
@@ -1161,18 +985,13 @@ scheme that is already operational in the system. Click the **'Full
 Scheme Migration'** menu to open the migration setup window. See
 screenshot below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image78.png){width="6.268055555555556in"
-height="0.5152777777777777in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Full Scheme Migration" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image78.png">  
 
 
 Clicking the **'Full Scheme Migration'** link will open the Full Scheme
 Migration window as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image79.png){width="6.445473534558181in"
-height="1.5753062117235346in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Full Scheme Migration process" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image79.png">  
 
 
 **Action**
@@ -1200,9 +1019,7 @@ follow the steps below:
 Check all the configurations and data set that need to be migrated as
 shown in the screenshot below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image80.png){width="6.599536307961505in"
-height="4.0660345581802275in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt=" Migration step 1" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image80.png">  
 
 
 **Step 2:**
@@ -1211,9 +1028,7 @@ The illustration below shows how to select the scheme that inherits the
 selected configurations as shown I the preceding step. Follow the
 **'Actions'** shown below the screenshot:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image81.png){width="6.10200021872266in"
-height="4.361855861767279in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Migration step 2" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image81.png">  
 
 
 **Action**
@@ -1227,6 +1042,7 @@ height="4.361855861767279in"}
 
 -   Click **label 4** text box exit the window.
 
+
 ## Other Setup
 
 Configurations under **'Other Setup'** menu enable formulation of
@@ -1234,10 +1050,7 @@ interests, penalties, setting up pay points, actuarial valuations, among
 others. The screenshot below shows a drop-down menu where various links
 are located:
 
-![A screenshot of a computer screen Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image82.png){width="2.6263363954505685in"
-height="4.605697725284339in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Other Setup" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image82.png">  
 
 
 ### Pay Points
@@ -1246,10 +1059,7 @@ Click the **'Pay Points'** link to open a Pay Points window and then
 click the **'New Pay Point**' button to capture details for a new pay
 point as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image83.png){width="6.1793318022747155in"
-height="2.9903543307086613in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Pay Point" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image83.png">  
 
 
 ### Pay Point Branches
@@ -1258,9 +1068,7 @@ Click the **'Pay Points Branches'** link to open a pay point branches
 window and then click the **'Pay Point Branch'** button to capture
 details for a new pay point branch as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image84.png){width="6.499923447069117in"
-height="2.8121216097987753in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Pay Point Branc" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image84.png">  
 
 
 ### Straight to Bank 
@@ -1269,31 +1077,22 @@ Click the '**Straight to Bank Purpose of Payments'** link to open a
 dialog box for capturing the purpose of a straight to bank type of
 payment. See the screenshot below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image85.png){width="6.51536198600175in"
-height="2.4910826771653545in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Straight to Bank " width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image85.png">  
 
 
-### Reasons for Exit {#reasons-for-exit-1}
+### Reasons for Exit
 
 Click the **'Reasons for Exit'** link to open the Reasons for Exit
 window where a grid table displays the various reasons for exit
 configurations. See the screenshot below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image86.png){width="6.7491808836395455in"
-height="1.8753532370953632in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Reasons for Exit" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image86.png">  
 
 
 Click the **'New Reason for Exit'** button to open a dialog box through
 which a new exit reason is configured as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image87.png){width="6.143732502187227in"
-height="4.2970734908136485in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Reason for Exit" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image87.png">  
 
 
 ### Interest Rates
@@ -1302,18 +1101,14 @@ Click the '**Interest Rates'** menu item to open the Interest Rates
 window to view the details of rates already configured in the scheme as
 shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image88.png){width="6.555050306211723in"
-height="1.779229002624672in"}
+<img  alt="Interest Rates" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image88.png">  
+
 
 Click the '**New Interest Rate'** link from the '**Operations'**
 drop-down menu as shown in the previous screenshot to open a dialog box
 through which a new interest rate can be defined as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image89.png){width="4.816986001749782in"
-height="4.292280183727034in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Interest Rate" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image89.png">  
 
 
 ### Interest Formula
@@ -1322,41 +1117,27 @@ Click the **'Interest Formula'** link to open the interest formula
 window, then click the **'New Formular'** button to create a formula as
 shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image90.png){width="6.268055555555556in"
-height="2.54375in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Formular" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image90.png">  
 
 
 ### Unvested Benefits configs
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image91.png){width="6.268055555555556in"
-height="3.060416666666667in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Unvested Benefits configs" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image91.png">  
 
 
 ### Actuarial valuation
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image92.png){width="6.268055555555556in"
-height="2.9875in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Actuarial valuation" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image92.png">  
 
 
 ### Audit History
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image93.png){width="6.268055555555556in"
-height="3.5388888888888888in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Audit History" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image93.png">  
 
 
 ### Bonas Rates
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image94.png){width="6.268055555555556in"
-height="2.7534722222222223in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Bonas Rates" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image94.png">  
 
 
 ### End of Year Parameters
@@ -1370,40 +1151,36 @@ Click the **End Year Parameters** link to open the Year-End Parameters
 Details dialog box and configure the details as shown in the sample
 screenshot below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image95.png){width="6.243733595800525in"
-height="3.467503280839895in"}\#
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="End Year Parameters" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image95.png">  
 
 
 **Parameter description**
 
 -   **Select option on withdrawal benefit calculation before the
-    > year-end:** on the drop-down menu select provisional rate of
-    > interest, lock benefits in the scheme year-end, or refund
-    > principal (opening balances + Contributions)
+    year-end:** on the drop-down menu select provisional rate of
+    interest, lock benefits in the scheme year-end, or refund
+    principal (opening balances + Contributions)
 
 -   **Show withdrawals within the year under the member balances
-    > schedule at year-end?** Specify whether to show withdrawals within
-    > the year under the member balances end-of-year schedule.
+    schedule at year-end?** Specify whether to show withdrawals within
+    the year under the member balances end-of-year schedule.
 
 -   **Who bears the tax on income from the unregistered funds?** Specify
-    > who bears the taxation on the unregistered fund's portion, the
-    > scheme, or individual members.
+    who bears the taxation on the unregistered fund's portion, the
+    scheme, or individual members.
 
 -   **Auto calculates administration fees on withdrawals?** Specify
-    > whether the administration fees must be auto calculated for the
-    > administration services.
+    whether the administration fees must be auto calculated for the
+    administration services.
 
 -   **Treat tax from the unregistered scheme as an expense?** Specify
-    > whether the tax on the unregistered portion must be treated as an
-    > expense.
+    whether the tax on the unregistered portion must be treated as an
+    expense.
 
 **Notification Setup**
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image96.png){width="6.268055555555556in"
-height="3.1569444444444446in"}
+<img  alt="Notification Setup" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image96.png">  
+
 
 ### Pension Setup Parameters {#pension-setup-parameters-1}
 
@@ -1411,9 +1188,7 @@ Click the **'Pension Setup Parameters'** link to open the Pension Setup
 Parameters dialog window and set the configurations as shown in the
 screenshot below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image97.png){width="6.521537620297463in"
-height="3.7033038057742784in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Pension Setup Parameters" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image97.png">  
 
 
 ### Pension Calculation Parameters
@@ -1421,10 +1196,7 @@ height="3.7033038057742784in"}
 Click the **Pension Calculation Parameters** link to open a dialog
 window and set the configurations as shown in the screenshot below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image98.png){width="6.3626410761154855in"
-height="3.4085575240594927in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Pension Calculation Parameters" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image98.png">  
 
 
 ### Other Pension Parameters
@@ -1433,9 +1205,7 @@ Click the **'Other Pension Parameters'** link to open a dialog window
 and set the configurations for Lumpsum Tax-Free and other related items
 as shown in the screenshot below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image99.png){width="6.428215223097113in"
-height="3.673264435695538in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Other Pension Parameters" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image99.png">  
 
 
 **Action**
@@ -1465,10 +1235,7 @@ Click the '**Take Notes'** link to open the Notes window. From this
 window locate and then click the **'New'** button to load a new dialog
 box and type new notes as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image100.png){width="6.709805336832896in"
-height="2.26455927384077in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Take Notes" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image100.png">  
 
 
 ## Actuarial Factors
@@ -1478,10 +1245,7 @@ Actuarial Factors that are used in DB and DC lump sum calculations.
 Click on the links under the drop-down menu to set different actuarial
 rates and factors as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image101.png){width="6.268055555555556in"
-height="1.5444444444444445in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Actuarial Factors" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image101.png">  
 
 
 ### Fixed Factors
@@ -1493,9 +1257,7 @@ gender type.
 Click the **'Fixed Factors'** link to open the fixed factors window to
 view a list of set factors and to create new factors as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image102.png){width="6.733086176727909in"
-height="1.9812849956255467in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Fixed Factors" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image102.png">  
 
 
 **Action**
@@ -1514,10 +1276,7 @@ height="1.9812849956255467in"}
 Click the **'New Factor'** button to open a dialog box to add a new fixe
 factor as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image103.png){width="5.450472440944882in"
-height="2.483548775153106in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Factor" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image103.png">  
 
 
 ### Annuity Rates
@@ -1527,9 +1286,7 @@ help of internal or external actuaries to aid in the calculation of
 annuities' purchase prices. Click the **'Annuity Rates'** link to open
 the Annuity Rates dialog box to set a new rate as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image104.png){width="6.325in"
-height="3.981680883639545in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Annuity Rates" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image104.png">  
 
 
 **Action**
@@ -1554,21 +1311,17 @@ height="3.981680883639545in"}
 This dialog form enables the setting of key formulas in defined benefits
 schemes:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image105.png){width="6.268055555555556in"
-height="4.4125in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Defined Benefits Formulas" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image105.png">  
 
 
-## Statutory {#statutory-1}
+## Statutory
 
 The **'Statutory'** configurations are tax rates that affect the
 retirement benefits processes as defined by a regime's commissioner of
 tax. The screenshot below shows a drop-down menu with links through
 which different setups are done:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image106.png){width="3.285997375328084in"
-height="3.7054877515310585in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Statutory" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image106.png">  
 
 
 ### Continents
@@ -1576,10 +1329,7 @@ height="3.7054877515310585in"}
 Click the **'Continents'** link to open the continents window, then
 click the **'New Continent'** button to add a continent as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image107.png){width="6.7065168416447944in"
-height="2.139902668416448in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Continents" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image107.png">  
 
 
 ### Continent Regions
@@ -1588,10 +1338,7 @@ Click the **'Continent Regions'** link to open the continents regions
 window, then click the '**New Continent Region'** button to add a region
 as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image108.png){width="6.488280839895013in"
-height="2.305330271216098in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Continent Region" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image108.png">  
 
 
 ### Administrative Levels
@@ -1600,39 +1347,28 @@ Click the **'Administrative Levels'** link to open the administrative
 levels window to view different administrative level records as shown
 below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image109.png){width="6.486882108486439in"
-height="2.1107884951881015in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Administrative Levels" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image109.png">  
 
 
 Click the **'Add Single Administrative Level'** button to add an
 administrative level shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image110.png){width="5.24669072615923in"
-height="1.7374650043744533in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Add Single Administrative Level" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image110.png">  
 
 
 ### Economic Activities
 
-Click the '**Economic Activities'** link to open the economic activities
+Click the **'Economic Activities'** link to open the economic activities
 window to view different economic activities as captured in the system.
 see screenshot below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image111.png){width="6.669569116360455in"
-height="2.0084076990376203in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Economic Activities" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image111.png">  
 
 
 Click **'New Economic Activity'** button to open a dialog box and
 capture a new economic activity as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image112.png){width="6.268055555555556in"
-height="1.4986111111111111in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Economic Activity" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image112.png">  
 
 
 ### Administrative Offices
@@ -1640,19 +1376,13 @@ height="1.4986111111111111in"}
 Click the '**Administrative Offices'** link to open the offices window
 to view different office records as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image113.png){width="6.614700349956255in"
-height="2.2725656167979005in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Administrative Offices" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image113.png">  
 
 
 Click '**New Office'** button to open a dialog box and capture the
 details of a new office as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image114.png){width="5.305884733158355in"
-height="1.576010498687664in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="New Office" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image114.png">  
 
 
 ### Tax Regimes
@@ -1661,33 +1391,25 @@ Click the **'Tax Regimes (Counties)'** link to open the tax regimes
 window, then click the '**New Regime'** button to add a new regime as
 shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image115.png){width="6.59028324584427in"
-height="2.429920166229221in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Tax Regimes (Counties)'" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image115.png">  
 
 
 ### Currencies 
 
 Click the **'Currencies'** link to open the currencies window, then
-click the '**Add Currency'** button to add a new currency as shown
+click the **'Add Currency'** button to add a new currency as shown
 below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image116.png){width="6.5726465441819775in"
-height="2.0629636920384953in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Currencies" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image116.png">  
 
 
 ### Exchange Rates
 
-Click the '**Exchange Rates'** link to open the Exchange Rates window,
-then click the '**New Exchange Rate'** button to add a new exchange rate
+Click the **'Exchange Rates'** link to open the Exchange Rates window,
+then click the **'New Exchange Rate'** button to add a new exchange rate
 configuration as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image117.png){width="6.465321522309711in"
-height="2.043503937007874in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Exchange Rates" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image117.png">  
 
 
 ### Income Tax Rate
@@ -1696,9 +1418,7 @@ Click the **'Income Tax Rates'** link to open the Income Tax Rates
 window, then click the **'New Tax Rate'** button to define a new tax
 rate as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image118.png){width="6.5496292650918635in"
-height="2.2291666666666665in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Income Tax Rates" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image118.png">  
 
 
 ### Benefits Tax Rates
@@ -1708,9 +1428,7 @@ then click the '**New Tax Header'** button and the '**New Tax Band'**
 button to configure the tax header and band respectively as shown in the
 following screenshot:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image119.png){width="6.563150699912511in"
-height="3.21125656167979in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Benefits Tax Rates" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image119.png">  
 
 
 **Tip**
@@ -1725,9 +1443,7 @@ tax free amount and personal relief amount. Selecting a new tax band to
 open a dialog box at the lower side of the window to aid in adding the
 pension tax bands as shown below:
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image120.png){width="6.619923447069116in"
-height="3.5936712598425196in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Pension Tax Rates" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image120.png">  
 
 
 ## Meetings
@@ -1735,10 +1451,7 @@ height="3.5936712598425196in"}
 Click the **'Meetings'** menu item to open the meetings schedule window
 to view a list of scheduled meetings as shown below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image121.png){width="6.838140857392826in"
-height="2.1750831146106737in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Meetings" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image121.png">  
 
 
 To schedule a new meeting, click the **'Add Meeting'** button to open a
@@ -1746,24 +1459,20 @@ dialog box to capture the details of a new meeting:
 
 ### Meetings
 
-Click the '**Meetings'** link to open a window where all scheduled
-meetings are listed. Clicking the '**Add Meeting**' button will open a
+Click the **'Meetings'** link to open a window where all scheduled
+meetings are listed. Clicking the **'Add Meeting'** button will open a
 dialog box for capturing the details for a new meeting schedule. See
 screenshot below:
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
 
-![](vertopal_cff63856cc34443e873aeafb942f792a/media/image122.png){width="6.49086176727909in"
-height="2.670126859142607in"}
+<img  alt="Add Meeting" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image122.png">  
+
 
 ### Notice Board
 
-Click the '**Notice Board'** link to open a window where all items on
-the notice board are itemized. Clicking the '**Add Item**' button will
+Click the **'Notice Board'** link to open a window where all items on
+the notice board are itemized. Clicking the **'Add Item'** button will
 open a dialog box for capturing the details of a new item. See
 screenshot below:
 
-![A screenshot of a computer Description automatically
-generated](vertopal_cff63856cc34443e873aeafb942f792a/media/image123.png){width="6.430871609798775in"
-height="3.2510597112860893in"}
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="'Notice Board'" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image123.png">  
 
