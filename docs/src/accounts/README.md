@@ -1,4 +1,4 @@
-### Introduction
+### Introduction to Accounts and Transactions
 
 The accounting module enables configurations for seamless integration of the accounting package, with capabilities to handle straight-through processing for Receipting and Payments from all the other modules. For example, all contribution receipts and benefit payments are seamlessly posted to General Ledger, and financials are prepared in real-time.
 

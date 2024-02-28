@@ -1,4 +1,4 @@
-### Introduction
+### Introduction to System Adninistration
 
 The administrative panel facilitates the creation and management of system User Profiles and User Accounts. The system administrator is responsible for enabling system Rights and Permissions for specific User Profiles. To access the Administrative Panel, first navigate to the landing page and click on the **\'Administrative Panel\'** hot link.
 This action will open the Admin Panel Links window as shown below:

@@ -1,4 +1,4 @@
-### Introduction
+### Introduction to Members Management
 
 The Members Module enables the registration of members (contributors)into a scheme. The members are connected to their respective sponsors (employers) through Cost Centers. This association makes the management of different sponsors, members’ contributions, and other operations possible. Additionally, the module allows viewing of existing members, onboarding members, uploading members’ contributions, and running claim processes. 
 

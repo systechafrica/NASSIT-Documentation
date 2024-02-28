@@ -1,4 +1,4 @@
-### Introduction
+### Introduction to FundMaster User Interface
 
 To access FundMaster on your device, launch your preferred internet browser and input the web Internet Protocol address provided by your system administrator as shown below:
 
