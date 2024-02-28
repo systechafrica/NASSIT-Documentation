@@ -1,8 +1,9 @@
 ### Scheme Setup Module
+
 The Scheme Setup module implements the trust deed and rules of a scheme. These are implemented in the system through configurations such as Basic Scheme Details, Contribution Rates, Vesting Scales, Schemes Member Classes, Reasons for
 Exit, Interest Formula, Interest Rates, Benefits Configuration Matrix, End Year Parameters, Pension Setup Parameters, etc.
 
-To access the Scheme Setup dashboard, click the **Scheme Setup** link on the FundMaster landing page to open the **Setup Links** Window as shown below:
+To access the Scheme Setup dashboard, click the **'Scheme Setup'** link on the FundMaster landing page to open the **'Setup Links'** Window as shown below:
 
 <img  alt="scheme setup dashboard image" width="97%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM44.jpg">  
 
@@ -21,7 +22,7 @@ To access the Scheme Setup dashboard, click the **Scheme Setup** link on the Fun
 
 ### Scheme Configurations Panel
 
-Access more Scheme configuration links from the left side panel of the **Setup Links** Window.
+Access more Scheme configuration links from the left side panel of the **'Setup Links'** Window.
 
 
 **Tip**

@@ -1,6 +1,4 @@
-### Workflow User Guide
-
-#### Introduction
+### Workflow Module
 
 This workflow management module enables a work distribution system that automates all core processes such as claims, payroll processing, contribution, and member registration. By assigning tasks to different users, the module allows for step-by-step execution of tasks. One can map workflow processes, assign profile timelines, assign tasks, analyze complete, overdue, and pending tasks, view task instances and assign them to individuals, among other operations.
 
