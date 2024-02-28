@@ -1,6 +1,6 @@
 
 
-## Actuarial Factors
+### Actuarial Factors
 
 The **'Actuarial Factors'** set of configurations aids in setting up
 Actuarial Factors that are used in DB and DC lump sum calculations.
@@ -10,7 +10,7 @@ rates and factors as shown below:
 <img  alt="Actuarial Factors" width="80%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image101.png">  
 
 
-### Fixed Factors
+## Fixed Factors
 
 The **'Fixed Factors'** are provided by the scheme actuaries and aid in
 the calculation of member benefits based on the retirement age and the
@@ -63,11 +63,11 @@ the Annuity Rates dialog box to set a new rate as shown below:
     a template.
 
 
-### Spouse Annuity Rates
+## Spouse Annuity Rates
 
-### Trivial Factors
+## Trivial Factors
 
-### Defined Benefits Formulas
+## Defined Benefits Formulas
 
 This dialog form enables the setting of key formulas in defined benefits
 schemes:
