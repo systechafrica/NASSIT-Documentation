@@ -1,37 +1,20 @@
-### Scheme Setup
+### Scheme Setup Module
 
-The Scheme Setup module implements the trust deed and rules of a scheme. These are implemented in the system through configurations such as Basic Scheme Details, Contribution Rates, Vesting Scales, Schemes Member Classes, Reasons for
-Exit, Interest Formula, Interest Rates, Benefits Configuration Matrix, End Year Parameters, Pension Setup Parameters, etc.
+The scheme setup module implements the trust deed and rules of a scheme. These rules are implemented in the system through configurations such as Basic Scheme Details, Contribution Rates, Benefits Configuration Matrix etc.
 
-To access the Scheme Setup dashboard, click the **'Scheme Setup'** link on the FundMaster landing page to open the **'Setup Links'** Window as shown below:
+To access the Scheme Setup dashboard, click the '**Scheme Setup'** link on the landing page to open the '**Setup Links'** Window. Below is a screenshot of the Scheme Setup dashboard:
 
-<img  alt="scheme setup dashboard image" width="97%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM44.jpg">  
-
-
-**Action**
-
--   Click the hot links under the section **labelled** 1 to access shortcut routes to commonly visited links in the scheme setup module.
-
--   Click the menu items listed on the left side panel in section **labelled 2** to configure other Scheme related settings such as Scheme Approval.
-  
-
-**Tip**
-
-- All the links under **label 1** can still be accessed on the left side panel although some are tacked under sub-menus.
-
-
-### Scheme Configurations Panel
-
-Access more Scheme configuration links from the left side panel of the **'Setup Links'** Window.
-
-
-**Tip**
-
-- links are arranged into categories making the order of configurations convenient. See screenshot below:
-
-<img  alt="scheme configuration panel image" width="55%" height="auto"  class="center"  src="../.vuepress/public/img/media2/scheme69.jpg">  
+<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
 
 
 **Action**
 
--	Click a link under the left side panel to open a dialog box through which a specific scheme setting can be configured.
+-   Click on the hot links under the section **'labeled 1'** to access shortcut routes to commonly visited links in the scheme setup module.
+
+-   Click on the menu items listed on the left side pane in the section **'labeled 2'** to configure all Scheme Setup-related settings.
+
+-   Click on the button **'labeled 3'** to access the system's Intelligent Assistant (IA) chatbot.
+
+**Tip**
+
+All the links under **'label 1'** can still be accessed on the left side pane although some are tacked under sub-menus.
