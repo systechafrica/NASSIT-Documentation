@@ -136,7 +136,7 @@ their details are displayed as shown below:
     details for a selected employer.
 
 
-##### Onboarding a Single Employer 
+### Onboarding a Single Employer 
 
 Click the **'New Employer'** link to open a form where the details of a
 new employer are captured into the system as shown below:
@@ -160,7 +160,7 @@ Template'** menu item as shown below:
 <img  alt="Onboarding Employers in Batch" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
 
 
-##### Employer Documents checklist
+### Employer Documents checklist
 
 Click the **'Employer Documents checklist'** link to open a window where
 all documents needed for employer enrollment are listed. Clicking the
@@ -331,7 +331,7 @@ effectively. See the screenshot below:
 <img  alt="Configurations" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image30.png">  
 
 
-#### Scheme Configurations
+### Scheme Configurations
 
 The **'Scheme Configurations'** are those that determine how a scheme is
 to be set up. Click the 'Scheme Configurations' menu link to open the
@@ -370,7 +370,7 @@ parameters as shown below:
 <img  alt="Global Configurations" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image32.png">  
 
 
-#### Benefits Configurations
+### Benefits Configurations
 
 The **'Benefits Configurations'** are those that determine members
 benefits are calculated at the point of exiting a scheme. Click the
@@ -399,7 +399,7 @@ set the required parameters for different subsets such as **'Medical Configurati
     Computation Configurations* parameters.
 
 
-#### Contribution Configuration Matrix
+### Contribution Configuration Matrix
 
 The **'Contribution Configuration Matrix'** is a window where
 different sets of configurations related to a scheme members'
@@ -626,7 +626,7 @@ of contracted scheme fund managers are captured as shown below:
 -   Click **label 5** to view management fee details.
 
 
-#### New Fund Manager
+### New Fund Manager
 
 Clicking the **'New Fund Manager'** button, as shown in the previous
 screenshot, will load a dialog box for capturing the details of a new
@@ -635,7 +635,7 @@ Fund Manager as shown below:
 <img  alt="New Fund Manager" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image50.png">  
 
 
-#### Pay Management Fee
+### Pay Management Fee
 
 Clicking the **'Pay Management Fee'** button, as shown in the previous
 screenshot, will load a dialog box for capturing the payment details as
@@ -817,7 +817,7 @@ band as shown below:
     Contribution age Band details.
 
 
-#### New Contribution Age Band
+### New Contribution Age Band
 
 Click the **'New Contribution Age Band'** button labelled 1, to load a
 **Contribution Age Band** **Details** dialog box through which a new age
@@ -859,7 +859,7 @@ shown below:
     Rates details.
 
 
-#### New Contribution Rates
+### New Contribution Rates
 
 Click the **'New Contribution Rates'** button labelled 1, to load a
 Contribution Rates Details dialog box through which a new Rate can be
@@ -892,7 +892,7 @@ ages:
     selected record.
 
 
-#### New Retirement Age
+### New Retirement Age
 
 Click the **'New Retirement Age'** button to open a dialog box. Fill in
 the details to create a new retirement age as shown below:
@@ -1003,7 +1003,7 @@ Migration window as shown below:
     action such as certifying a scheme migration process.
 
 
-#### New Migration
+### New Migration
 
 To migrate configurations and other data sets from the current scheme,
 follow the steps below:
@@ -1469,5 +1469,4 @@ the notice board are itemized. Clicking the **'Add Item'** button will
 open a dialog box for capturing the details of a new item. See
 screenshot below:
 
-<img  alt="'Notice Board'" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image123.png">  
-
+<img  alt="'Notice Board'" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image123.png"> 
