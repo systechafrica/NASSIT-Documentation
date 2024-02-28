@@ -2,7 +2,7 @@ const {description} = require('../../package');
 
 module.exports = {
     logo: "/img/logo/fundmaster-hero-image.png",
-    title: 'FundMaster Xc - NASSIT',
+    title: 'FundMaster Xc',
     description: description,
     themeConfig: {
         logo: "/img/logo/fundmaster-hero-image.png",
@@ -63,12 +63,12 @@ function getSidebar() {
                 'notifications',
                 'systemUtility',
             ]),
-            '/setupscheme/': generateSidebar(
-                '/setupscheme/',
-                'Schemes Setup Module',
+        '/setupscheme/': generateSidebar(
+            '/setupscheme/',
+            'Schemes Setup Module',
             [
                 '',
-                'setupProcess'
+                'setupProcess',
             ]),
         '/members/': generateSidebar(
             '/members/',

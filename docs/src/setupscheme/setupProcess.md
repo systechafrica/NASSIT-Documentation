@@ -1,7 +1,7 @@
-**Scheme Setup Process**
+## Scheme Setup Process
 
 Access all scheme configurations is provided for by clicking the
-'**Scheme**' menu on the left side pane. This will open a dropdown menu
+**'Scheme'** menu on the left side pane. This will open a dropdown menu
 which is organized into submenu categories, providing a convenient order
 of configurations. See screenshot below:
 
@@ -15,7 +15,7 @@ of configurations. See screenshot below:
 
 ### Scheme Register
 
-The '**Schemes Register'** lists all the schemes created in the system.
+The **'Schemes Register'** lists all the schemes created in the system.
 From the scheme window, several actions can be taken on selected schemes
 such as cloning of a scheme's configuration, certification, and
 migration of a scheme among others. From this window a new scheme can
@@ -55,7 +55,7 @@ looks like:
 
 The '**Operations**' menu provides links to open windows for various
 actions related to schemes. These actions include tasks like capturing a
-scheme\'s bank details and initiating the scheme migration process. See
+scheme's bank details and initiating the scheme migration process. See
 the screenshot below:
 
 <img  alt="operations menu" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image6.png">  
@@ -89,12 +89,12 @@ configurations can be done. See screenshot below:
 **Action**
 
 -   To Certify or Approve a scheme, select it from the scheme register
-    grid table. From the 'Certification' drop-down menu, select
-    'Certify' or 'Approve' menu links and click.
+    grid table. From the **'Certification'** drop-down menu, select
+    **'Certify'** or **'Approve'** menu links and click.
 
 ### Open Registers
 
-The '**Open Register**' menu offers links to open windows displaying
+The **'Open Register'** menu offers links to open windows displaying
 various basic registers related to schemes. These registers may include
 information such as employer details and billing addresses. See the
 screenshot below:
@@ -138,7 +138,7 @@ their details are displayed as shown below:
 
 ##### Onboarding a Single Employer 
 
-Click the '**New Employer'** link to open a form where the details of a
+Click the **'New Employer'** link to open a form where the details of a
 new employer are captured into the system as shown below:
 
 <img  alt="new employer creation" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image11.png">  
@@ -162,7 +162,7 @@ Template'** menu item as shown below:
 
 ##### Employer Documents checklist
 
-Click the '**Employer Documents checklist'** link to open a window where
+Click the **'Employer Documents checklist'** link to open a window where
 all documents needed for employer enrollment are listed. Clicking the
 '**New Document**' button will open a dialog box for capturing the
 details for a new document as shown below:
@@ -207,17 +207,17 @@ below:
 
 ### Details Tabs
 
-#### Employer Change History 
+### Employer Change History 
 
 <img  alt="Employer Change History" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image17.png">  
 
 
-#### Employer Documents Verification 
+### Employer Documents Verification 
 
 <img  alt="Employer Documents Verification" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image18.png">  
 
 
-#### Directors 
+### Directors 
 
 <img  alt="Directors" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image19.png">  
 
@@ -234,9 +234,9 @@ below:
 
 ### Supervisor
 
-Click the '**Supervisors** link to open a window where all supervisors
-details are listed. Clicking the '**New Supervisor**' from the
-'**Operations'** drop-down menu will open a dialog box for capturing the
+Click the **'Supervisors'** link to open a window where all supervisors
+details are listed. Clicking the **'New Supervisor'** from the
+**'Operations'** drop-down menu will open a dialog box for capturing the
 details for a new supervisor as shown below:
 
 <img  alt="New Supervisor" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image22.png">  
@@ -245,7 +245,7 @@ details for a new supervisor as shown below:
 ### Inspectors
 
 Click the **'Inspectors'** link to open a window where all Inspectors
-details are listed. Clicking the **'New Inspector**' from the
+details are listed. Clicking the **'New Inspector'** from the
 **'Operations'** drop-down menu will open a dialog box for capturing the
 details for a new Inspector as shown below:
 
@@ -307,7 +307,7 @@ sponsor to the new member class created as shown below:
 
 ### Scheme Details
 
-Clicking the '**Show Details'** button (see previous illustration) after
+Clicking the '**'Show Details'** button (see previous illustration) after
 selected an employer from the list, will open a section where extra
 details regarding a selected employer can be viewed as shown below:
 
@@ -316,7 +316,7 @@ details regarding a selected employer can be viewed as shown below:
 
 **Action**
 
--   Click on a tab such as the **Director** tab, **Employer Visit** tab
+-   Click on a tab such as the **'Director'** tab, **'Employer Visit'** tab
     etc. to view related information.
 
 -   From this section actions such as receiving documents and adding a
@@ -333,10 +333,10 @@ effectively. See the screenshot below:
 
 #### Scheme Configurations
 
-The '**Scheme Configurations'** are those that determine how a scheme is
+The **'Scheme Configurations'** are those that determine how a scheme is
 to be set up. Click the 'Scheme Configurations' menu link to open the
 'Scheme Configurations' window set the required parameters for different
-subsets such as '*Basic Scheme* Details', '*Members Configurations'*
+subsets such as **'Basic Scheme Details'**, **'Members Configurations'**
 among others as shown below:
 
 
@@ -345,23 +345,17 @@ among others as shown below:
 
 **Action**
 
--   Click **label 1** tab to load the **Basic Scheme Configurations**
-    window to set the appropriate parameters.
+-   Click **label 1** tab to load the **Basic Scheme Configurations** window to set the appropriate parameters.
 
--   Click **label 2** tab to load the **Scheme Setup Configurations** to
-    set the appropriate parameters.
+-   Click **label 2** tab to load the **Scheme Setup Configurations** to set the appropriate parameters.
 
--   Click **label 3** tab to load the **Member Configurations** to set
-    the appropriate parameters.
+-   Click **label 3** tab to load the **Member Configurations** to set the appropriate parameters.
 
--   Click **label 4** tab to load the **Contributions and Balances
-    Configurations** to set the appropriate parameters.
+-   Click **label 4** tab to load the **Contributions and Balances Configurations** to set the appropriate parameters.
 
--   Click **label 5** tab to load the **Claims and Pensioners
-    Configurations** window to set the appropriate parameters.
+-   Click **label 5** tab to load the **Claims and Pensioners Configurations** window to set the appropriate parameters.
 
--   Click **label 6** tab to load the **Scheme Dates and Insurance
-    Covers Configurations** window to set the appropriate parameters.
+-   Click **label 6** tab to load the **Scheme Dates and Insurance Covers Configurations** window to set the appropriate parameters.
 
 -   Click **label 7** tab to access other configuration tabs.
 
@@ -382,7 +376,7 @@ The **'Benefits Configurations'** are those that determine members
 benefits are calculated at the point of exiting a scheme. Click the
 'Benefits Configurations' menu link to open the configurations window to
 set the required parameters for different subsets such as **'Medical Configurations'**,
-**'*Death Claim Configurations'*** among others as shown below:
+**'Death Claim Configurations'** among others as shown below:
 
 <img  alt="Benefits Configurations" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image33.png">  
 
@@ -582,7 +576,7 @@ capturing the trustee's details as shown below:
 <img  alt="New Trustee" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image44.png">  
 
 
-Clicking the '**Upload Document'** button will open an upload window for
+Clicking the **'Upload Document'** button will open an upload window for
 selecting the type of document to upload to the system as shown below:
 
 <img  alt="Upload Document" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image45.png">  
@@ -611,7 +605,7 @@ configurations windows:
 
 ### Fund Managers
 
-The '**Fund Managers'** menu provides a window through which the details
+The **'Fund Managers'** menu provides a window through which the details
 of contracted scheme fund managers are captured as shown below:
 
 <img  alt="Fund Managers" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image49.jpg">  
@@ -668,7 +662,7 @@ contracted scheme custodians are captured as shown below:
 -   Click **label 3** to delete selected a selected custodian from the
     list.
 
-Clicking the '**New'** button, as shown in the previous screenshot, will
+Clicking the **'New'** button, as shown in the previous screenshot, will
 load a dialog box for capturing the details of a new custodian as shown
 below:
 
@@ -677,11 +671,11 @@ below:
 
 ### External Pension Administrators
 
-The '**External Pension Administrators'** menu gives access to the
+The **'External Pension Administrators'** menu gives access to the
 Transfer Out Scheme window where records for all transferred schemes are
 listed.
 
-Clicking the '**New'** button will open a dialog box for capturing the
+Clicking the **'New'** button will open a dialog box for capturing the
 details of the external scheme as shown below:
 
 <img  alt="new External Pension Administrators" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image54.png">  
@@ -689,7 +683,7 @@ details of the external scheme as shown below:
 
 ### Legal Advisors
 
-The '**Legal Advisors'** menu link provides access to a window through
+The **'Legal Advisors'** menu link provides access to a window through
 which the details of contracted scheme Legal Advisors are captured as
 shown below:
 
@@ -793,7 +787,7 @@ allowing the capturing of the title of a new job grade as shown below:
 
 ## Member Class Specific Info
 
-The configurations under '**Member Class Specific Info**' inform how a
+The configurations under **'Member Class Specific Info'** inform how a
 member of a particular class in a scheme is treated apart from a member
 from another class under the same employer. See screenshot below:
 
@@ -803,7 +797,7 @@ from another class under the same employer. See screenshot below:
 ### Contribution Age Bands
 
 To set contribution Age, click the **'Contribution Age Bands'** link and
-then click the '**New Contribution Age Band'** button to add a new Age
+then click the **'New Contribution Age Band'** button to add a new Age
 band as shown below:
 
 <img  alt="New Contribution Age Band" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image66.png">  
@@ -908,7 +902,7 @@ the details to create a new retirement age as shown below:
 
 ### Eligible Ages
 
-Eligibility age is a configuration set to determine who can be allowed
+The **'Eligibility Age'** is a configuration set to determine who can be allowed
 in a member class in terms of age limits as shown below:
 
 <img  alt="Eligible Ages" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image72.png">  
@@ -1073,7 +1067,7 @@ details for a new pay point branch as shown below:
 
 ### Straight to Bank 
 
-Click the '**Straight to Bank Purpose of Payments'** link to open a
+Click the **'Straight to Bank Purpose of Payments'** link to open a
 dialog box for capturing the purpose of a straight to bank type of
 payment. See the screenshot below:
 
@@ -1097,14 +1091,14 @@ which a new exit reason is configured as shown below:
 
 ### Interest Rates
 
-Click the '**Interest Rates'** menu item to open the Interest Rates
+Click the **'Interest Rates'** menu item to open the Interest Rates
 window to view the details of rates already configured in the scheme as
 shown below:
 
 <img  alt="Interest Rates" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image88.png">  
 
 
-Click the '**New Interest Rate'** link from the '**Operations'**
+Click the **'New Interest Rate'** link from the **'Operations'**
 drop-down menu as shown in the previous screenshot to open a dialog box
 through which a new interest rate can be defined as shown below:
 
@@ -1177,6 +1171,7 @@ screenshot below:
     whether the tax on the unregistered portion must be treated as an
     expense.
 
+
 **Notification Setup**
 
 <img  alt="Notification Setup" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image96.png">  
@@ -1193,7 +1188,7 @@ screenshot below:
 
 ### Pension Calculation Parameters
 
-Click the **Pension Calculation Parameters** link to open a dialog
+Click the **'Pension Calculation Parameters'** link to open a dialog
 window and set the configurations as shown in the screenshot below:
 
 <img  alt="Pension Calculation Parameters" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image98.png">  
@@ -1231,7 +1226,7 @@ as shown in the screenshot below:
 The **'Take Notes'** tool aids the system users to take some notes and
 save them. To see the notes already written and capture new notes.
 
-Click the '**Take Notes'** link to open the Notes window. From this
+Click the **'Take Notes'** link to open the Notes window. From this
 window locate and then click the **'New'** button to load a new dialog
 box and type new notes as shown below:
 
@@ -1335,7 +1330,7 @@ click the **'New Continent'** button to add a continent as shown below:
 ### Continent Regions
 
 Click the **'Continent Regions'** link to open the continents regions
-window, then click the '**New Continent Region'** button to add a region
+window, then click the **'New Continent Region'** button to add a region
 as shown below:
 
 <img  alt="Continent Region" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image108.png">  
