@@ -1,11 +1,11 @@
-## Scheme Setup Process
+### Scheme Setup Process
 
-Access all scheme configurations is provided for by clicking the
+Access to all scheme configurations is provided for by clicking the
 **'Scheme'** menu on the left side pane. This will open a dropdown menu
 which is organized into submenu categories, providing a convenient order
 of configurations. See screenshot below:
 
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image4.png">  
+<img  alt="scheme setup dashboard" width="55%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image4.png">  
 
 
 **Action**
@@ -13,7 +13,8 @@ of configurations. See screenshot below:
 -   Click a link under the left side pane to open a dialog box through
     which a specific scheme setting can be configured.
 
-### Scheme Register
+
+## Scheme Register
 
 The **'Schemes Register'** lists all the schemes created in the system.
 From the scheme window, several actions can be taken on selected schemes
@@ -51,14 +52,14 @@ looks like:
     selected scheme from the register.
 
 
-### Operations
+## Operations
 
 The '**Operations**' menu provides links to open windows for various
 actions related to schemes. These actions include tasks like capturing a
 scheme's bank details and initiating the scheme migration process. See
 the screenshot below:
 
-<img  alt="operations menu" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image6.png">  
+<img  alt="operations menu" width="60%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image6.png">  
 
 
 ### New Scheme
@@ -76,7 +77,8 @@ configurations can be set, as illustrated below:
     periods while the **Date of Commencement** denotes the start of the
     scheme.
 
-#### Scheme Certification
+
+### Scheme Certification
 
 The '**Certification**' menu provides access to the buttons through
 which a newly created scheme is certified and approved before further
@@ -92,6 +94,7 @@ configurations can be done. See screenshot below:
     grid table. From the **'Certification'** drop-down menu, select
     **'Certify'** or **'Approve'** menu links and click.
 
+
 ### Open Registers
 
 The **'Open Register'** menu offers links to open windows displaying
@@ -102,9 +105,9 @@ screenshot below:
 <img  alt="open registers" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image9.png">  
 
 
-### Employer Management
+## Employer Management
 
-#### Employer Enrollment
+### Employer Enrollment
 
 To enroll a new employer into a scheme, locate the **'Open Registers'**
 drop-down menu, as shown in the previous screenshot, and click the
@@ -136,7 +139,7 @@ their details are displayed as shown below:
     details for a selected employer.
 
 
-### Onboarding a Single Employer 
+## Onboarding a Single Employer 
 
 Click the **'New Employer'** link to open a form where the details of a
 new employer are captured into the system as shown below:
@@ -151,7 +154,7 @@ meeting. Fill in the meeting information and save as shown below:
 <img  alt="schedule employer meeting" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image12.png">  
 
 
-### Onboarding Employers in Batch 
+## Onboarding Employers in Batch 
 
 Employers can also be onboarded into the system in batch form using a
 template. To initiate this process, click on the **'Import from
@@ -261,7 +264,7 @@ among other actions related to cost centers. See screenshot below:
 <img  alt="Cost Center" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image24.png">  
 
 
-#### New Cost Center
+### New Cost Center
 
 To create a new cost center, click the **'New Cost Center'** button, as
 shown on the previous illustration, to open a dialog box to capture the
@@ -288,7 +291,7 @@ classes. See screenshot below:
 <img  alt="Member Classes" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image27.png">  
 
 
-#### New Member Class
+### New Member Class
 
 To create a new cost center, click the **'New Member Class'** button, as
 shown on the previous illustration, to open a dialog box to capture the
@@ -360,7 +363,7 @@ among others as shown below:
 -   Click **label 7** tab to access other configuration tabs.
 
 
-#### Global Configurations
+### Global Configurations
 
 The **'Global Configurations'** are set of parameters that affect all
 schemes in FundMaster when configured. Click the 'Global Configurations'
@@ -458,7 +461,7 @@ dialog box where the configurations are done as shown below:
 <img  alt="Module Allowance Configuration dialogue box" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image38.jpg">  
 
 
-**Districts, Regions, and Trustees Details**
+## Districts, Regions, and Trustees Details
 
 To capture the details pertaining a scheme's served districts, villages,
 regions, and the scheme trustees, click the respective menu items as
@@ -780,7 +783,7 @@ allowing the capturing of the title of a new job grade as shown below:
 <img  alt="New Job Grad" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image63.png">  
 
 
-### Investments Options
+## Investments Options
 
 <img  alt="Investments Options" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image64.png">  
 
@@ -1065,7 +1068,7 @@ details for a new pay point branch as shown below:
 <img  alt="Pay Point Branc" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image84.png">  
 
 
-### Straight to Bank 
+## Straight to Bank 
 
 Click the **'Straight to Bank Purpose of Payments'** link to open a
 dialog box for capturing the purpose of a straight to bank type of
@@ -1074,7 +1077,7 @@ payment. See the screenshot below:
 <img  alt="Straight to Bank " width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image85.png">  
 
 
-### Reasons for Exit
+## Reasons for Exit
 
 Click the **'Reasons for Exit'** link to open the Reasons for Exit
 window where a grid table displays the various reasons for exit
@@ -1134,7 +1137,7 @@ shown below:
 <img  alt="Bonas Rates" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image94.png">  
 
 
-### End of Year Parameters
+## End of Year Parameters
 
 This set of configurations determine the benefits calculation method for
 end of the defined financial year i.e., interim and declared rates of
@@ -1172,12 +1175,12 @@ screenshot below:
     expense.
 
 
-**Notification Setup**
+### Notification Setup
 
 <img  alt="Notification Setup" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image96.png">  
 
 
-### Pension Setup Parameters {#pension-setup-parameters-1}
+## Pension Setup Parameters
 
 Click the **'Pension Setup Parameters'** link to open the Pension Setup
 Parameters dialog window and set the configurations as shown in the
@@ -1186,7 +1189,7 @@ screenshot below:
 <img  alt="Pension Setup Parameters" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image97.png">  
 
 
-### Pension Calculation Parameters
+## Pension Calculation Parameters
 
 Click the **'Pension Calculation Parameters'** link to open a dialog
 window and set the configurations as shown in the screenshot below:
@@ -1194,7 +1197,7 @@ window and set the configurations as shown in the screenshot below:
 <img  alt="Pension Calculation Parameters" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image98.png">  
 
 
-### Other Pension Parameters
+## Other Pension Parameters
 
 Click the **'Other Pension Parameters'** link to open a dialog window
 and set the configurations for Lumpsum Tax-Free and other related items
@@ -1221,7 +1224,7 @@ as shown in the screenshot below:
     **Lumpsum Tax Free** configuration.
 
 
-### **Take Notes**
+## Take Notes
 
 The **'Take Notes'** tool aids the system users to take some notes and
 save them. To see the notes already written and capture new notes.
@@ -1430,6 +1433,7 @@ following screenshot:
 
 The tax header's conditions and the tax headers are dictated by the
 commissioner of taxes in each regime.
+
 
 ### Pension Tax Rates
 
