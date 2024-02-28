@@ -21,8 +21,8 @@ module.exports = {
                     {text: 'Scheme Setup', link: '/setupscheme/'},
                     {text: 'Member Register', link: '/members/'},
                     {text: 'Pensioner Register', link: '/pensioners/'},
-                    {text: 'Workflow', link: '/workflow/'},
-                    {text: 'Reports', link: '/reports/'},
+                    {text: 'Workflow Engine', link: '/workflow/'},
+                    {text: 'Reporting Engine', link: '/reports/'},
                 ],
             },
             {text: 'Glossary', link: '/glossary/'},
@@ -56,7 +56,7 @@ function getSidebar() {
             ]),
         '/administration/': generateSidebar(
             '/administration/',
-            'Administrative Panel Manual',
+            'Administrative Panel Module',
             [
                 '',
                 'userManagement',
@@ -65,7 +65,7 @@ function getSidebar() {
             ]),
             '/setupscheme/': generateSidebar(
                 '/setupscheme/',
-                'Schemes Setup Manual',
+                'Schemes Setup Module',
             [
                 '',
                 'newScheme',
@@ -93,7 +93,7 @@ function getSidebar() {
             ]),
         '/members/': generateSidebar(
             '/members/',
-            'Members Manual',
+            'Members Module',
             [
                 '',
                 'memberConfigurations',
@@ -122,7 +122,7 @@ function getSidebar() {
             ]),
         '/pensioners/': generateSidebar(
             '/pensioners/',
-            'Pensioners Manual',
+            'Pensioners Module',
             [
                 '',
                 'onboarding',
@@ -133,7 +133,7 @@ function getSidebar() {
             ]),
         '/workflow/': generateSidebar(
             '/workflow/',
-            'Workflow Manual',
+            'Workflow Module',
             [
                 '',
                 'adminPanel',
@@ -142,7 +142,7 @@ function getSidebar() {
             ]),
         '/reports/': generateSidebar(
             '/reports/',
-            'Reports Engine Manual',
+            'Reports Engine Module',
             [
                   '',
                   'dashBoards',
