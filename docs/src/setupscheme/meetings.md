@@ -1,6 +1,5 @@
 
-
-## Meetings
+The **'Meetings'** schedule window lists all schedulled meetings in a scheme. 
 
 Click the **'Meetings'** menu item to open the meetings schedule window
 to view a list of scheduled meetings as shown below:
