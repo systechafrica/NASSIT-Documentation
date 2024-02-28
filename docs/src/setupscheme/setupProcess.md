@@ -378,7 +378,7 @@ benefits are calculated at the point of exiting a scheme. Click the
 set the required parameters for different subsets such as **'Medical Configurations'**,
 **'Death Claim Configurations'** among others as shown below:
 
-<img  alt="Benefits Configurations" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image33.png">  
+<img  alt="Benefits Configurations" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image33.jpg">  
 
 
 **Action**
@@ -687,7 +687,7 @@ The **'Legal Advisors'** menu link provides access to a window through
 which the details of contracted scheme Legal Advisors are captured as
 shown below:
 
-<img  alt="Legal Advisors" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image55.jpgg">  
+<img  alt="Legal Advisors" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image55.jpg">  
 
 
 **Action**
