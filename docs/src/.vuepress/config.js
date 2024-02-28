@@ -69,6 +69,11 @@ function getSidebar() {
             [
                 '',
                 'setupProcess',
+                'otherSetup',
+                'actuarialFactors',
+                'statutory',
+                'meetings',
+
             ]),
         '/members/': generateSidebar(
             '/members/',

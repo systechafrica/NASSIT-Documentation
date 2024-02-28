@@ -1,4 +1,4 @@
-### Scheme Setup Process
+## Scheme
 
 Access to all scheme configurations is provided for by clicking the
 **'Scheme'** menu on the left side pane. This will open a dropdown menu
@@ -59,7 +59,7 @@ actions related to schemes. These actions include tasks like capturing a
 scheme's bank details and initiating the scheme migration process. See
 the screenshot below:
 
-<img  alt="operations menu" width="60%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image6.png">  
+<img  alt="operations menu" width="80%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image6.png">  
 
 
 ### New Scheme
@@ -73,8 +73,8 @@ configurations can be set, as illustrated below:
 
 **Tips**
 
--   The **Take On Date** is configured to determine the financial
-    periods while the **Date of Commencement** denotes the start of the
+-   The **'Take On Date'** is configured to determine the financial
+    periods while the **'Date of Commencement'** denotes the start of the
     scheme.
 
 
@@ -102,7 +102,7 @@ various basic registers related to schemes. These registers may include
 information such as employer details and billing addresses. See the
 screenshot below:
 
-<img  alt="open registers" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image9.png">  
+<img  alt="open registers" width="80%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image9.png">  
 
 
 ## Employer Management
@@ -151,7 +151,7 @@ Clicking the **'Save'** button on the employer details form upon
 completion of capturing the details will load a form for scheduling a
 meeting. Fill in the meeting information and save as shown below:
 
-<img  alt="schedule employer meeting" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image12.png">  
+<img  alt="schedule employer meeting" width="85%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image12.png">  
 
 
 ## Onboarding Employers in Batch 
@@ -160,10 +160,10 @@ Employers can also be onboarded into the system in batch form using a
 template. To initiate this process, click on the **'Import from
 Template'** menu item as shown below:
 
-<img  alt="Onboarding Employers in Batch" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+<img  alt="Onboarding Employers in Batch" width="80%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image13.png">  
 
 
-### Employer Documents checklist
+### Employer Documents Checklist
 
 Click the **'Employer Documents checklist'** link to open a window where
 all documents needed for employer enrollment are listed. Clicking the
@@ -205,32 +205,32 @@ Clicking the **'Receive Documents'** button, will open a dialog box for
 through which the required document is uploaded into the system as shown
 below:
 
-<img  alt="Receive Documents" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image16.png">  
+<img  alt="Receive Documents" width="70%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image16.png">  
 
 
 ### Details Tabs
 
-### Employer Change History 
+*Employer Change History*
 
 <img  alt="Employer Change History" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image17.png">  
 
 
-### Employer Documents Verification 
+*Employer Documents Verification*
 
 <img  alt="Employer Documents Verification" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image18.png">  
 
 
-### Directors 
+*Directors*
 
 <img  alt="Directors" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image19.png">  
 
 
-### Employer Exceptions
+*Employer Exceptions*
 
 <img  alt="Employer Exceptions" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image20.png">  
 
 
-### Schedule Employer Visit
+*Schedule Employer Visit*
 
 <img  alt="Schedule Employer Visit" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image21.png">  
 
@@ -270,7 +270,7 @@ To create a new cost center, click the **'New Cost Center'** button, as
 shown on the previous illustration, to open a dialog box to capture the
 details of the cost center as shown below:
 
-<img  alt="New Cost Center" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image25.png">  
+<img  alt="New Cost Center" width="70%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image25.png">  
 
 
 Click the **'Lookup Sponsor'** button to select the sponsor whose cost
@@ -297,7 +297,7 @@ To create a new cost center, click the **'New Member Class'** button, as
 shown on the previous illustration, to open a dialog box to capture the
 details of the member class as shown below:
 
-<img  alt="New Member Class" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image28.png">  
+<img  alt="New Member Class" width="80%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image28.png">  
 
 
 Click the **'Lookup Sponsor'** button to select the sponsor whose member
@@ -325,13 +325,14 @@ details regarding a selected employer can be viewed as shown below:
 -   From this section actions such as receiving documents and adding a
     director can be achieved.
 
+
 ### Configurations
 
 The **'Configurations'** menu allows access to some of the key
 configurations that need to be set for the scheme to execute
 effectively. See the screenshot below:
 
-<img  alt="Configurations" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image30.png">  
+<img  alt="Configurations" width="80%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image30.png">  
 
 
 ### Scheme Configurations
@@ -443,7 +444,7 @@ open the 'Additional IDD scheme'. See the dialog box in the next image.
 Below is the **'Additional IDD scheme'** dialog box for configuring IDD
 scheme details:
 
-<img  alt="Additional IDD scheme" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image36.jpg">  
+<img  alt="Additional IDD scheme" width="70%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image36.jpg">  
 
 
 ### Module Allowance Configurations
@@ -458,7 +459,7 @@ extra modules.
 Clicking the **'Module Allowance Configuration'** menu will open a
 dialog box where the configurations are done as shown below:
 
-<img  alt="Module Allowance Configuration dialogue box" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image38.jpg">  
+<img  alt="Module Allowance Configuration dialogue box" width="70%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image38.jpg">  
 
 
 ## Districts, Regions, and Trustees Details
@@ -467,7 +468,7 @@ To capture the details pertaining a scheme's served districts, villages,
 regions, and the scheme trustees, click the respective menu items as
 shown in the screenshot below:
 
-<img  alt="Districts, Regions, and Trustees Details" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image39.jpg">  
+<img  alt="Districts, Regions, and Trustees Details" width="88%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image39.jpg">  
 
 
 ### Districts
@@ -603,7 +604,7 @@ capturing and managing a scheme's various service prover details. The
 screenshot below shows a drop-down menu with links to various
 configurations windows:
 
-<img  alt="Service Providers" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image48.png">  
+<img  alt="Service Providers" width="80%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image48.png">  
 
 
 ### Fund Managers
@@ -780,7 +781,7 @@ pension administration level. See screen shot below:
 Clicking the **'New Job Grade'** button will open job grade dialog box
 allowing the capturing of the title of a new job grade as shown below:
 
-<img  alt="New Job Grad" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image63.png">  
+<img  alt="New Job Grad" width="70%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image63.png">  
 
 
 ## Investments Options
@@ -835,7 +836,7 @@ To set contribution rates, click the **'Contribution Rates'** link and
 then click the **'New Contribution Rates'** button to add a new rate as
 shown below:
 
-<img  alt="New Contribution Rates" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image68.png">  
+<img  alt="New Contribution Rates" width="70%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image68.png">  
 
 
 **Action**
@@ -868,7 +869,7 @@ Click the **'New Contribution Rates'** button labelled 1, to load a
 Contribution Rates Details dialog box through which a new Rate can be
 configured as shown below:
 
-<img  alt="New Contribution Rates'" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image69.png">  
+<img  alt="New Contribution Rates'" width="70%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image69.png">  
 
 
 ### Retirement Ages
@@ -900,7 +901,7 @@ ages:
 Click the **'New Retirement Age'** button to open a dialog box. Fill in
 the details to create a new retirement age as shown below:
 
-<img  alt="New Retirement Age" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image71.png">  
+<img  alt="New Retirement Age" width="70%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image71.png">  
 
 
 ### Eligible Ages
@@ -925,7 +926,7 @@ in a member class in terms of age limits as shown below:
 Click the **'New Eligible Age'** button to open a dialog box. Fill in
 the details to create a new eligible age as shown below:
 
-<img  alt="New Eligible Age" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image73.png">  
+<img  alt="New Eligible Age" width="90%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image73.png">  
 
 
 ## Asset Codes
@@ -971,7 +972,7 @@ window listing banker's account records as shown below:
 Then click the **'New Scheme Bank'** button to open a dialog box where a
 new scheme bank details can be captured as shown below:
 
-<img  alt="New Scheme Bank" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image77.png">  
+<img  alt="New Scheme Bank" width="70%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image77.png">  
 
 
 ## Scheme Migration
@@ -1038,439 +1039,3 @@ selected configurations as shown I the preceding step. Follow the
 -   Click **label 3** button to initiate migration to multiple schemes.
 
 -   Click **label 4** text box exit the window.
-
-
-## Other Setup
-
-Configurations under **'Other Setup'** menu enable formulation of
-interests, penalties, setting up pay points, actuarial valuations, among
-others. The screenshot below shows a drop-down menu where various links
-are located:
-
-<img  alt="Other Setup" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image82.png">  
-
-
-### Pay Points
-
-Click the **'Pay Points'** link to open a Pay Points window and then
-click the **'New Pay Point**' button to capture details for a new pay
-point as shown below:
-
-<img  alt="New Pay Point" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image83.png">  
-
-
-### Pay Point Branches
-
-Click the **'Pay Points Branches'** link to open a pay point branches
-window and then click the **'Pay Point Branch'** button to capture
-details for a new pay point branch as shown below:
-
-<img  alt="Pay Point Branc" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image84.png">  
-
-
-## Straight to Bank 
-
-Click the **'Straight to Bank Purpose of Payments'** link to open a
-dialog box for capturing the purpose of a straight to bank type of
-payment. See the screenshot below:
-
-<img  alt="Straight to Bank " width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image85.png">  
-
-
-## Reasons for Exit
-
-Click the **'Reasons for Exit'** link to open the Reasons for Exit
-window where a grid table displays the various reasons for exit
-configurations. See the screenshot below:
-
-<img  alt="Reasons for Exit" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image86.png">  
-
-
-Click the **'New Reason for Exit'** button to open a dialog box through
-which a new exit reason is configured as shown below:
-
-<img  alt="New Reason for Exit" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image87.png">  
-
-
-### Interest Rates
-
-Click the **'Interest Rates'** menu item to open the Interest Rates
-window to view the details of rates already configured in the scheme as
-shown below:
-
-<img  alt="Interest Rates" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image88.png">  
-
-
-Click the **'New Interest Rate'** link from the **'Operations'**
-drop-down menu as shown in the previous screenshot to open a dialog box
-through which a new interest rate can be defined as shown below:
-
-<img  alt="New Interest Rate" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image89.png">  
-
-
-### Interest Formula
-
-Click the **'Interest Formula'** link to open the interest formula
-window, then click the **'New Formular'** button to create a formula as
-shown below:
-
-<img  alt="New Formular" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image90.png">  
-
-
-### Unvested Benefits configs
-
-<img  alt="Unvested Benefits configs" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image91.png">  
-
-
-### Actuarial valuation
-
-<img  alt="Actuarial valuation" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image92.png">  
-
-
-### Audit History
-
-<img  alt="Audit History" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image93.png">  
-
-
-### Bonas Rates
-
-<img  alt="Bonas Rates" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image94.png">  
-
-
-## End of Year Parameters
-
-This set of configurations determine the benefits calculation method for
-end of the defined financial year i.e., interim and declared rates of
-interest. Interest allocation frequency and distribution mode are other
-important parameters set here.
-
-Click the **End Year Parameters** link to open the Year-End Parameters
-Details dialog box and configure the details as shown in the sample
-screenshot below:
-
-<img  alt="End Year Parameters" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image95.png">  
-
-
-**Parameter description**
-
--   **Select option on withdrawal benefit calculation before the
-    year-end:** on the drop-down menu select provisional rate of
-    interest, lock benefits in the scheme year-end, or refund
-    principal (opening balances + Contributions)
-
--   **Show withdrawals within the year under the member balances
-    schedule at year-end?** Specify whether to show withdrawals within
-    the year under the member balances end-of-year schedule.
-
--   **Who bears the tax on income from the unregistered funds?** Specify
-    who bears the taxation on the unregistered fund's portion, the
-    scheme, or individual members.
-
--   **Auto calculates administration fees on withdrawals?** Specify
-    whether the administration fees must be auto calculated for the
-    administration services.
-
--   **Treat tax from the unregistered scheme as an expense?** Specify
-    whether the tax on the unregistered portion must be treated as an
-    expense.
-
-
-### Notification Setup
-
-<img  alt="Notification Setup" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image96.png">  
-
-
-## Pension Setup Parameters
-
-Click the **'Pension Setup Parameters'** link to open the Pension Setup
-Parameters dialog window and set the configurations as shown in the
-screenshot below:
-
-<img  alt="Pension Setup Parameters" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image97.png">  
-
-
-## Pension Calculation Parameters
-
-Click the **'Pension Calculation Parameters'** link to open a dialog
-window and set the configurations as shown in the screenshot below:
-
-<img  alt="Pension Calculation Parameters" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image98.png">  
-
-
-## Other Pension Parameters
-
-Click the **'Other Pension Parameters'** link to open a dialog window
-and set the configurations for Lumpsum Tax-Free and other related items
-as shown in the screenshot below:
-
-<img  alt="Other Pension Parameters" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image99.png">  
-
-
-**Action**
-
--   Click **label 1** button to load a dialog box and set a new
-    **Lumpsum Tax Free** configuration as shown above.
-
--   Click **label 2** button to open a dialog box and set a new
-    **Pension Tax Free** configuration.
-
--   Click **label 3** button to open a dialog box and set a new
-    **Pension Accrual Factor** configuration.
-
--   Click **label 4** button to open a dialog box and set a new
-    **Pension Service Periods Split Dates** configuration.
-
--   Click **label 5** button to open a dialog box and set a new
-    **Lumpsum Tax Free** configuration.
-
-
-## Take Notes
-
-The **'Take Notes'** tool aids the system users to take some notes and
-save them. To see the notes already written and capture new notes.
-
-Click the **'Take Notes'** link to open the Notes window. From this
-window locate and then click the **'New'** button to load a new dialog
-box and type new notes as shown below:
-
-<img  alt="Take Notes" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image100.png">  
-
-
-## Actuarial Factors
-
-The **'Actuarial Factors'** set of configurations aids in setting up
-Actuarial Factors that are used in DB and DC lump sum calculations.
-Click on the links under the drop-down menu to set different actuarial
-rates and factors as shown below:
-
-<img  alt="Actuarial Factors" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image101.png">  
-
-
-### Fixed Factors
-
-The **'Fixed Factors'** are provided by the scheme actuaries and aid in
-the calculation of member benefits based on the retirement age and the
-gender type.
-
-Click the **'Fixed Factors'** link to open the fixed factors window to
-view a list of set factors and to create new factors as shown below:
-
-<img  alt="Fixed Factors" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image102.png">  
-
-
-**Action**
-
--   Click **label 1** button to create a new fixed factor.
-
--   Click **label 2** button to view the details of a selected factor
-    from the list.
-
--   Click **label 3** button to upload already prepared factors in a
-    template.
-
--   Click **label 4** button to remove a selected factor from the list.
-
-
-Click the **'New Factor'** button to open a dialog box to add a new fixe
-factor as shown below:
-
-<img  alt="New Factor" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image103.png">  
-
-
-### Annuity Rates
-
-Annuity rates are provided by third-party insurance companies with the
-help of internal or external actuaries to aid in the calculation of
-annuities' purchase prices. Click the **'Annuity Rates'** link to open
-the Annuity Rates dialog box to set a new rate as shown below:
-
-<img  alt="Annuity Rates" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image104.png">  
-
-
-**Action**
-
--   Click **label 1** button to create a new annuity rate.
-
--   Click **label 2** button to view the details of a selected annuity
-    rate from the list.
-
--   Click **label 3** button to remove a selected factor from the list.
-
--   Click **label 4** button to upload already prepared annuity rates in
-    a template.
-
-
-### Spouse Annuity Rates
-
-### Trivial Factors
-
-### Defined Benefits Formulas
-
-This dialog form enables the setting of key formulas in defined benefits
-schemes:
-
-<img  alt="Defined Benefits Formulas" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image105.png">  
-
-
-## Statutory
-
-The **'Statutory'** configurations are tax rates that affect the
-retirement benefits processes as defined by a regime's commissioner of
-tax. The screenshot below shows a drop-down menu with links through
-which different setups are done:
-
-<img  alt="Statutory" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image106.png">  
-
-
-### Continents
-
-Click the **'Continents'** link to open the continents window, then
-click the **'New Continent'** button to add a continent as shown below:
-
-<img  alt="Continents" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image107.png">  
-
-
-### Continent Regions
-
-Click the **'Continent Regions'** link to open the continents regions
-window, then click the **'New Continent Region'** button to add a region
-as shown below:
-
-<img  alt="Continent Region" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image108.png">  
-
-
-### Administrative Levels
-
-Click the **'Administrative Levels'** link to open the administrative
-levels window to view different administrative level records as shown
-below:
-
-<img  alt="Administrative Levels" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image109.png">  
-
-
-Click the **'Add Single Administrative Level'** button to add an
-administrative level shown below:
-
-<img  alt="Add Single Administrative Level" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image110.png">  
-
-
-### Economic Activities
-
-Click the **'Economic Activities'** link to open the economic activities
-window to view different economic activities as captured in the system.
-see screenshot below:
-
-<img  alt="Economic Activities" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image111.png">  
-
-
-Click **'New Economic Activity'** button to open a dialog box and
-capture a new economic activity as shown below:
-
-<img  alt="New Economic Activity" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image112.png">  
-
-
-### Administrative Offices
-
-Click the '**Administrative Offices'** link to open the offices window
-to view different office records as shown below:
-
-<img  alt="Administrative Offices" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image113.png">  
-
-
-Click '**New Office'** button to open a dialog box and capture the
-details of a new office as shown below:
-
-<img  alt="New Office" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image114.png">  
-
-
-### Tax Regimes
-
-Click the **'Tax Regimes (Counties)'** link to open the tax regimes
-window, then click the '**New Regime'** button to add a new regime as
-shown below:
-
-<img  alt="Tax Regimes (Counties)'" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image115.png">  
-
-
-### Currencies 
-
-Click the **'Currencies'** link to open the currencies window, then
-click the **'Add Currency'** button to add a new currency as shown
-below:
-
-<img  alt="Currencies" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image116.png">  
-
-
-### Exchange Rates
-
-Click the **'Exchange Rates'** link to open the Exchange Rates window,
-then click the **'New Exchange Rate'** button to add a new exchange rate
-configuration as shown below:
-
-<img  alt="Exchange Rates" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image117.png">  
-
-
-### Income Tax Rate
-
-Click the **'Income Tax Rates'** link to open the Income Tax Rates
-window, then click the **'New Tax Rate'** button to define a new tax
-rate as shown below:
-
-<img  alt="Income Tax Rates" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image118.png">  
-
-
-### Benefits Tax Rates
-
-Click the '**Benefits Tax Rates'** link to open the tax rates window,
-then click the '**New Tax Header'** button and the '**New Tax Band'**
-button to configure the tax header and band respectively as shown in the
-following screenshot:
-
-<img  alt="Benefits Tax Rates" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image119.png">  
-
-
-**Tip**
-
-The tax header's conditions and the tax headers are dictated by the
-commissioner of taxes in each regime.
-
-
-### Pension Tax Rates
-
-The **'Pension Tax Rates'** set of configurations defines the pension
-tax free amount and personal relief amount. Selecting a new tax band to
-open a dialog box at the lower side of the window to aid in adding the
-pension tax bands as shown below:
-
-<img  alt="Pension Tax Rates" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image120.png">  
-
-
-## Meetings
-
-Click the **'Meetings'** menu item to open the meetings schedule window
-to view a list of scheduled meetings as shown below:
-
-<img  alt="Meetings" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image121.png">  
-
-
-To schedule a new meeting, click the **'Add Meeting'** button to open a
-dialog box to capture the details of a new meeting:
-
-### Meetings
-
-Click the **'Meetings'** link to open a window where all scheduled
-meetings are listed. Clicking the **'Add Meeting'** button will open a
-dialog box for capturing the details for a new meeting schedule. See
-screenshot below:
-
-<img  alt="Add Meeting" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image122.png">  
-
-
-### Notice Board
-
-Click the **'Notice Board'** link to open a window where all items on
-the notice board are itemized. Clicking the **'Add Item'** button will
-open a dialog box for capturing the details of a new item. See
-screenshot below:
-
-<img  alt="'Notice Board'" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image123.png"> 
