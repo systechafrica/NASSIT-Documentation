@@ -1,4 +1,4 @@
-## Scheme
+### Scheme
 
 Access to all scheme configurations is provided for by clicking the
 **'Scheme'** menu on the left side pane. This will open a dropdown menu

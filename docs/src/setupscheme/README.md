@@ -4,7 +4,9 @@ The scheme setup module implements the trust deed and rules of a scheme. These r
 
 To access the Scheme Setup dashboard, click the '**Scheme Setup'** link on the landing page to open the '**Setup Links'** Window. Below is a screenshot of the Scheme Setup dashboard:
 
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png>  
+
+<img  alt="scheme setup dashboard" width="90%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image1.png">  
+
 
 
 **Action**
