@@ -41,7 +41,7 @@ The **'Members Register'** lists all the members under an employer in a scheme. 
 
 Clicking the **'View Member'** button (see previous screenshot) will open a members register window displaying the members under a selected sponsor as shown below:
 
-<img  alt="Member Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image4.png">
+<img  alt="Member Register" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image4.png">
 
 
 **Action**
@@ -84,19 +84,19 @@ This method enables massive registration of members at a go. Members are compile
 
 1.  Download the template from the **'Sponsors Registers'** window as shown below:
 
-<img  alt="Sponsors Registers" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image7.png">
+<img  alt="Sponsors Registers" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image7.png">
 
 
 
 2.  Download the template from the **'Members Register'** window as shown below:
 
-<img  alt="member template" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image8.png">
+<img  alt="member template" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image8.png">
 
 
 
 Below is a sample template used to import and upload members:
 
-<img  alt="sample template" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image9.png">
+<img  alt="sample template" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image9.png">
 
 
 
