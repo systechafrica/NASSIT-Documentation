@@ -182,7 +182,7 @@ Clicking the **'Cancelled Members in Batch'** button will show a section listing
 
 
 
-## Member Documents Checklist
+### Member Documents Checklist
 
 The '**Member Document Checklist'** is a list of all the documents that are needed for the successful registration of a member into a scheme. These documents are enlisted in the system as shown below:
 
@@ -244,7 +244,7 @@ The **'Accounts General Payroll'** window contains the list of the members who w
 
 
 
-### General Member Approvals
+## General Member Approvals
 
 The '**General member Approval'** window displays the members whose details have been updated and need to be certified and approved before they can be moved to the member register. See screenshot below:
 

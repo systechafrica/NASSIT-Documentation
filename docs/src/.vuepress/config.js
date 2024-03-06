@@ -2,7 +2,7 @@ const {description} = require('../../package');
 
 module.exports = {
     logo: "/img/logo/fundmaster-hero-image.png",
-    title: 'FundMaster Xc',
+    title: 'FundMaster Xe Ver 2.0',
     description: description,
     themeConfig: {
         logo: "/img/logo/fundmaster-hero-image.png",
@@ -82,6 +82,7 @@ function getSidebar() {
                 '',
                 'members',   
                 'contribution', 
+                'claimActivities', 
                 'takeNotes',  
             ]),
         '/pensioners/': generateSidebar(
