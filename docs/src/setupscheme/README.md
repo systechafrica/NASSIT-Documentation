@@ -17,6 +17,7 @@ To access the Scheme Setup dashboard, click the '**Scheme Setup'** link on the l
 
 -   Click on the button **'labeled 3'** to access the system's Intelligent Assistant (IA) chatbot.
 
+
 **Tip**
 
 All the links under **'label 1'** can still be accessed on the left side pane although some are tacked under sub-menus.

@@ -51,6 +51,7 @@ The circled numbers in the screenshot above correspond to the numbers in the fol
 | 12.   	| Member Register link      	| A shortcut to the Members Register Module.                                                                                                             |
 
 
+
 ## Main Menu Bar
 
 Clicking the hamburger icon on the upper-left corner of the landing page will enable a user to expand the menu bar, allowing access to more controls. The expanded menu bar displays a help tab, on the uppermost side, for accessing the help documentation.

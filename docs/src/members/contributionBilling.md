@@ -73,18 +73,3 @@ The **'Receipts Register'** window displays a table listing all the receipted co
 
 
 Click the **'Operations'** menu and from the dropdown menu, select to generate an invoice for a selected receipt, post Non-Cash Book Receipts among other operations as shown above.
-
-
-## AVC Applications
-
-The **'AVC Application'** window displays all the **Additional Voluntary Contribution (AVC)** applications that have been made by scheme members in addition to **Mandatory Contributions**. From this window the requested can be approved or declined. See screenshot below:
-
-<img  alt="AVC Applications" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image51.png">
-
-
-## Direct Debits
-
-The **'Direct Debits'** window displays all direct debits authorized by the sponsors in a scheme. The transactions can be approved, reversed, or posted to a scheme's accounts:
-
-<img  alt="Direct Debits" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image52.png">
-

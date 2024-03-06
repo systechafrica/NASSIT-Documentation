@@ -4,6 +4,8 @@ To access FundMaster on your device, launch your preferred internet browser and 
 
 <img  alt="internet access protocal image" width="100%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd7.png">
 
+
+
 ## Login Process
 
 After inputting the access IP address, a user is directed to the login page where one is supposed to enter login credentials for authentication.
@@ -25,6 +27,7 @@ After inputting the access IP address, a user is directed to the login page wher
 **Tip** 
 
 - The system is set to allow a user only three attempts at log in after which the account is locked. The locked account can only be reactivated by the system administrator.
+
 
 
 ## Landing Page

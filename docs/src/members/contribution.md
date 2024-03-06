@@ -8,7 +8,7 @@ After the process of adding Members and Sponsors to a Scheme, the next step is t
 
 ## Contribution Journals
 
-The 'Contribution Journal' form is used to capture contributions for members of the scheme. See screenshot below:
+The **'Contribution Journal'** form is used to capture contributions for members of the scheme. See screenshot below:
 
 <img  alt="Contribution Journals" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image25.png">
 
@@ -137,3 +137,18 @@ Click the **'Transferred in Claims'** link to open a grid table listing all the 
 The links under this category give access to windows where the Contributions Billing, Receivables Register, and Receipts Register configurations are set. Click on the drop-down submenu links enclosed below to load the respective windows and set configurations appropriately:
 
 <img  alt="Contribution Receivables/Receipts" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image39.png">
+
+
+## AVC Applications
+
+The **'AVC Application'** window displays all the **Additional Voluntary Contribution (AVC)** applications that have been made by scheme members in addition to **Mandatory Contributions**. From this window the requested can be approved or declined. See screenshot below:
+
+<img  alt="AVC Applications" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image51.png">
+
+
+## Direct Debits
+
+The **'Direct Debits'** window displays all direct debits authorized by the sponsors in a scheme. The transactions can be approved, reversed, or posted to a scheme's accounts:
+
+<img  alt="Direct Debits" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image52.png">
+

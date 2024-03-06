@@ -251,6 +251,7 @@ The '**General member Approval'** window displays the members whose details have
 <img  alt="General member Approval" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image22.png">
 
 
+
 ## Take Notes
 
 This tool aids the system users to take some notes and save them. To see the notes already written and capture new notes.

@@ -20,11 +20,13 @@ Click on the \'**Notifications Config Matrix\'** menu item to launch the **'Send
 -   Use the dropdown menu labeled 2 to pick Yes or No, indicating whether the configurations apply only to the current scheme or to all schemes set up in the system.
 
 
+
 ### Notification Integration
 
 Click on the \'**Notifications Integration\'** menu item to launch the **'Notifications Services'** dialog box. Key in the right configuration details to connect to the notification micro service as shown in the screenshot below:
 
 <img  alt="Notifications integration" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image29.png">  
+
 
 
 ### Email SetUp
@@ -47,11 +49,13 @@ The Email Setup feature enables the configuration of different Simple Mail Trans
 -   Click **label 5** button to set a selected email set up as the default email set up.
 
 
+
 ### New SMTP Set UP
 
 Clicking '**Email Set Up'** button labeled 1 will open a dialog box to configure email set up parameters as shown below:
 
 <img  alt="new email setup" width="85%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image31.png">  
+
 
 
 ### S.M.S Set Up
@@ -74,11 +78,13 @@ This setup feature allows for the configuration of SMS service providers, enabli
 -   Click **label 4** button to delete a selected SMS Set Up from the list.
 
 
+
 ### New SMS Set Up
 
 Clicking on the **'New SMS Setup**' button labeled 1 opens an 'External API Details' dialog box for configuring a new SMS setup as shown in the screenshot below:
 
 <img  alt="new sms setup" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image33.png">  
+
 
 
 ### Notifications Templates
@@ -103,15 +109,18 @@ screenshot below:
 -   Click **label 6** button to view the details of a selected template from the list.
 
 
+
 ### New Notification Template
 
 Click the '**New'** button to open a dialog box where a new email notification template can be configured as shown below:
 
 <img  alt="New Notification Template width=" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image35.png">  
 
+
 **Tip**
 
 -   Make use of reserved keywords.
+
 
 
 ### Add Notification Attachment
@@ -119,6 +128,7 @@ Click the '**New'** button to open a dialog box where a new email notification t
 Click the '**Add Notification Attachment'** button to open the Attachment configuration dialog box where the attachment details are configured as shown below:
 
 <img  alt="Add Notification Attachment" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image36.png">  
+
 
 
 ### Email Outbox
@@ -143,9 +153,11 @@ Click the **'Outbox'** link to open the outbox window where all outgoing email t
 -   Click **label 6** dropdown menu to filter mails on delivery status.
 
 
+
 ### Periodic Emails
 
 <img  alt="periodic email" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image38.png">  
+
 
 ### S.M.S Outbox
 

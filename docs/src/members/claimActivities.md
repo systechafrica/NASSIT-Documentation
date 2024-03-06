@@ -3,7 +3,7 @@
 
 The activities under this menu are related to claim processing. To start an activity, click the appropriate link from the enclosed drop-down menu to open the respective window as shown in the screenshot below:
 
-<img  alt="Claim Activities" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image53.png">
+<img  alt="Claim Activities" width="50%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image53.png">
 
 
 ## Movement Processing
@@ -31,7 +31,7 @@ After benefits calculations and processing, all claim records for different memb
 
 -   Locate the **'Process Payments'** menu and from the drop-down menu select '**Send Claims (selected) for Payment'** or select **'Unprocessed Claim (selected) From Accounts'** among actions in the list.
 
--   From the '**Certification'** drop-down menu**,** click **'Certify'** and **'Authorize'** the payment of record selected.
+-   From the '**Certification'** drop-down menu, click **'Certify'** and **'Authorize'** the payment of record selected.
 
 -   Click the '**Registers'** menu and from the drop-down, access windows where all effected payments are listed.
 
@@ -61,23 +61,25 @@ Click the '**Payment Processing'** drop-down menu to allow a selected payment fr
 
 The **'Print'** menu provides access to different types of reports related to benefits payments as shown below:
 
-<img  alt="Print" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image59.png">
+<img  alt="Print" width="75%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image59.png">
 
 
 ### More Options
 
 The **'More Options'** menu provides access to edit and update actions as shown below:
 
-<img  alt="More Options" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image60.png">
+<img  alt="More Options" width="75%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image60.png">
 
 
-### Discharge Forms
+
+## Discharge Forms
 
 **'Discharge Forms'** are configured to document members' exit details from a scheme after claiming his/her benefits.
 
 To access the list of claim forms in a scheme, click the **'Discharge Forms'** link to open a window where all exited members' forms are listed in a grid table. Click the **'Print'** button on the upper right side to allow you to view various '**Exit Declaration Forms'** and **'Payment Confirmation Letters'** for selected members form on the list as shown below:
 
-<img  alt="Payment Confirmation Letters" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image61.png">
+<img  alt="Payment Confirmation Letters" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image61.png">
+
 
 
 ## Initiating Claim Movement
@@ -96,9 +98,11 @@ Fill out the form with the required details and then click the **'Confirm Exit D
 <img  alt="Confirm Exit Documents Checklist" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image63.png">
 
 
+
 Click the **'Confirm Exit Documents Checklist'** button, as shown in the previously, to open the **'Benefits Log Checklist Confirmation'** window**.** Select a document from the list and double-click to confirm receipt of the document. Otherwise, click the **'Receive Document'** button to upload the document as shown below:
 
 <img  alt="Receive Document" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image64.png">
+
 
 
 A successful configuration of the exit form and confirmation of receipt of relevant claim documents is noted on the status column where a member's status is changed from **'Active'** to **'On Notice of Exit'** as shown in the following screenshot:
@@ -106,9 +110,11 @@ A successful configuration of the exit form and confirmation of receipt of relev
 <img  alt="On Notice of Exit" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image65.png">
 
 
+
 After a successful initialization of a claim, the claim record is pushed to the **'Movements processing'** window. Click the '**Movement Processing'** link to open the Movement Processing window. See screenshot below:
 
 <img  alt="Receipts Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image66.png">
+
 
 
 Clicking the **'Movement Processing'** menu will open the movement processing window where all the initiated claims are listed awaiting verification and benefits calculation as shown below:
@@ -116,14 +122,17 @@ Clicking the **'Movement Processing'** menu will open the movement processing wi
 <img  alt="Movement Processing" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image67.png">
 
 
+
 Click the **'Show Benefits Calculation'** tab from the **'Benefits Calculation'** drop-down menu to load the **'Benefits Calculation'** form. This shows the member's benefits tabulations as shown in the screenshot below:
 
 <img  alt="Benefits Calculation" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image68.png">
 
 
+
 Next, click the **'Proceed Now'** button to process the payment and save the records **'Awaiting Certification'** towards the disbursement of money from the scheme accounts. See the screenshot below:
 
 <img  alt="Proceed Now" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image69.png">
+
 
 
 After the **'Certification'** is done, the record status in the movement processing window will turn from **'Awaiting Certification'** to **'Calculation done'** as shown in the screenshot below:

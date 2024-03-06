@@ -10,9 +10,11 @@ To view current system users, navigate to the '**Users Register**' menu on the l
 <img  alt="user register" width="65%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image4.png">  
 
 
+
 This window displays a grid table listing all system users along with their specific details, as shown below:
 
-<img  alt="system user" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image5.png">  
+<img  alt="system user" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image5.png"> 
+
 
 **Actions**
 
@@ -29,6 +31,7 @@ This window displays a grid table listing all system users along with their spec
 -   Click the label 6 button to view a print copy of the user's details.
 
 -   Click the label 7 button to open a section on the lower side of the window, revealing various details of a selected user.
+
 
 
 ## Operations
@@ -56,6 +59,7 @@ Clicking the '**New User**' will open '**User Details**' form where the details 
 -   Click button labeled 4 to exit the user details dialog box.
 
 
+
 ### Users Details
 
 To access adsditional details about a user\'s account, including user role, schemes, sponsors, modules, and member classes allowed for access, click '**Details**' from the Operations menu as shown below:
@@ -80,6 +84,7 @@ This action will open a lower section displaying comprehensive information about
 -   Click button labeled 5 to view the roles the user is allowed to play.
 
 
+
 ### Allowing Schemes Access to Users
 
 To grant specific schemes access to a user profile, locate the '**Allowed Scheme**' tab, and click to reveal a table listing the user\'s current schemes. Click the '**Assign Schemes to User**' button to view all schemes available in the system, as depicted in the following screenshot:
@@ -94,6 +99,7 @@ To grant specific schemes access to a user profile, locate the '**Allowed Scheme
 -   Click the button **labeled 2** to open a dialog box listing all available schemes from which new schemes can be selected and added to the profile category of the user.
 
 -   Click the button **labeled 3** to remove select schemes from a user's assigned schemes.
+
 
 
 ### Assigning Schemes to a User
@@ -111,7 +117,9 @@ Click the '**Assign Scheme to User'** tab to open a grid table listing all the s
 
 -   Click **label 3** button to provide a user access to all available schemes.
 
+
 **Note:** To allow a user access to **Sponsors, Member Classes,** follow the steps taken to add schemes to a user as shown in the previous section.
+
 
 
 ### Assigning Modules to a User
@@ -125,6 +133,7 @@ Click **'Assign Module(s) to User'** to open a dialog box for selecting the modu
 <img  alt="assign module " width="65%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image13.png">  
 
 
+
 ## Profiles Register
 
 User profiles representing distinct groups of users with specific privileges. A system Administrator profile is created by default and serves as a foundational template from which other profiles are derived.
@@ -132,6 +141,7 @@ User profiles representing distinct groups of users with specific privileges. A 
 To engage with profiles, click **Profiles Register'** and access the Profile Register window with a grid table listing the profiles created within the system as shown below:
 
 <img  alt="profile register" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image14.png">  
+
 
 **Action**
 
@@ -144,11 +154,13 @@ To engage with profiles, click **Profiles Register'** and access the Profile Reg
 -   Click **label 4** button to initialize permissions for a profile.
 
 
+
 ### New Profile
 
 Click "**New Profile"** tab to open a dialog box. Through this, a new profile can be created by providing the profile name and a description as shown below:
 
 <img  alt="new profile" width="75%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image15.png">  
+
 
 
 ## Reasons For Suspension
@@ -167,11 +179,13 @@ The **'Reason for Suspension Register'** window displays a list of reasons why s
 -   Click **label 3** button to delete a selected record from the list
 
 
+
 ### New Reason for Suspension
 
 Click the '**New Reason for Suspension'** button to open a dialog box. Through this, a reason for a member's suspension from using the system is recorded as shown below:
 
 <img  alt="new Reason for Suspension" width="75%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image17.png">  
+
 
 
 ## System Rights
@@ -196,11 +210,13 @@ Click '**System Rights'** to open a window listing all the system rights grouped
 
 Once a system user profile is created, the next step is to allow access to specific system rights to a newly created profile. The permissions given enable a user profile access to certain system functionalities.
 
+
 ### Step 1: Assigning Permissions to a user profile
 
 To assign permissions to a profile, click the **'Profile Permissions'** menu to open the profiles permission window with a grid table where permissions are assigned to profiles. The table provides drop-down menus to choose profiles and the modules whose permissions are to be assigned to a profile among others as shown below:
 
 <img  alt="Profile Permissions" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image20.png">  
+
 
 **Action**
 
@@ -211,11 +227,13 @@ To assign permissions to a profile, click the **'Profile Permissions'** menu to 
 -   Click the filter button **labelled 3** to search for a record based on the name typed on the adjacent search box.
 
 
+
 ### Step 2: Enabling Permissions
 
 Select **'Permission'** from the list and click the **'Enable'** button to activate the permissions in that profile as shown below:
 
 <img  alt="enable Permissions" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image21.png">  
+
 
 **Action**
 
@@ -228,6 +246,7 @@ Select **'Permission'** from the list and click the **'Enable'** button to activ
 -   Click the button **labelled 7** to undo the inherit process.
 
 -   Click to select an option from the print drop-down menu **labelled 8** to view a print layout copy of permission details.
+
 
 
 ### New Permission 
@@ -250,6 +269,7 @@ Click **'Password Policy Settings'** to open a dialog box. Adjust the password p
 -   Enter the required details into the form text fields and click the **'Proceed'** button to apply the policy changes. If you wish to discard the changes, click **'Cancel'** to exit the process.
 
 
+
 ## Current Sessions
 
 Click on **'Current Sessions'** to open the respective window. Inside this window, you will find a list displaying all currently logged-in users, as illustrated in the screenshot below:
@@ -264,6 +284,7 @@ Click on **'Current Sessions'** to open the respective window. Inside this windo
 -   Click on the date filters **labelled 2** to pick the start and end date to filter records.
 
 -   Click the filter button **labelled 3** to filter records based on the set dates.
+
 
 
 ## Take Notes
@@ -284,11 +305,13 @@ Click on **'Take Notes'** to open the Notes window. Inside this window, you will
 -   Click **label 4** search box and type key words to filter records.
 
 
+
 ### New Note
 
 Click the **'New'** button to open a dialog box. Within this window, enter the details of the new Note as illustrated below:
 
 <img  alt="new notes" width="75%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image25.png">  
+
 
 
 ## Audit Trail

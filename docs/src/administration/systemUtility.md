@@ -25,6 +25,7 @@ Click this link to open a dialog box to configure parameters related to connecti
 Click this link to open a dialog box to configure IPAs related to FundMaster integration with partnering banking institution for money transactions.
 
 
+
 ## Report Settings
 
 ### Report Server
@@ -32,6 +33,7 @@ Click this link to open a dialog box to configure IPAs related to FundMaster int
 Click the '**Report Server'** menu item to open a Report Server Config dialog box to configure settings that enables FundMaster to connect to a report server as shown in the screenshot below:
 
 <img  alt="report server" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image41.png">  
+
 
 
 ### Reports Configurations
@@ -57,11 +59,14 @@ Click the '**Reports Configurations'** menu item to open a reports configuration
 -   Click **label 7** button to remove a selected scheme mapping.
 
 
+
 ### New Configuration
 
 Click the **'New Configuration'** button to open a dialog box where settings for a new report configuration are done as shown below:
 
 <img  alt="New Configuration" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image43.png">  
+
+
 
 ### Uploading report logos
 
@@ -84,6 +89,7 @@ Click either of the **'Upload'** buttons to open a Logo Upload dialog box throug
 <img  alt="logo upload" width="75%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image45.jpg">  
 
 
+
 ### Mapping Scheme to a Configuration
 
 To map a scheme to a specific report configuration, select the configuration you want to map a scheme to from the list of
@@ -97,6 +103,7 @@ Click the **'Get Scheme to Map'** button to open the scheme details window. Sear
 <img  alt="Get Scheme to Map" width="85%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image47.jpg">  
 
 
+
 ### Reports Register
 
 Click the **'Reports Register'** link to open the Reports Register window where a list of all report objects from the various module are listed. From this window a particular report can be selected and **'Enables'** or **'Disabled'** as shown in the screenshot below:
@@ -107,6 +114,7 @@ Click the **'Reports Register'** link to open the Reports Register window where 
 **Tip**
 
 Select a report from the list and click the **'Enable'** button to have the report activated so that it can be generated. Otherwise Click **'Disable'** button means the report cannot be generated.
+
 
 
 ## Form Fields Validation Matrix
