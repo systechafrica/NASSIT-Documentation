@@ -82,8 +82,10 @@ function getSidebar() {
                 '',
                 'members',   
                 'contribution', 
-                'claimActivities', 
-                'takeNotes',  
+                'claimActivities',
+                'reserveFunds', 
+                'fundAccounts', 
+                 
             ]),
         '/pensioners/': generateSidebar(
             '/pensioners/',

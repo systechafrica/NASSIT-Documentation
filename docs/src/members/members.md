@@ -249,3 +249,12 @@ The **'Accounts General Payroll'** window contains the list of the members who w
 The '**General member Approval'** window displays the members whose details have been updated and need to be certified and approved before they can be moved to the member register. See screenshot below:
 
 <img  alt="General member Approval" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image22.png">
+
+
+## Take Notes
+
+This tool aids the system users to take some notes and save them. To see the notes already written and capture new notes.
+
+Click the **'Take Notes'** link to open the Notes window. From this window locate and then click the **'New'** button to load a new dialog box and type new notes as shown below:
+
+<img  alt="Take Notes" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image23.png">

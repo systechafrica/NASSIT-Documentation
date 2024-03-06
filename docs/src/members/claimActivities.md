@@ -129,34 +129,3 @@ Next, click the **'Proceed Now'** button to process the payment and save the rec
 After the **'Certification'** is done, the record status in the movement processing window will turn from **'Awaiting Certification'** to **'Calculation done'** as shown in the screenshot below:
 
 <img  alt="Awaiting Certification" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image70.png">
-
-
-## Reserve Funds
-
-FundMaster maintains records of balances (overpayments and underpayments) in different transactions. See relevant Reserve Fund
-links in the enclosed drop-down menu below:
-
-<img  alt="Reserve Funds" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image71.png">
-
-
-### Transactions Register
-
-Click the **'Transactions Register'** link to open the Transactions Register where different transaction balances are listed. The transactions are normally recorded as **Inflows**, which denotes overpayments. These inflows can later be used to settle deficits, say later underpayments from the same sponsor account.
-
-The movement of money from the Fund accounts to bridge the deficit is treated as an **Outflow**. The screenshot below shows a sample of a Reserve Funds Transactions Register in FundMaster:
-
-<img  alt="Transactions Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image72.png">
-
-
-## Fund Accounts
-
-From the **'Fund Accounts'** menu, the **'Financial Periods Register'** is accessed enabling the creation of the different financial periods. This allows different activities related to the fiscal financial transactions.
-
-<img  alt="Financial Periods Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image73.png">
-
-
-### Financial Periods Register
-
-Click the **'Financial Periods Register'** link to open the Financial Periods Register window where all financial periods in a scheme are listed. You can also create periods by Click the '**Create Periods'** drop-down menu as shown below:
-
-<img  alt="Create Periods" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image74.png">
