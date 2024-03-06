@@ -80,7 +80,9 @@ function getSidebar() {
             'Members Module',
             [
                 '',
-                'members',      
+                'members',   
+                'contribution', 
+                'takeNotes',  
             ]),
         '/pensioners/': generateSidebar(
             '/pensioners/',

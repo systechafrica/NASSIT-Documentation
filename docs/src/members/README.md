@@ -25,6 +25,7 @@ pane expanded to reveal menu links to different configuration windows:
 
 3.  Click on the button **labeled 3** to access the system\'s
     Intelligent Assistant (IA) chatbot.
+    
 
 ## Prerequisites
 
