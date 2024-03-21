@@ -2,7 +2,7 @@
 
 The **‘Payroll Register’** holds the details of pensioners who are qualified to receive their pension moneys. See screenshot below:
 
-<img  alt="pensioners payroll" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/payroll.png/pensionmedia/image5.png">
+<img  alt="pensioners payroll" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/payroll.png">
 
  
  **Action**
@@ -15,6 +15,9 @@ The **‘Payroll Register’** holds the details of pensioners who are qualified
 #### Payroll Activities
 
 From the payroll register, several actions can be taken upon a selected pension on the payroll such as viewing a pensioner’s tax calculation. Click on a menu item to open respective windows where such actions can be performed. See screenshot below:
+
+<img  alt="pensioners payroll" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/payrolloperations.png">
+
 
  
 
@@ -35,7 +38,7 @@ moved to the **'Approve Selected'** as shown below:
 <img  alt="New Pensioners Approval" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image10.png">
 
 
-## Pensioners Updates for Approval
+### Pensioners Updates for Approval
 
 All pensioners whose details have been updated individually, are listed
 on the '**Pensioners Updates for Approval'** window. Here the updates
@@ -59,7 +62,7 @@ screenshot below:
 
 
 
-## Pensioners Batch Updates Register
+### Pensioners Batch Updates Register
 
 All pensioners whose details have been updated in batch using a
 **template** are listed on the **'Pensioners Batch Updates Register'**
