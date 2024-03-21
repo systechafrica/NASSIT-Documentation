@@ -1,4 +1,4 @@
-### Pensioner Upload Processes
+### Pensioner Upload Process
 
 To onboard pensioners, a user must upload the pensioners in template
 format with verified pension details including:
@@ -13,7 +13,7 @@ format with verified pension details including:
     pensioner.
 
 
-#### Batch Upload Method
+## Batch Upload Method
 
 To upload the pensioners in batch using a template, navigate to the
 'Pensioners Register' and from the hamburger icon on the right, click
@@ -49,7 +49,7 @@ A successful batch upload process will be listed on the **'New pensioner
 Batch Register'** where the certification process is conducted as shown
 on the above-mentioned register.
 
-#### Single Upload Method
+## Single Upload Method
 
 The single pensioner upload method commences from the members register
 when scheme member retires. At exit, if the member's benefits are
