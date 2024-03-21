@@ -1,4 +1,4 @@
-## Intro
+## Pensioners Module
 
 The pensioners module contains information on scheme members that have
 become eligible to receive their annuities/pension upon retirement. The

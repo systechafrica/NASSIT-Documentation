@@ -19,8 +19,8 @@ module.exports = {
                 items: [
                     {text: 'Admin Panel', link: '/administration/'},
                     {text: 'Scheme Setup', link: '/setupscheme/'},
-                    {text: 'Member Register', link: '/members/'},
-                    {text: 'Pensioner Register', link: '/pensioners/'},
+                    {text: 'Members Register', link: '/members/'},
+                    {text: 'Pensioners Register', link: '/pensioners/'},
                     {text: 'Workflow Engine', link: '/workflow/'},
                     {text: 'Reporting Engine', link: '/reports/'},
                 ],
@@ -94,7 +94,7 @@ function getSidebar() {
             [
                 '',
                 'pensionersUpload',
-                'onboarding',
+                'pensionPayroll',
                 'approval',
                 'deductionAndArrears',
                 'payroll',
