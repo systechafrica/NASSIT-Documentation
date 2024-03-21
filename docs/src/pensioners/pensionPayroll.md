@@ -1,3 +1,5 @@
+### Pension Register
+
 ## Payroll Register
 
 The **‘Payroll Register’** holds the details of pensioners who are qualified to receive their pension moneys. See screenshot below:
@@ -20,8 +22,7 @@ From the payroll register, several actions can be taken upon a selected pension 
 
 
  
-
-## New Pensioners Approval
+## Pensioner Approval
 
 All pensioners who come directly from the members module after exiting a
 scheme through retirement are directly moved to the **'New Pensioners Approval'** 
@@ -38,7 +39,7 @@ moved to the **'Approve Selected'** as shown below:
 <img  alt="New Pensioners Approval" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image10.png">
 
 
-### Pensioners Updates for Approval
+#### Pensioners Updates for Approval
 
 All pensioners whose details have been updated individually, are listed
 on the '**Pensioners Updates for Approval'** window. Here the updates
