@@ -14,7 +14,7 @@ The **‘Payroll Register’** holds the details of pensioners who are qualified
 -   Click Label 3 dropdown button to access extra links such as print menu to view a list of related reports. 
 
 
-#### Payroll Activities
+### Payroll Activities
 
 From the payroll register, several actions can be taken upon a selected pension on the payroll such as viewing a pensioner’s tax calculation. Click on a menu item to open respective windows where such actions can be performed. See screenshot below:
 
@@ -39,7 +39,7 @@ moved to the **'Approve Selected'** as shown below:
 <img  alt="New Pensioners Approval" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image10.png">
 
 
-#### Pensioners Updates for Approval
+### Pensioners Updates for Approval
 
 All pensioners whose details have been updated individually, are listed
 on the '**Pensioners Updates for Approval'** window. Here the updates
