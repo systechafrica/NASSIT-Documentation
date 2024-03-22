@@ -13,13 +13,13 @@ medical covers or saccos, among others.
 -   Deduction type bank details must be up to date
 
 
-### Deduction Types
+## Deduction Types
 
 To add deduction types to the system, navigate to deduction menu and
 click **'Deduction Types'** link to open the deduction types window as
 shown below:
 
-<img  alt="deduction types window" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image22.png">
+<img  alt="deduction types window" width="97%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image22.png">
 
 
 **Action**
@@ -33,15 +33,15 @@ shown below:
     the list.
 
 
-Clicking the **'New Deduction Type'** button will open a Deduction Types
+Clicking the **'New Deduction Type'** button will open a deduction types
 dialog box through which the details of a new deduction type can be
 added in the system as shown in the screenshot below:
 
-<img  alt="add New Deduction Type" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image23.png">
+<img  alt="deduction types dialog box " width="80%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image23.png">
 
 
 
-### Adding Deduction to Pensioner
+## Adding Deduction to Pensioner
 
 Once the details have been saved successfully the next action is to add
 Pensioners deduction. There are two methods for adding deductions to
@@ -51,12 +51,13 @@ a.  Adding deduction for a single pensioner.
 
 b.  Adding deductions via template for more than one pensioner.
 
-#### Adding Deduction for a Single Pensioner
+
+### Adding Deduction for a Single Pensioner
 
 To add single pensioner deduction, proceed to the left side pane and
 click payroll register link as shown below:
 
-<img  alt="payroll register link" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image24.png">
+<img  alt="payroll register link" width="50%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image24.png">
 
 
 Clicking the **'Payroll Register'** link will open the Payroll Register
@@ -68,23 +69,25 @@ upper corner. This will open a section on the lower part of the window.
 Locate the Add Member deduction on the left side and click to launch a
 dialog box for filling in details. See the screenshot below:
 
-<img  alt="Payroll Register window" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image25.png">
+<img  alt="Payroll Register window" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image25.png">
 
 
 Clicking the **'Add Member Deduction'** button will pop up a pensioner
 deduction form through which details of the deduction transaction are
 captured as shown below:
 
-<img  alt="Add Member Deduction" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image26.png">
+<img  alt="Add Member Deduction" width="70%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image26.png">
 
 
-#### Adding Deductions Via Template
+
+### Adding Deductions Via Template
 
 This applies when the user wants to add pensioner deductions for more
 than one pensioner which will save user's time as opposed to adding
 deductions for a single pensioner at a time.
 
-#### Prerequisites
+
+### Prerequisites
 
 -   Load the deduction template provided.
 
@@ -97,7 +100,7 @@ demonstrated previously with a single pensioner. From the menu bar click
 the Pensioner Liability and from the drop-down menu, select 
 **'Import Member Deductions'** as shown in the screenshot below:
 
-<img  alt="Import Member Deductions link" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image27.png">
+<img  alt="Import Member Deductions link" width="97%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image27.png">
 
 
 Clicking the **'Import Member Deductions'** button will load an import
@@ -106,7 +109,7 @@ navigate to the location of already loaded deduction template from your
 files and click upload button which will populate the grid with both
 valid and invalid deduction details as shown in the screenshot below:
 
-<img  alt="import deductions window" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image28.png">
+<img  alt="import deductions window" width="97%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image28.png">
 
 
 To view the Pensioner's Deductions list, navigate to the Payroll
@@ -114,5 +117,5 @@ Register menu and select a Pensioner from the list. Click the
 **'Show Details'** checkbox at the right top corner as shown in the screenshot
 below:
 
-<img  alt="Show details checkbox" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image29.png">
+<img  alt="Show details checkbox" width="97%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image29.png">
 
