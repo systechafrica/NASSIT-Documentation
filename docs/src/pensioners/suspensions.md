@@ -1,12 +1,12 @@
-## Suspensions And Stoppages
+## Suspensions and Stoppages
 
 The **'Suspensions and Stoppages'** menu gives access to the suspensions
 register and stoppages register. See screenshot below:
 
-<img  alt="Suspensions and Stoppages menu" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image33.png">
+<img  alt="Suspensions menu" width="60%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image33.png">
 
 
-### Pension Suspensions
+## Pension Suspensions
 
 The **'Pension suspension'** window lists all the pensioners who are
 suspended from receiving their pensions. From this window a selected
@@ -33,16 +33,18 @@ and suspension history of a selected pension viewed as shown below:
     selected pensioners.
 
 
-#### Reasons for Suspension
+## Reasons for Suspension
 
 The **'Reason for Suspension'** window displays a list of reasons for
 suspension. From this window new reasons for exit can be added to the
 list. See screenshot below:
 
-<img  alt="Reason for Suspension" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image35.png">
+<img  alt="Reason for Suspension" width="80%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image35.png">
 
 
-### Pension Stoppage
+## Pension Stoppage
 
-<img  alt="Pension Stoppage" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image36.png">
+The **'Pension Stoppage'** window displays a list of all pensionerss stopped from receiving pensions money. See sreenshot below:
+
+<img  alt="Pension Stoppage" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image36.png">
 
