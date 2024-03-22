@@ -16,7 +16,7 @@ To access the Pensioners Module dashboard, click the **Pensioners Module**
 link on the FundMaster landing page to open the **Pensioners Links** window
 shown below:
 
-<img  alt="Pensioners Module home page" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image1.png">
+<img  alt="Pensioners Module home page" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image1.png">
 
 
 **Action**
@@ -55,7 +55,7 @@ To upload the pensioners in batch using a template, navigate to the
 **'Pensioner Import template'** to download a template as shown below:
 
 
-<img  alt="Import template" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image4.png">
+<img  alt="Import template" width="97%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image4.png">
 
 
 Follow the subsequent steps to download the template to your local
@@ -79,7 +79,7 @@ the errors that need to be corrected regarding data in the upload
 template for a successful process. See screenshot below:
 
 
-<img  alt="pensioners inmprt window" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image6.png">
+<img  alt="pensioners inmprt window" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image6.png">
 
 
 A successful batch upload process will be listed on the **'New pensioner
