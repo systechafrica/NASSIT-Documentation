@@ -1,6 +1,6 @@
-### Introduction
+### Members Module
 
-The Members Module facilitates the seamless onboarding of individuals into a scheme by establishing a connection between members and their respective employers through Cost Centers. This linkage streamlines the management of diverse employers, members\' contributions, and overall operational processes. The module excels not only in ensuring efficient onboarding but also provides features for viewing existing members, uploading contributions, and initiating claim processes among others.
+The members module facilitates the seamless onboarding of individuals into a scheme by establishing a connection between members and their respective employers through Cost Centers. This linkage streamlines the management of diverse employers, members\' contributions, and overall operational processes. The module excels not only in ensuring efficient onboarding but also provides features for viewing existing members, uploading contributions, and initiating claim processes among others.
 
 Below is a screenshot of the Members Module dashboard with the left side pane expanded to reveal menu links to different configuration windows:
 

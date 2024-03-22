@@ -1,4 +1,4 @@
-### Introduction
+### Scheme Setup Module
 
 The scheme setup module implements the trust deed and rules of a scheme. These rules are implemented in the system through configurations such as Basic Scheme Details, Contribution Rates, Benefits Configuration Matrix etc.
 
