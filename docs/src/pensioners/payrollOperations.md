@@ -1,4 +1,4 @@
-## Payroll Operations
+### Payroll Operations
 
 The **'Payroll Operations'** window gives links to access to key payroll
 related actions such as running a payroll window. See screenshot below:

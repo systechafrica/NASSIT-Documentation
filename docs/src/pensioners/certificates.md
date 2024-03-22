@@ -1,6 +1,6 @@
 
 
-## Certificates
+### Certificates
 
 The **'Certificates'** menu gives access to the certificate of exitance
 register and the proof studies register. See screenshot below:
