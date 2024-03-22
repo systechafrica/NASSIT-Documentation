@@ -93,7 +93,6 @@ function getSidebar() {
             'Pensioners Module',
             [
                 '',
-                'pensionersUpload',
                 'pensionPayroll',
                 'approval',
                 'deductionAndArrears',
