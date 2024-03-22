@@ -1,4 +1,4 @@
-## Suspensions and Stoppages
+### Suspensions and Stoppages
 
 The **'Suspensions and Stoppages'** menu gives access to the suspensions
 register and stoppages register. See screenshot below:
