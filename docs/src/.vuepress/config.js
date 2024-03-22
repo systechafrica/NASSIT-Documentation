@@ -94,10 +94,10 @@ function getSidebar() {
             [
                 '',
                 'pensionPayroll',
-                'approval',
-                'deductionAndArrears',
-                'payroll',
-                'liabilities',              
+                'payrollOperations',
+                'deductions',
+                'certificates',
+                'suspensions',           
             ]),
         '/workflow/': generateSidebar(
             '/workflow/',
