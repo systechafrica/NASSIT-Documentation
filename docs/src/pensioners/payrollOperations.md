@@ -3,14 +3,15 @@
 The **'Payroll Operations'** window gives links to access to key payroll
 related actions such as running a payroll window. See screenshot below:
 
-<img  alt="Payroll Operations" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image13.png">
+<img  alt="Payroll Operations" width="75%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image13.png">
 
-### Previous Payrolls
+
+## Previous Payrolls
 
 The **'Previous Payrolls'** window lists all previous payrolls as shown
 below:
 
-<img  alt="Previous Payrolls" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image14.png">
+<img  alt="Previous Payrolls" width="98%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image14.png">
 
 
 **Action**
@@ -41,31 +42,32 @@ below:
 details, else the grid will be empty.
 
 
-#### Payroll Activities
+
+### Payroll Activities
 
 From the payroll register, several actions can be taken upon a selected
 pension on the payroll such as viewing a pensioner's tax calculation.
 Click on a menu item to open respective windows where such actions can
 be performed. See screenshot below:
 
-<img  alt="operations menu" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image15.png">
+<img  alt="operations menu" width="65%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image15.png">
 
 
 
-### Run Payroll
+## Run Payroll
 
 To run the payroll, navigate to Pension Payroll menu, from the 
 **'Run Payroll'** menu, click on Run Payroll sub-menu to pop up a payroll
 checklist as shown in the screenshot below:
 
-<img  alt="Run Payroll" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image16.png">
+<img  alt="Run Payroll" width="45%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image16.png">
 
 
 Clicking the **'Run Payroll'** link will open the payroll roll checklist
 window. Confirm various payroll parameters and click 'Run Payroll'
 button as shown in the screenshot below:
 
-<img  alt="Run Payroll" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image17.png">
+<img  alt="Run Payroll" width="70%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image17.png">
 
 
 **Note:** If a payroll runs successfully, it will move to the previous
@@ -74,12 +76,12 @@ then certified.
 
 
 
-### Pension Arrears Register
+## Pension Arrears Register
 
 The **'Pension Arrears Register'** records all arears details and allows
 selected arrears to be written off. See screenshot below:
 
-<img  alt="Pension Arrears Register" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image18.png">
+<img  alt="Pension Arrears Register" width="98%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image18.png">
 
 
 **Action**
@@ -95,28 +97,28 @@ selected arrears to be written off. See screenshot below:
 
 
 
-#### Adding Arrears
+### Adding Arrears
 
 To add Arrears, select a pensioner from the payroll window to add an
 arrears for that pensioner. From the **'Operations'** dropdown window,
 click **'Add pensioner Arrears'** as shown below:
 
-<img  alt="Operations menu" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image19.png">
+<img  alt="Operations menu" width="55%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image19.png">
 
 
-Clicking the '**Add Pensioners Arrears'** link will open a new
+Clicking the **'Add Pensioners Arrears'** link will open a new
 pensioners arrears form through which an arrear is added to a pensioners
 payroll detail. Key in the arrears details and click the '**Save'**
 button as shown in the screenshot below:
 
-<img  alt="Add Pensioners Arrears" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image20.png">
+<img  alt="Add Pensioners Arrears" width="75%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image20.png">
 
 
 
-### Unclaimed Cheques
+## Unclaimed Cheques
 
 The **'Unclaimed Cheques'** window lists all the cheques written in a
 scheme. See screenshot below:
 
-<img  alt="Unclaimed Cheques" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image21.png">
+<img  alt="Unclaimed Cheques" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image21.png">
 
