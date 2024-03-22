@@ -1,5 +1,5 @@
 
-## Deductions
+### Deductions
 
 Deductions are different forms of substructions that are made from
 pensioners' retirement pension and to remitted to other funds such as
@@ -87,7 +87,7 @@ than one pensioner which will save user's time as opposed to adding
 deductions for a single pensioner at a time.
 
 
-### Prerequisites
+#### Prerequisites
 
 -   Load the deduction template provided.
 
