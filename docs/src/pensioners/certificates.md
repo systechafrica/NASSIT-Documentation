@@ -5,10 +5,11 @@
 The **'Certificates'** menu gives access to the certificate of exitance
 register and the proof studies register. See screenshot below:
 
-<img  alt="Certificates" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image30.png">
+<img  alt="Certificates" width="60%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image30.png">
 
 
-### Certificate of Existence Register 
+
+## Certificate of Existence Register 
 
 First, a Certificate of Existence (C.O.E) is proof that a particular
 pensioner is still alive. FundMaster has a provision for generating
@@ -17,7 +18,7 @@ a pensioner must return the COE before the period elapsed. All COE
 cycles are listed on the **'Certificate of Existence Register'** as
 shown below:
 
-<img  alt="Certificate of Existence Register" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image31.png">
+<img  alt="Certificate of existence register" width="97%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image31.png">
 
 
 **Action**
@@ -48,9 +49,9 @@ shown below:
 
 
 
-#### Generation of C.O.E. Cycles
+### Generation of C.O.E. Cycles
 
-Clicking the **'Generate a Certificates of Existence'** button will
+Clicking the **'Generate a certificates of existence'** button will
 open a dialog box for inputting cycle dates as shown below:
 
-<img  alt="Certificates of Existence dialog box" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image32.png">
+<img  alt="Certificates of Existence dialog box" width="70%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image32.png">
