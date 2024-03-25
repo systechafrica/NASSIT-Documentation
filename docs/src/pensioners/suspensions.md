@@ -44,7 +44,7 @@ list. See screenshot below:
 
 ## Pension Stoppage
 
-The **'Pension Stoppage'** window displays a list of all pensionerss stopped from receiving pensions money. See sreenshot below:
+The **'Pension Stoppage'** window displays a list of all pensioners stopped from receiving pensions money. See screenshot below:
 
 <img  alt="Pension Stoppage" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image36.png">
 

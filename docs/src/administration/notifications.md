@@ -6,7 +6,7 @@ templates to effectively communicate with the target audience, addressing variou
 <img  alt="notification" width="65%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image27.png">  
 
 
-### Notification Configuration Matrix
+## Notification Configuration Matrix
 
 Click on the \'**Notifications Config Matrix\'** menu item to launch the **'Send Notifications Form'** allowing selection of key events and activities for which notification messages should be sent. See screenshot below:
 
@@ -21,7 +21,7 @@ Click on the \'**Notifications Config Matrix\'** menu item to launch the **'Send
 
 
 
-### Notification Integration
+## Notification Integration
 
 Click on the \'**Notifications Integration\'** menu item to launch the **'Notifications Services'** dialog box. Key in the right configuration details to connect to the notification micro service as shown in the screenshot below:
 
@@ -29,7 +29,7 @@ Click on the \'**Notifications Integration\'** menu item to launch the **'Notifi
 
 
 
-### Email SetUp
+## Email SetUp
 
 The Email Setup feature enables the configuration of different Simple Mail Transfer Protocols (SMTPs) to facilitate email communication within the system. The screenshot below provides a list of previously configured SMTPs:
 
@@ -50,7 +50,7 @@ The Email Setup feature enables the configuration of different Simple Mail Trans
 
 
 
-### New SMTP Set UP
+### New SMTP SetUP
 
 Clicking '**Email Set Up'** button labeled 1 will open a dialog box to configure email set up parameters as shown below:
 
@@ -58,7 +58,7 @@ Clicking '**Email Set Up'** button labeled 1 will open a dialog box to configure
 
 
 
-### S.M.S Set Up
+## S.M.S SetUp
 
 This setup feature allows for the configuration of SMS service providers, enabling the system to send and receive SMS messages. Refer to the screenshot below for details:
 
@@ -87,7 +87,7 @@ Clicking on the **'New SMS Setup**' button labeled 1 opens an 'External API Deta
 
 
 
-### Notifications Templates
+## Notifications Templates
 
 The system provides the flexibility to customize notification templates. Simply click on the \'**Notifications Templates\'** menu item to access a grid table displaying all available templates, as illustrated in the
 screenshot below:
@@ -131,7 +131,7 @@ Click the '**Add Notification Attachment'** button to open the Attachment config
 
 
 
-### Email Outbox
+## Email Outbox
 
 Click the **'Outbox'** link to open the outbox window where all outgoing email triggered from the system at the initiation of certain processes are listed as shown below:
 
@@ -154,11 +154,11 @@ Click the **'Outbox'** link to open the outbox window where all outgoing email t
 
 
 
-### Periodic Emails
+## Periodic Emails
 
 <img  alt="periodic email" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image38.png">  
 
 
-### S.M.S Outbox
+## S.M.S Outbox
 
 <img  alt="sms outbox" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image39.png">  
