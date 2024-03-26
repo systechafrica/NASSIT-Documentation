@@ -47,7 +47,7 @@ format with verified pension details including:
     pensioner.
 
 
-### Batch Upload Method
+## Batch Upload Method
 
 To upload the pensioners in batch using a template, navigate to the
 'Pensioners Register' and from the hamburger icon on the right, click
@@ -55,39 +55,38 @@ To upload the pensioners in batch using a template, navigate to the
 **'Pensioner Import template'** to download a template as shown below:
 
 
-<img  alt="Import template" width="97%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image4.png">
+<img  alt="Import template" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image4.png">
 
 
-Follow the subsequent steps to download the template to your local
-machine. Fill in the template with the required data and upload it to
-the system.
-
-After filling the template with correct data, navigate back to the
-**'Import From Templates'** menu and click **'Import Pensioners Batch'**
-to upload the pensioners.
-
-Click the '**Browse'** button and navigate to the location of the
-template in your files and click the **'Upload'** button as shown below:
-
-<img  alt="upload pensioners" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image5.png">
+Follow the steps as shown in the above screenshot to download the template to your
+local machine. Fill in the template with the required data and navigate back to the 
+**‘Import From Templates’** menu and click **‘Import Pensioners Batch’** 
+to upload the pensioners as shown below:
 
 
-Clicking the **'Upload'** button, as shown in the presiding screenshot,
-will populate the grid table within the import pensioners window with
-**'Valid Import'** and **'Exceptions.'** The exceptions window will show
-the errors that need to be corrected regarding data in the upload
-template for a successful process. See screenshot below:
+<img  alt="Import pensioner menu" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image4a.png">
+
+Clicking the **‘Import Pensioner Batch’** to open the import pensioners 
+window. From the window, click the ‘Browse’ button and navigate to 
+where the template file is in your device. After establishing the
+access path, select the ‘Schedule Type’ from the dropdown list,
+key in the MS Excel sheet number and then click the **‘Upload’** button as shown below:
+
+<img  alt="upload pensioners" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image5.png">
 
 
-<img  alt="pensioners inmprt window" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image6.png">
+Clicking the **‘Upload’** button will populate the grid table within 
+the import pensioners window with ‘Valid Import’ window showing the 
+names of the pensioners. Clicking the ‘Exception’ tab will open the
+exceptions window showing the errors that need to be corrected regarding
+data in the template for a successful process. See screenshot below:
 
+<img  alt="pensioners inmprt window" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image6.png">
 
-A successful batch upload process will be listed on the **'New pensioner
-Batch Register'** where the certification process is conducted as shown
+A successful batch upload process will be listed on the **'New pensioner Batch Register'** where the certification process is conducted as shown
 on the above-mentioned register.
 
-
-### Single Upload Method
+## Single Upload Method
 
 The single pensioner upload method commences from the members register
 when scheme member retires. At exit, if the member's benefits are

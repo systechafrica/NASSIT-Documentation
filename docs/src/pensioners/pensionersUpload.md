@@ -38,7 +38,7 @@ where the template file is in your device. After establishing the
 access path, select the ‘Schedule Type’ from the dropdown list,
 key in the MS Excel sheet number and then click the **‘Upload’** button as shown below:
 
-<img  alt="upload pensioners" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image5.png">
+<img  alt="upload pensioners" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image5.png">
 
 
 Clicking the **‘Upload’** button will populate the grid table within 
