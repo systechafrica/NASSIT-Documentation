@@ -23,30 +23,24 @@ To upload the pensioners in batch using a template, navigate to the
 
 <img  alt="Import template" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image4.png">
 
-Follow the subsequent steps to download the template to your local
-machine. Fill in the template with the required data and upload it to
-the system.
 
-After filling the template with correct data, navigate back to the
-**'Import From Templates'** menu and click **'Import Pensioners Batch'**
-to upload the pensioners.
+Follow the steps as shown above image, to download the template to your local machine. Fill in the template with the required data and upload it to the system.
 
-Click the '**Browse'** button and navigate to the location of the
-template in your files and click the **'Upload'** button as shown below:
+After filling the template with correct data, navigate back to the ‘Import From Templates’ menu and click **‘Import Pensioners Batch’** to upload the pensioners as shown below:
+
+
+<img  alt="Import pensioner menu" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image4a.png">
+
+Clicking the **‘Import Pensioner Batch’** to open the import pensioners window. From the window, click the ‘Browse’ button and navigate to where the template file is in your device. After establishing the access path, select the ‘Schedule Type’ from the dropdown list, key in the MS Excel sheet number and then click the **‘Upload’** button as shown below:
 
 <img  alt="upload pensioners" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image5.png">
 
-Clicking the **'Upload'** button, as shown in the presiding screenshot,
-will populate the grid table within the import pensioners window with
-**'Valid Import'** and **'Exceptions.'** The exceptions window will show
-the errors that need to be corrected regarding data in the upload
-template for a successful process. See screenshot below:
 
+Clicking the **‘Upload’** button will populate the grid table within the import pensioners window with ‘Valid Import’ window showing the names of the pensioners. Clicking the ‘Exception’ tab will open the exceptions window showing the errors that need to be corrected regarding data in the template for a successful process. See screenshot below:
 
 <img  alt="pensioners inmprt window" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image6.png">
 
-A successful batch upload process will be listed on the **'New pensioner
-Batch Register'** where the certification process is conducted as shown
+A successful batch upload process will be listed on the **'New pensioner Batch Register'** where the certification process is conducted as shown
 on the above-mentioned register.
 
 ## Single Upload Method

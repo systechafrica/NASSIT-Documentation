@@ -76,7 +76,7 @@ Clicking the **'Add Member Deduction'** button will pop up a pensioner
 deduction form through which details of the deduction transaction are
 captured as shown below:
 
-<img  alt="Add Member Deduction" width="70%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image26.png">
+<img  alt="Add Member Deduction" width="65%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image26.png">
 
 
 
