@@ -60,7 +60,7 @@ Clicking the **'View Member'** button (see previous screenshot) will open a memb
 
 The **'Member Operations'** menu provides links to open windows for various actions related to members. These actions include tasks like adding a new member, importing members using templates among others. See the screenshot below:
 
-<img  alt="Member Operations" width="50%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image5.png">
+<img  alt="Member Operations" width="46%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image5.png">
 
 
 ### Member Onboarding Processes
@@ -75,6 +75,7 @@ To register a single member in a scheme, a member details form is used to captur
 **Tip**
 
 -   Remember to go to the member approval window to approve a newly created member. This is demonstrated in a later section.
+
 
 
 ### *Batch Member Onboarding Method* 
@@ -105,7 +106,7 @@ Below is a sample template used to import and upload members:
 To upload members efficiently, restrict the number of members on the file to a figure below 65,500.
 
 
-### Members Import Process using a template
+### Members batch upload Process
 
 To import members in batch, after preparing the template, click the **Members** link to open the **Members Import** window through which the template is loaded from a user's storage device to the system as shown below:
 
