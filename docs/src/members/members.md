@@ -102,10 +102,10 @@ Below is a sample template used to import and upload members:
 
 **Tip**
 
-To upload members efficiently, restrict the number of members on the file to a figure below 65, 500.
+To upload members efficiently, restrict the number of members on the file to a figure below 65,500.
 
 
-## Members Import Process
+### Members Import Process using a template
 
 To import members in batch, after preparing the template, click the **Members** link to open the **Members Import** window through which the template is loaded from a user's storage device to the system as shown below:
 
