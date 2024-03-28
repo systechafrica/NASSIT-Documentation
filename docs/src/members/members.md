@@ -127,7 +127,7 @@ To import members in batch, after preparing the template, click the **Members** 
 
 Clicking the **'Hamburger'** icon on the right side of the members register window will open a dropdown menu with more options of the actions that relate to members. These actions include claim movements, reports among others. See the screenshot below:
 
-<img  alt="Hamburger" width="50%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image11.png">
+<img  alt="Hamburger" width="45%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image11.png">
 
 
 ### Members Extra Details

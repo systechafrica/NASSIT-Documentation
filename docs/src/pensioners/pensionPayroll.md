@@ -28,7 +28,7 @@ After onboarding pensioners from the members module, the pensioners must
 be approved before they can be listed in the pensioners register. 
 See pensioners approval menu in the screenshot below:
 
-<img  alt="pensioners approval menu" width="68%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image7.png">
+<img  alt="pensioners approval menu" width="73%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image7.png">
 
 
 ### Pensioners Batch Register
@@ -37,7 +37,7 @@ All the pensioners onboarded in batch using a template are listed in the
 **'Pensioners Batch Register'** window for authorization process before
 moving to the payroll register. See screenshot below:
 
-<img  alt="pensioners batch register" width="68%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image8.png">
+<img  alt="pensioners batch register" width="98%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image8.png">
 
 
 **Action**
@@ -66,10 +66,8 @@ register. See screenshot below:
 
 <img  alt="New Pensioners Approval" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image9.png">
 
-**Note:** when a selected pensioner is approved by clicking the
-**'Approve Selected'** button, as shown above, the pensioner will be
-moved to the **'Approve Selected'** as shown below:
 
+**Note:** When a selected pensioner is approved by clicking the **‘Approve Selected’** button, as shown above, the pensioner will be moved to the **‘Payroll Register’** as shown below:
 
 <img  alt="New Pensioners Approval" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image10.png">
 
