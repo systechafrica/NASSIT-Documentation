@@ -1,4 +1,4 @@
-### Members
+### Establishments
 
 All the link options under the **'Members'** menu open to different windows where the respective configuration related to member management are done. See screenshot below:
 
@@ -6,9 +6,9 @@ All the link options under the **'Members'** menu open to different windows wher
 
 
 
-## Member Register
+## Establishments Register
 
-The **'Sponsor Register'** lists all the employers in a scheme. From this window specific actions can be carried out regarding a selected employer from the list. See screenshot below:
+The **'Establishments Register'** lists all the employers in a scheme. From this window specific actions can be carried out regarding a selected employer from the list. See screenshot below:
 
 <img  alt="Sponsor Register" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image3.png">
 
@@ -195,14 +195,17 @@ The '**Member Document Checklist'** is a list of all the documents that are need
 The **'Dependant Management'** menu provides access links to the dependents register and enrolment form. Click the respective link to
 open a window for interacting with the mentioned objects. See screenshot below:
 
-<img  alt="Dependant Management menu" width="70%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependant menu.png">
+<img  alt="Dependant Management menu" width="80%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependant menu.png">
+
 
 
 ### **Dependants Register**
 
-The **Dependants Register** contains the details of all the beneficiaries nominated by scheme members. From the register's menu bar, a new depandant can be created and from the **'Operations'** dropdown button and all necessary dependant document checklist accessed from the **'Open Register'** dropdown button. See screenshot below:
+The **'Dependants Register'** contains the details of all the beneficiaries nominated by scheme members. From the register's menu bar, a new depandant can be created and from the **'Operations'** dropdown button and all necessary dependant document checklist accessed from the **'Open Register'** dropdown button. See screenshot below:
 
-<img  alt="Dependant Register" width="80%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependant reg.png">
+
+<img  alt="Dependant Register" width="98%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependant reg.png">
+
 
 
 ### **Adding a New Dependant**
@@ -210,13 +213,14 @@ The **Dependants Register** contains the details of all the beneficiaries nomina
 To add a new Dependant, navigate to the **'Dependants Register'**,
 locate the **'Operations'** button and from the dropdown list, click **'Add New Dependant'** to open a dialog box for capturing the details of a new Dependant. Click on the **'Lookup Member'** button to select the members whose dependants details you need to capture as shown below:
 
-<img  alt="adding a new dependant" width="97%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependant details.png">
+
+<img  alt="adding a new dependant" width="98%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependant details.png">
 
 
 
 ## Benefits Log Checklist
 
-The '**Benefits Log Checklist'** window lists all the documents already defined for a claim of benefits. See screenshot below:
+The **'Benefits Log Checklist'** window lists all the documents already defined for a claim of benefits. See screenshot below:
 
 <img  alt="Benefits Log Checklist" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image20.png">
 
