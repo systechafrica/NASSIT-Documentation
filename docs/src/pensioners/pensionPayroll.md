@@ -26,7 +26,7 @@ From the payroll register, several actions can be taken upon a selected pension 
 
 After onboarding pensioners from the members module, the pensioners must be approved before they can be listed in the pensioners register. See pensioners approval menu in the screenshot below:
 
-<img  alt="pensioners approval menu" width="65%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image7.png">
+<img  alt="pensioners approval menu" width="60%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image7.png">
 
 
 ### Pensioners Batch Register
