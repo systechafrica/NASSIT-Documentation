@@ -4,7 +4,7 @@
 
 The **‘Payroll Register’** holds the details of pensioners who are qualified to receive their pension moneys. See screenshot below:
 
-<img  alt="pensioners payroll" width="97%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/payroll.png">
+<img  alt="pensioners payroll" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/payroll.png">
 
  
  **Action**
@@ -26,7 +26,7 @@ From the payroll register, several actions can be taken upon a selected pension 
 
 After onboarding pensioners from the members module, the pensioners must be approved before they can be listed in the pensioners register. See pensioners approval menu in the screenshot below:
 
-<img  alt="pensioners approval menu" width="73%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image7.png">
+<img  alt="pensioners approval menu" width="65%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image7.png">
 
 
 ### Pensioners Batch Register
@@ -61,6 +61,7 @@ All pensioners who come directly from the members module after exiting a scheme 
 <img  alt="New Pensioners Approval" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image10.png">
 
 
+
 ### Pensioners Updates for Approval
 
 All pensioners whose details have been updated individually, are listed on the '**Pensioners Updates for Approval'** window. Here the updates are certified and approved and moved to the payroll register. See screenshot below:
@@ -85,4 +86,4 @@ All pensioners whose details have been updated in batch using a **template** are
 window. Here the pensioners whose details have been changed are subjected to the certification process before moving to the payroll
 register. See screenshot below:
 
-<img  alt="Pensioners Batch Updates Register" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image12.png">
+<img  alt="Pensioners Batch Updates Register" width="97%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image12.png">
