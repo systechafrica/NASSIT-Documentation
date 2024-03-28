@@ -64,12 +64,12 @@ scheme through retirement are directly moved to the **'New Pensioners Approval'*
 window where they are approved and then moved to the payroll
 register. See screenshot below:
 
-<img  alt="New Pensioners Approval" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image9.png">
+<img  alt="New Pensioners Approval" width="97%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image9.png">
 
 
 **Note:** When a selected pensioner is approved by clicking the **‘Approve Selected’** button, as shown above, the pensioner will be moved to the **‘Payroll Register’** as shown below:
 
-<img  alt="New Pensioners Approval" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image10.png">
+<img  alt="New Pensioners Approval" width="97%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image10.png">
 
 
 ### Pensioners Updates for Approval
