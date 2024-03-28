@@ -110,7 +110,7 @@ To upload members efficiently, restrict the number of members on the file to a f
 
 To import members in batch, after preparing the template, click the **Members** link to open the **Members Import** window through which the template is loaded from a user's storage device to the system as shown below:
 
-<img  alt="Members Import Process" width="90%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image10.png">
+<img  alt="Members Import Process" width="90%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/memberimport.png">
 
 
 **Action**
