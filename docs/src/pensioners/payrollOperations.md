@@ -63,7 +63,7 @@ Clicking the **'Run Payroll'** menu item will open the payroll roll checklist wi
 
 The **'Pension Arrears Register'** records all arears details and allows selected arrears to be written off. See screenshot below:
 
-<img  alt="Pension Arrears Register" width="98%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image18.png">
+<img  alt="Pension Arrears Register" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image18.png">
 
 
 **Action**
@@ -94,5 +94,5 @@ payroll detail. Key in the arrears details and click the **'Save'** button as sh
 
 The **'Unclaimed Cheques'** window lists all the cheques written in a scheme. See screenshot below:
 
-<img  alt="Unclaimed Cheques" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image21.png">
+<img  alt="Unclaimed Cheques" width="98%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image21.png">
 

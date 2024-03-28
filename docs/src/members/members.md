@@ -196,7 +196,7 @@ The '**Member Document Checklist'** is a list of all the documents that are need
 The **'Dependant Management'** menu provides access links to the dependents register and enrolment form. Click the respective link to
 open a window for interacting with the mentioned objects. See screenshot below:
 
-<img  alt="Dependant Management menu" width="80%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependant menu.png">
+<img  alt="Dependant Management menu" width="60%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependant menu.png">
 
 
 
@@ -212,7 +212,7 @@ The **'Dependants Register'** contains the details of all the beneficiaries nomi
 ### **Adding a New Dependant**
 
 To add a new Dependant, navigate to the **'Dependants Register'**,
-locate the **'Operations'** button and from the dropdown list, click **'Add New Dependant'** to open a dialog box for capturing the details of a new Dependant. Click on the **'Lookup Member'** button to select the members whose dependants details you need to capture as shown below:
+locate the **'Operations'** button and from the dropdown list, click **'Add New Dependant'** to open a dialog box for capturing the details of a new Dependant. Click on the **'Lookup Member'** button to select the member whose dependants details you need to capture as shown below:
 
 
 <img  alt="adding a new dependant" width="98%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependant details.png">
