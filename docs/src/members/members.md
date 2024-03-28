@@ -1,4 +1,4 @@
-## Members
+### Members
 
 All the link options under the **'Members'** menu open to different windows where the respective configuration related to member management are done. See screenshot below:
 
@@ -6,7 +6,7 @@ All the link options under the **'Members'** menu open to different windows wher
 
 
 
-## Sponsor (Employer) Register
+## Member Register
 
 The **'Sponsor Register'** lists all the employers in a scheme. From this window specific actions can be carried out regarding a selected employer from the list. See screenshot below:
 
@@ -56,14 +56,14 @@ Clicking the **'View Member'** button (see previous screenshot) will open a memb
 
 
 
-## Member Operations
+### Member Operations
 
 The **'Member Operations'** menu provides links to open windows for various actions related to members. These actions include tasks like adding a new member, importing members using templates among others. See the screenshot below:
 
 <img  alt="Member Operations" width="50%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image5.png">
 
 
-## Member Onboarding Processes
+### Member Onboarding Processes
 
 ### *Single Member Onboarding Method*
 
@@ -192,15 +192,26 @@ The '**Member Document Checklist'** is a list of all the documents that are need
 
 ## Dependant Management
 
-From the **Dependant Managemet** menu, key beneficiaries operations are initiated and accomplished, such as registration of dependants and access to nomination and enrollment forms. See screenshot below:
+The **'Dependant Management'** menu provides access links to the dependents register and enrolment form. Click the respective link to
+open a window for interacting with the mentioned objects. See screenshot below:
+
+<img  alt="Dependant Management menu" width="70%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependant menu.png">
 
 
-<img  alt="Dependant Management" width="80%" height="auto" class="center"  src="../.vuepress/public/membersmedia/image18.png">
+### **Dependants Register**
+
+The **Dependants Register** contains the details of all the beneficiaries nominated by scheme members. From the register's menu bar, a new depandant can be created and from the **'Operations'** dropdown button and all necessary dependant document checklist accessed from the **'Open Register'** dropdown button. See screenshot below:
+
+<img  alt="Dependant Register" width="80%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependant reg.png">
 
 
-The **'Dependant Management'** menu, shown in the screenshot above, is not applicable to NASSIT dependants operations. To add dependants, select a particular member from the register, launch the **'Show Details'** section to add beneficiaries from the 'Dependents/Next of kin tab as shown below:
+### **Adding a New Dependant**
 
-<img  alt="Dependents/Next of kin" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image19.png">
+To add a new Dependant, navigate to the **'Dependants Register'**,
+locate the **'Operations'** button and from the dropdown list, click **'Add New Dependant'** to open a dialog box for capturing the details of a new Dependant. Click on the **'Lookup Member'** button to select the members whose dependants details you need to capture as shown below:
+
+<img  alt="adding a new dependant" width="97%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependant details.png">
+
 
 
 ## Benefits Log Checklist
