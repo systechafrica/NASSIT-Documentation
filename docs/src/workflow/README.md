@@ -4,7 +4,7 @@ This workflow management module enables a work distribution system that automate
 
 To access the investments Module dashboard, click the **Workflow Module** link on the FundMaster landing page to open **Workflow Links** window shown below:
 
-<img  alt="workflow dashboard image" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media6/image1.png"> 
+<img  alt="workflow dashboard image" width="98%" height="auto"  class="center"  src="../.vuepress/public/img/media6/image1.png"> 
 
 
 **Action**
@@ -24,4 +24,4 @@ To access the investments Module dashboard, click the **Workflow Module** link o
 
 -   Before proceeding with any workflow configurations, navigate to the Admin Panel links window and click the Systech configs link to open the System Configs window. Make sure **Enable Workflow** is **Yes**. If it is **No** click the **Details** button to open a dialog box where this is configured as shown in the screenshot below:
 
-<img  alt="Systech configs image" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media6/image4.png"> 
+<img  alt="Systech configs image" width="97%" height="auto"  class="center"  src="../.vuepress/public/img/media6/image4.png"> 

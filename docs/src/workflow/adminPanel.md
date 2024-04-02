@@ -9,7 +9,7 @@ The access links under the Admin Panel menu allow viewing of a list of all proce
 
 Clicking the **Process Register** link will open the Processes window where the details for all processes and their different tasks, assigned users and other details are displayed in a grid table as shown below:
 
-<img  alt="process register image" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media6/image6.png"> 
+<img  alt="process register image" width="98%" height="auto"  class="center"  src="../.vuepress/public/img/media6/image6.png"> 
 
 
 **Action**
@@ -22,7 +22,7 @@ Clicking the **Process Register** link will open the Processes window where the 
 
 Clicking the **Task Details** button will open the task details dialog box where the details of a selected task from the list can be viewed and configured as shown below:
 
-<img  alt="process register image" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media6/image7.png"> 
+<img  alt="process register image" width="76%" height="auto"  class="center"  src="../.vuepress/public/img/media6/image7.png"> 
 
 
 **Action**
@@ -44,7 +44,7 @@ The Task Details dialog box allows you to set the following parameters for each 
 
 Clicking the **Task Instances** link will open the tasks instances window where new tasks and their details are listed for further actions such as assigning task to users. See screenshot below:
 
-<img  alt="process register image" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media6/image8.png"> 
+<img  alt="process register image" width="97%" height="auto"  class="center"  src="../.vuepress/public/img/media6/image8.png"> 
 
 
 **Action**
@@ -66,14 +66,14 @@ Clicking the **Other Parameters** link will open the other parameters window whe
 
 To configure a non-working day, click the **Add Day** button to open a dialog box to set the day and Add Holiday button to set a day as holiday among other settings such as removing a set day as shown below:
 
-<img  alt="other parameters image" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media6/image9.png">
+<img  alt="other parameters image" width="97%" height="auto"  class="center"  src="../.vuepress/public/img/media6/image9.png">
 
 
 To configure a non-working day, click the **Add Day** button will open a dialog box for setting up the day as shown below:
 
-<img  alt="non working day image" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media6/image10.png"> 
+<img  alt="non working day image" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media6/image10.png"> 
 
 
 To configure a holiday, click the **Add Holiday** button will open a dialog box for setting up the day as shown below:
 
-<img  alt="holiday image" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media6/image11.png"> 
+<img  alt="holiday image" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media6/image11.png"> 

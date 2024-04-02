@@ -2,7 +2,7 @@
 
 The scheme analytics window displays different types of analysis on various scheme processes. To open the scheme analytics window, click the analytics button labelled 1 as shown in the following screenshot:
 
-<img  alt="overdue tasks image" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media6/image16.png"> 
+<img  alt="overdue tasks image" width="98%" height="auto"  class="center"  src="../.vuepress/public/img/media6/image16.png"> 
 
 
 **Action**
@@ -11,4 +11,4 @@ The scheme analytics window displays different types of analysis on various sche
 
 -   Click **Label 2** button to reveal a drop-down list where links to access different analysis on the system modules are listed as shown in the following screenshot:
 
-<img  alt="analysis image" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media6/image17.png"> 
+<img  alt="analysis image" width="98%" height="auto"  class="center"  src="../.vuepress/public/img/media6/image17.png"> 
