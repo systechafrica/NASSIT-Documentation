@@ -752,7 +752,7 @@ Click the **'New Eligible Age'** button to open a dialog box. Fill in the detail
 
 ### Asset Codes
 
-The asset codes configurations form provides for generating codes in the systems. See screenshot below:
+The **'Asset Codes'** configurations form provides for generating codes in the systems. See screenshot below:
 
 <img  alt="Asset Codes" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image74.png">  
 
