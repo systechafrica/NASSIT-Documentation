@@ -86,7 +86,7 @@ Click the **End Year Parameters** link to open the Year-End Parameters Details d
 <img  alt="End Year Parameters" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image95.png">  
 
 
-**Parameter description**
+**Parameter Description**
 
 -   **Select option on withdrawal benefit calculation before the year-end:** on the drop-down menu select provisional rate of
     interest, lock benefits in the scheme year-end, or refund principal (opening balances + Contributions)
