@@ -156,9 +156,28 @@ Click the **'Outbox'** link to open the outbox window where all outgoing email t
 
 ## Periodic Emails
 
-<img  alt="periodic email" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image38.png">  
+Configuring **Periodic Emails** involves setting up the system to send automated emails at scheduled intervals. This is commonly used for reminders, newsletters, reports, or updates etc. See screenshot below to see an example of a configuration. 
+
+<img  alt="periodic email" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image38.jpg"> 
+
+**Action**
+
+-   Click **label 1** button to load a new dialog box through which a new periodic email is configurable.
+
+-   Click **label 2** button to remove a selected email record from the list.
+-   Click **label 3** button to Certify a newly created periodic email from the list.
+-   Click **label 4** button to Approve a newly created periodic email from the list.
+
+
+Below is a screenshot of the dialog box through which a new periodic table is configured:
+
+<img  alt="periodic email" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image38a.jpg"> 
+
+
 
 
 ## S.M.S Outbox
 
-<img  alt="sms outbox" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image39.png">  
+The **SMS Outbox** feature allows users to manage and track outgoing SMS messages that have been sent or are queued for delivery. It provides a way to view the status, history, and details of messages sent from the FundMaster, which can be crucial for managing communications, especially in automated notification systems. See screenshot below:
+
+<img  alt="sms outbox" width="98%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image39.jpg">  

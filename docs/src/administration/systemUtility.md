@@ -40,7 +40,7 @@ Click the '**Report Server'** menu item to open a Report Server Config dialog bo
 
 Click the '**Reports Configurations'** menu item to open a reports configurations dialog box to configure settings that enable a scheme to connect to a report server as shown in the screenshot below:
 
-<img  alt="Reports Configurations" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image42.png">  
+<img  alt="Reports Configurations" width="99%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image42.png">  
 
 **Action**
 

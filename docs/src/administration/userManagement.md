@@ -64,11 +64,11 @@ Clicking the '**New User**' will open '**User Details**' form where the details 
 
 To access adsditional details about a user\'s account, including user role, schemes, sponsors, modules, and member classes allowed for access, click '**Details**' from the Operations menu as shown below:
 
-<img  alt="user details" width="20%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image8.png">  
+<img  alt="user details" width="85%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image8.png">  
 
 This action will open a lower section displaying comprehensive information about the selected user, as depicted below:
 
-<img  alt="user extra details" width="97%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image9.png">  
+<img  alt="user extra details" width="99%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image9.png">  
 
 
 **Action**
@@ -215,7 +215,7 @@ Once a system user profile is created, the next step is to allow access to speci
 
 To assign permissions to a profile, click the **'Profile Permissions'** menu to open the profiles permission window with a grid table where permissions are assigned to profiles. The table provides drop-down menus to choose profiles and the modules whose permissions are to be assigned to a profile among others as shown below:
 
-<img  alt="Profile Permissions" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image20.png">  
+<img  alt="Profile Permissions" width="98%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image20a.jpg">  
 
 
 **Action**
@@ -232,7 +232,7 @@ To assign permissions to a profile, click the **'Profile Permissions'** menu to 
 
 Select **'Permission'** from the list and click the **'Enable'** button to activate the permissions in that profile as shown below:
 
-<img  alt="enable Permissions" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image21.png">  
+<img  alt="enable Permissions" width="98%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image21.png">  
 
 
 **Action**
@@ -261,7 +261,7 @@ Click the **'New Permission'** button to open a dialog box. Through this, a new 
 
 Click **'Password Policy Settings'** to open a dialog box. Adjust the password policy settings based on the configuration provided below:
 
-<img  alt="Password Policy Settings" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image22.png">  
+<img  alt="Password Policy Settings" width="97%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image22.png">  
 
 
 **Action**
@@ -274,7 +274,7 @@ Click **'Password Policy Settings'** to open a dialog box. Adjust the password p
 
 Click on **'Current Sessions'** to open the respective window. Inside this window, you will find a list displaying all currently logged-in users, as illustrated in the screenshot below:
 
-<img  alt="Current Sessions" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image23.png">  
+<img  alt="Current Sessions" width="100%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image23.png">  
 
 
 **Action**
@@ -291,7 +291,7 @@ Click on **'Current Sessions'** to open the respective window. Inside this windo
 
 Click on **'Take Notes'** to open the Notes window. Inside this window, you will find a list displaying all current notes written by various system users as shown in the screenshot below:
 
-<img  alt="Take Notes" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image24.png">  
+<img  alt="Take Notes" width="100%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image24.png">  
 
 
 **Action**
@@ -318,7 +318,7 @@ Click the **'New'** button to open a dialog box. Within this window, enter the d
 
 Click **'Audit Trail**' to open the corresponding window. In this window, a list of all key activities within the system, attributed to active users, is generated, as shown in the screenshot below:
 
-<img  alt="audio trail" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image26.png">  
+<img  alt="audio trail" width="99%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image26.png">  
 
 
 **Action**
@@ -329,7 +329,7 @@ Click **'Audit Trail**' to open the corresponding window. In this window, a list
 
 -   Click on the **label 3** date fields and choose dates to filter records based on the selected time range.
 
--   Click on **the label 4** text field and enter keywords to filter logs in the list based on specific criteria.
+-   Click on the **label 4** text field and enter keywords to filter logs in the list based on specific criteria.
 
 -   Click on the **label 5** button to filter records according to the set parameters.
 

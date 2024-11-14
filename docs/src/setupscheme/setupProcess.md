@@ -2,7 +2,7 @@
 
 Access to all scheme configurations is provided for by clicking the **'Scheme'** menu on the left side pane. This will open a dropdown menu which is organized into submenu categories, providing a convenient order of configurations. See screenshot below:
 
-<img  alt="scheme setup dashboard" width="55%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image4.png">  
+<img  alt="scheme setup dashboard" width="50%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image4.jpg">  
 
 
 **Action**
@@ -14,7 +14,7 @@ Access to all scheme configurations is provided for by clicking the **'Scheme'**
 
 The **'Schemes Register'** lists all the schemes created in the system. From the scheme window, several actions can be taken on selected schemes such as cloning of a scheme's configuration, certification, and migration of a scheme among others. From this window a new scheme can also be created. The screenshot below shows how the scheme register looks like:
 
-<img  alt="scheme setup dashboard" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image5.png">  
+<img  alt="scheme setup dashboard" width="99%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image5.jpg">  
 
 
 **Action**
@@ -27,20 +27,28 @@ The **'Schemes Register'** lists all the schemes created in the system. From the
 
 -   Click on the label 4 text field and enter keywords to filter records by name.
 
--   Click on the label 5 menu to open a drop-down to select approved or not approved records.
+-   Click on the label 5 menu to open a drop-down to filter by approved or not approved records status.
 
 -   Click on the label 6 menu to open a drop-down list of registers.
 
--   Click on the label 7 menu to open a drop-down for cloning scheme configurations.
+-   Click on the label 7 button to open a drop-dowm to access links to download scheme related reports. 
 
--   Click on the label 8 button to load a section with more details of a selected scheme from the register.
+-   Click on the label 8 button to show or hide the more detailed section of a selected schemerecord. 
+
+-   Click on the label 9 tab to upload scheme related documents.
+
+-   Click on the label 10 tab to view categories of scheme memberships. 
+
+-   Click on the label 11 tab to view vesting scales deatils.
 
 
-## Operations
 
-The '**Operations**' menu provides links to open windows for various actions related to schemes. These actions include tasks like capturing a scheme's bank details and initiating the scheme migration process. See the screenshot below:
 
-<img  alt="operations menu" width="80%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image6.png">  
+### Scheme Bank Details
+
+The **Operations** menu provides a link to open a windows for capturing a scheme's bank details. See the screenshot below:
+
+<img  alt="operations menu" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image6.jpg">  
 
 
 ### New Scheme
@@ -60,7 +68,7 @@ To create a new scheme, click the **'New Scheme'** button to launch the Scheme D
 The '**Certification**' menu provides access to the buttons through which a newly created scheme is certified and approved before further configurations can be done. See screenshot below:
 
 
-<img  alt="scheme certification" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image8.png">  
+<img  alt="scheme certification" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image8.jpg">  
 
 
 **Action**
@@ -75,9 +83,9 @@ The **'Open Register'** menu offers links to open windows displaying various bas
 <img  alt="open registers" width="80%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image9.png">  
 
 
-## Employer Management
+#### Employer Management
 
-### Employer Enrollment
+#### Employer Enrollment
 
 To enroll a new employer into a scheme, locate the **'Open Registers'** drop-down menu, as shown in the previous screenshot, and click the **'Employers'** menu item. This will open the employers window where their details are displayed as shown below:
 
@@ -100,7 +108,7 @@ To enroll a new employer into a scheme, locate the **'Open Registers'** drop-dow
 
 
 
-## Onboarding a Single Employer 
+#### Onboarding a Single Employer 
 
 Click the **'New Employer'** link to open a form where the details of a new employer are captured into the system as shown below:
 
@@ -112,7 +120,7 @@ Clicking the **'Save'** button on the employer details form upon completion of c
 <img  alt="schedule employer meeting" width="85%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image12.png">  
 
 
-## Onboarding Employers in Batch 
+#### Onboarding Employers in Batch 
 
 Employers can also be onboarded into the system in batch form using a template. To initiate this process, click on the **'Import from Template'** menu item as shown below:
 
