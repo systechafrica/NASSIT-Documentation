@@ -44,14 +44,14 @@ The **'Schemes Register'** lists all the schemes created in the system. From the
 
 
 
-### Scheme Bank Details
+####  Scheme Bank Details
 
 The **Operations** menu provides a link to open a windows for capturing a scheme's bank details. See the screenshot below:
 
 <img  alt="operations menu" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image6.jpg">  
 
 
-### New Scheme
+#### New Scheme
 
 To create a new scheme, click the **'New Scheme'** button to launch the Scheme Details dialog box. In this dialog box, critical configurations can be set, as illustrated below:
 
@@ -63,7 +63,7 @@ To create a new scheme, click the **'New Scheme'** button to launch the Scheme D
 -   The **'Take On Date'** is configured to determine the financial periods while the **'Date of Commencement'** denotes the start of the scheme.
 
 
-### Scheme Certification
+#### Scheme Certification
 
 The '**Certification**' menu provides access to the buttons through which a newly created scheme is certified and approved before further configurations can be done. See screenshot below:
 
@@ -76,18 +76,9 @@ The '**Certification**' menu provides access to the buttons through which a newl
 -   To Certify or Approve a scheme, select it from the scheme register grid table. From the **'Certification'** drop-down menu, select **'Certify'** or **'Approve'** menu links and click.
 
 
-### Open Registers
+### Employer Enrollment Activities
 
-The **'Open Register'** menu offers links to open windows displaying various basic registers related to schemes. These registers may include information such as employer details and billing addresses. See the screenshot below:
-
-<img  alt="open registers" width="80%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image9.png">  
-
-
-#### Employer Management
-
-#### Employer Enrollment
-
-To enroll a new employer into a scheme, locate the **'Open Registers'** drop-down menu, as shown in the previous screenshot, and click the **'Employers'** menu item. This will open the employers window where their details are displayed as shown below:
+The **Employer** Window comes with a detailed menu bar from which a number of activities can be initiated in relation to employer creation. See the screenshot below:
 
 <img  alt="employer enrollment process" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image10.png">  
 
@@ -107,10 +98,16 @@ To enroll a new employer into a scheme, locate the **'Open Registers'** drop-dow
 -   click on the **label 6** icon to open a section showing extra details for a selected employer.
 
 
+### Open Registers
 
-#### Onboarding a Single Employer 
+The **'Open Register'** menu offers links to open windows displaying various basic registers related to schemes. These registers may include information such as employer details and billing addresses. See the screenshot below:
 
-Click the **'New Employer'** link to open a form where the details of a new employer are captured into the system as shown below:
+<img  alt="open registers" width="50%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image9a.jpg"> 
+
+
+#### Onboarding an Employer 
+
+To enroll a new employer into a scheme, locate the **'Operations'** drop-down menu and Click the **'New Employer'** link to open a form where the details of a new employer are captured into the system as shown below:
 
 <img  alt="new employer creation" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image11.png">  
 
@@ -119,27 +116,33 @@ Clicking the **'Save'** button on the employer details form upon completion of c
 
 <img  alt="schedule employer meeting" width="85%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image12.png">  
 
-
+<!--
 #### Onboarding Employers in Batch 
 
 Employers can also be onboarded into the system in batch form using a template. To initiate this process, click on the **'Import from Template'** menu item as shown below:
 
 <img  alt="Onboarding Employers in Batch" width="80%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image13.png">  
 
+-->
 
-### Employer Documents Checklist
+#### Employer Documents Checklist
 
-Click the **'Employer Documents checklist'** link to open a window where all documents needed for employer enrollment are listed. Clicking the '**New Document**' button will open a dialog box for capturing the details for a new document as shown below:
+Navigate to the **Open Register** and from the drop-down menu click the **'Employer Documents Checklist'** link to open a window where all documents needed for employer enrollment are listed:
 
-<img  alt="New employer document" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image14.png">  
+<img  alt="New Employer Document" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image14.png">  
+
+
+ Clicking the '**New Document**' button will open a dialog box for capturing the details for a new document as shown below:
+
+<img  alt="New Employer Document" width="70%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image14a.jpg">  
 
 
 
-### Receiving Enrollment Documents
+#### Receiving Enrollment Documents
 
 After a new employer has been created in the system, all the documents needed for registration need to be uploaded into the system. To upload the documents, follow the steps demonstrated in the following screenshot:
 
-<img  alt="Receiving Enrollment Documents" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image15.png">  
+<img  alt="Receiving Enrollment Documents" width="99%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image15.jpg">  
 
 
  **Action**
@@ -157,50 +160,51 @@ After a new employer has been created in the system, all the documents needed fo
 
 Clicking the **'Receive Documents'** button, will open a dialog box for through which the required document is uploaded into the system as shown below:
 
-<img  alt="Receive Documents" width="70%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image16.png">  
+<img  alt="Receive Documents" width="60%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image16.jpg">  
 
 
 ### Details Tabs
 
-*Employer Change History*
+***Employer Change History***
 
 <img  alt="Employer Change History" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image17.png">  
 
 
-*Employer Documents Verification*
+***Employer Documents Verification***
 
 <img  alt="Employer Documents Verification" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image18.png">  
 
 
-*Directors*
+***Directors***
 
 <img  alt="Directors" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image19.png">  
 
 
-*Employer Exceptions*
+***Employer Exceptions***
 
 <img  alt="Employer Exceptions" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image20.png">  
 
 
-*Schedule Employer Visit*
+***Schedule Employer Visit***
 
 <img  alt="Schedule Employer Visit" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image21.png">  
 
 
-### Supervisor
-
-Click the **'Supervisors'** link to open a window where all supervisors details are listed. Clicking the **'New Supervisor'** from the **'Operations'** drop-down menu will open a dialog box for capturing the details for a new supervisor as shown below:
-
-<img  alt="New Supervisor" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image22.png">  
-
-
 ### Inspectors
 
-Click the **'Inspectors'** link to open a window where all Inspectors details are listed. Clicking the **'New Inspector'** from the **'Operations'** drop-down menu will open a dialog box for capturing the details for a new Inspector as shown below:
+To view the **'inspectors'** listed in the system, navigate to the **'Open Register'** and from the drop-down menu click the **'Inspectors'** link to open a window where all Inspectors details are displayed. 
+
+Clicking the **'New Inspector'** from the menu bar will open a dialog box for capturing the details for a new Inspector as shown below:
 
 <img  alt="New Inspector" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image23.png">  
 
+<!--
 
+### Supervisor
+
+To view the supervisors listed in the system, navigate to the **'Open Register'** and from the drop-down menu click the **'Supervisors'** link to open a window where all supervisors details are displayed as shown below:
+
+<img  alt="New Supervisor" width="50%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image22.jpg">  
 ### Cost Centers
 
 The **'Cost Center'** window lists all the cost centers created for different sponsors. From this window, new cost centers can be created among other actions related to cost centers. See screenshot below:
@@ -251,6 +255,14 @@ Clicking the '**'Show Details'** button (see previous illustration) after select
 -   Click on a tab such as the **'Director'** tab, **'Employer Visit'** tab etc. to view related information.
 
 -   From this section actions such as receiving documents and adding a director can be achieved.
+
+-->
+
+### Employer Endorsements
+
+To see all the scheme members who have been proposed for change in some of their details, navigate to the **'Open Register'** and click the **Employer Endorsements Register** link to open a register where all the employees proposed for cchanges are liste. from the **'Certification'** menu click to **Certify** and **Authorize** for the proposed changes to go through. See screenshot below:
+
+<img  alt="Configurations" width="99%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image29b.jpg">  
 
 
 ## Configurations
@@ -311,6 +323,7 @@ The **'Benefits Configurations'** are those that determine members benefits are 
 -   Click **label 4** tab to load a window for setting *Medical Configurations* parameters.
 
 -   Click **label 5** tab to load a window for setting *Claims Computation Configurations* parameters.
+
 
 
 ### Contribution Configuration Matrix
@@ -467,7 +480,7 @@ The window below shows a list of all uploaded documents:
 
 <img  alt="all uploaded documents" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image47.png">  
 
-
+<!-- 
 ## Service Providers
 
 The links under the **'Service Providers'** drop-down menu aid in capturing and managing a scheme's various service prover details. The screenshot below shows a drop-down menu with links to various configurations windows:
@@ -636,7 +649,7 @@ Clicking the **'New Job Grade'** button will open job grade dialog box allowing 
 
 <img  alt="Investments Options" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image64.png">  
 
-
+-->
 
 ## Member Class Specific Info
 
@@ -765,11 +778,11 @@ The **'Asset Codes'** configurations form provides for generating codes in the s
 <img  alt="Asset Codes" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image74.png">  
 
 
-
+<!--
 ## Risk Assessment
 
 The **'Risk Assessment'** tool aids in setting a scheme's risk assessment questions. The feedback from the questions is used in risk analysis to check the validity of new members joining a scheme. Clicking the **'Risk Assessment'** menu item will open the Risk Assessment window where a list of all risk related questions is displayed in a grid table.
-
+-->
 
 
 ### New Question
@@ -828,7 +841,7 @@ Clicking the **'Full Scheme Migration'** link will open the Full Scheme Migratio
 
 -   Click **label 5** button to open a dropdown menu to initiate an action such as certifying a scheme migration process.
 
-
+<!--
 
 ### New Migration
 
@@ -857,3 +870,5 @@ The illustration below shows how to select the scheme that inherits the selected
 -   Click **label 3** button to initiate migration to multiple schemes.
 
 -   Click **label 4** text box exit the window.
+
+-->
