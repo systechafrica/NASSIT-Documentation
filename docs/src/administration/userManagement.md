@@ -64,7 +64,7 @@ Clicking the '**New User**' will open '**User Details**' form where the details 
 
 To access adsditional details about a user\'s account, including user role, schemes, sponsors, modules, and member classes allowed for access, click '**Details**' from the Operations menu as shown below:
 
-<img  alt="user details" width="85%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image8.png">  
+<img  alt="user details" width="20%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image8.png">  
 
 This action will open a lower section displaying comprehensive information about the selected user, as depicted below:
 
