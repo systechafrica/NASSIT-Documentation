@@ -68,7 +68,7 @@ To access adsditional details about a user\'s account, including user role, sche
 
 This action will open a lower section displaying comprehensive information about the selected user, as depicted below:
 
-<img  alt="user extra details" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image9.png">  
+<img  alt="user extra details" width="97%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image9.png">  
 
 
 **Action**
