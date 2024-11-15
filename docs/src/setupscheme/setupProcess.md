@@ -770,6 +770,7 @@ Click the **'New Eligible Age'** button to open a dialog box. Fill in the detail
 <img  alt="New Eligible Age" width="90%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image73.png">  
 
 
+<!--
 
 ### Asset Codes
 
@@ -778,11 +779,11 @@ The **'Asset Codes'** configurations form provides for generating codes in the s
 <img  alt="Asset Codes" width="97%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image74.png">  
 
 
-<!--
+
 ## Risk Assessment
 
 The **'Risk Assessment'** tool aids in setting a scheme's risk assessment questions. The feedback from the questions is used in risk analysis to check the validity of new members joining a scheme. Clicking the **'Risk Assessment'** menu item will open the Risk Assessment window where a list of all risk related questions is displayed in a grid table.
--->
+
 
 
 ### New Question
@@ -816,7 +817,7 @@ Then click the **'New Scheme Bank'** button to open a dialog box where a new sch
 <img  alt="New Scheme Bank" width="70%" height="auto"  class="center"  src="../.vuepress/public/schemesetup/image77.png">  
 
 
-
+<!--
 ## Full Scheme Migration
 
 The **'Full Scheme Migration'** window gives a platform where a new scheme came be quickly set up by way of cloning configurations from a scheme that is already operational in the system. Click the **'Full Scheme Migration'** menu to open the migration setup window. See screenshot below:
@@ -841,7 +842,6 @@ Clicking the **'Full Scheme Migration'** link will open the Full Scheme Migratio
 
 -   Click **label 5** button to open a dropdown menu to initiate an action such as certifying a scheme migration process.
 
-<!--
 
 ### New Migration
 
