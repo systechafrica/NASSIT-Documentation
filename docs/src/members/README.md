@@ -1,6 +1,6 @@
 ### Members Module
 
-The members module facilitates the seamless onboarding of individuals into a scheme by establishing a connection between members and their respective employers through Cost Centers. This linkage streamlines the management of diverse employers, members\' contributions, and overall operational processes. The module excels not only in ensuring efficient onboarding but also provides features for viewing existing members, uploading contributions, and initiating claim processes among others.
+The members module facilitates the seamless onboarding of individuals contributing members into a scheme by connecting conributors and the establishments they work for. This linkage streamlines the management of diverse establishments, their members contributions, and overall operational processes. The module excels not only in ensuring efficient onboarding but also provides features for viewing existing members, uploading contributions, and initiating claim processes among others.
 
 Below is a screenshot of the Members Module dashboard with the left side pane expanded to reveal menu links to different configuration windows:
 
@@ -14,7 +14,7 @@ Below is a screenshot of the Members Module dashboard with the left side pane ex
 
 3.  Click on the button **labeled 3** to access the system's Intelligent Assistant (IA) chatbot.
     
-
+<!--
 
 ## Prerequisites
 
@@ -38,21 +38,25 @@ To ensure an efficient upload of members' details, their beneficiaries, contribu
 
     -   Contains a unique member number column that ties the contribution amounts to specific members.
 
+-->
 
+### Member Onboarding Methods
 
-### Upload Methods
+There are two ways to upload members into the system's member register:
 
-There are two ways to upload member data into the system\'s member register:
-
-1.  **Single Member Addition:**
+1.  **Single Member Onboarding**
 
     -   Fill in details in a member's details form for individual members.
 
     -   The added member must be approved via the Member Approval window to be officially saved in the member's register.
 
 
-2.  **Batch Upload using Template File:**
+2.  **Batch Member Onboarding**
 
     -   Utilize a template file (e.g., MS Excel) filled with member details.
 
     -   Upload the file into the system to add more than one member in a batch.
+
+    **NB**
+
+    For NASSIT member onboarding process, only the Single Member Onboarding Method is approved.
