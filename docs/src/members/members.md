@@ -1,4 +1,4 @@
-### Establishments
+### Members Registration Components
 
 All the link options under the **'Members'** menu open to different windows where the respective configuration related to member management are done. See screenshot below:
 
@@ -6,70 +6,118 @@ All the link options under the **'Members'** menu open to different windows wher
 
 
 
-## Establishments Register
+## Employer Register
 
-The **'Establishments Register'** lists all the employers in a scheme. From this window specific actions can be carried out regarding a selected employer from the list. See screenshot below:
+The **'Employer Register'** lists all the employers in a scheme. From this window specific actions can be carried out regarding a selected employer from the list. See screenshot below:
 
-<img  alt="Sponsor Register" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image3.png">
+<img  alt="Sponsor Register" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image3.jpg">
 
 
 **Action**
 
--   Click **label 1** button to open a window where all members in a selected sponsor are listed.
+-   Click **label 1** button to open a window where all members of a selected employer are listed.
 
--   Click **label 2** menu to open a drop-down list to either port a sponsor or initiate a sponsor movement.
+-   Click **label 2** textbox and type a employer name or reference number to filter employer records.
 
--   Click **label 3** menu to open a drop-down list to either view sponsors balances among other actions.
+-   Click **label 3** textbox and type a employer reference number to filter employer records.
 
--   Click **label 4** textboxes and type a sponsor name or reference number to filter sponsor records.
+-   Click **label 4** button and from the drop-down menu select a template to downlaod. 
 
--   Click **label 5** button to download the MS Excel template to user for updating members details.
-
--   Click **label 6** button to initiate the process of exporting members for updates
-
--   Click **label 7** button to access extra links such as a link to view members' contribution balance history and various reports.
+-   Click **label 5** button and from the drop-down menu select a links to download member related reports. 
 
 
 **Tip**
 
-More columns can be shown on the grid table by Click the header cell of any column and adding new data fields.
+More columns can be shown on the grid table by clicking the header cell of any column and adding new data fields as shown in the screenshot below:
+
+<img  alt="adding column" width="70%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image3a.jpg">
+
+
 
 
 ## Members Register
 
 The **'Members Register'** lists all the members under an employer in a scheme. From this window specific actions can be carried out regarding a selected member from the list.
 
-Clicking the **'View Member'** button (see previous screenshot) will open a members register window displaying the members under a selected sponsor as shown below:
+Clicking the **'View Members'** button (see previous screenshot) will open a members register window displaying the members under a selected sponsor as shown below:
 
-<img  alt="Member Register" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image4.png">
+<img  alt="Member Register" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image4.jpg">
 
 
 **Action**
 
 -   Click **label 1** menu to open a drop-down list of options related to members operations such as adding a new member.
 
--   Click **label 2** and type member number or key words to search for records quickly.
+-   Click **label 2** button to filter member records based on the typed parameters.
 
--   Click **label 3** button to filter records as set.
+-   Click **label 3** button to reset the member records to default.
 
--   Click **label 4** menu to open a drop-down list of other options related to selected member.
+-   Click **label 4** drop-down menu button to access open registers for related entities. 
 
+-   Click **label 5** menu button to open a drop-down list of other options related to a selected member.
 
 
 ### Member Operations
 
-The **'Member Operations'** menu provides links to open windows for various actions related to members. These actions include tasks like adding a new member, importing members using templates among others. See the screenshot below:
+The **'Member Operations'** drop-down menu provides links to open windows for various actions related to members. These actions include tasks like adding a new member, viewing the details of a selected member among others. See the screenshot below:
 
-<img  alt="Member Operations" width="46%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image5.png">
+<img  alt="Member Operations" width="60%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image5.jpg">
 
 
-### Member Onboarding Processes
+### Members Details
 
-### *Single Member Onboarding Method*
+Clicking the **'Show Details'** checkbox, as shown in a previous screenshot, will open a section on the lower side of the members register window, displaying details of a selected member from the register. The section is arranged in tabs, such as the Dependants/Next of kin tab, Contributions tab, Salary History tab etc., as shown below:
 
-To register a single member in a scheme, a member details form is used to capture member's data for the registration process. To begin the process, click the '**New Member'** link to open a dialog box through which a member's basic details are captured as shown below:
+<img  alt="Members Details" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image12.jpg">
 
-<img  alt="creating a new member" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image6.png">
+
+
+### Member Onboarding Process
+
+### *Adding a New Member*
+
+To register add a member in an establishment, a member details form is used to capture member's data for the registration process. To begin the process, click the '**'New Member'** link from the **'Member Operations'** drop-down menu to open a dialog box through which a member's basic details are captured. see all the steps as follows:
+
+***Section 1 of Membership Form***
+
+Fill in the details in the first section of the membership form and click the **'Next'** button to move to the next section as shown below:
+
+<img  alt="creating a new member" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image6a.jpg">
+
+***Section 2 of Membership Form***
+
+Fiil in the details in the second section of the membership form, select the employer and click the **'Next'** button to move to the next section as shown below:
+
+<img  alt="creating a new member" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image6b.jpg">
+
+***Section 3 of Membership Form***
+
+Capture the details of the member's **Dependants** and **Parents** by filling in their details and then click the **'Complete Saving Member'** button to save the new meber and his/her beneficiaries as shown in the screenshot below: 
+
+<img  alt="creating beneficiaries" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image6c.jpg">
+
+**Action**
+
+-   Click **label 1** to open a dialog box for capturing the dependants details.
+
+-   Click **label 2** to open a dialog box for capturing the a parent's details.
+
+-   Click **label 3** to delete a selected record from the list. 
+
+-   Click **label 4** to complete the process of registring a member. 
+
+
+Clicking the **'Add Dependant'** button will load the dialog box for capturing the details of the dependant as shown below:
+
+<img  alt="adding a dependant" width="80%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image6d.jpg">
+
+
+Clicking the **'Add Parent'** button will load the dialog box for capturing the details of the parent as shown below:
+
+<img  alt="adding a parent" width="80%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image6e.jpg">
+
+
+Clicking the **'Complete Saving Member'** button will save push the members details into the member register.
 
 
 **Tip**
@@ -77,7 +125,7 @@ To register a single member in a scheme, a member details form is used to captur
 -   Remember to go to the member approval window to approve a newly created member. This is demonstrated in a later section.
 
 
-
+<!--
 ### *Batch Member Onboarding Method* 
 
 This method enables massive registration of members at a go. Members are compiled in a template file and then uploaded to the system. To begin, download the members template. There are two ways of accessing the download links as shown below:
@@ -129,12 +177,7 @@ Clicking the **'Hamburger'** icon on the right side of the members register wind
 
 <img  alt="Hamburger" width="45%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image11.png">
 
-
-### Members Extra Details
-
-Clicking the **'Show Details'** checkbox, as shown in the previous screenshot, will open a section on the lower side of the members register window, displaying details of a selected member from the register. The section is arranged in tabs, such as the Contributions tab, Closing Balances tab, etc., as shown below:
-
-<img  alt="Members Extra Details" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image12.png">
+-->
 
 
 ## Member Biodata
@@ -144,7 +187,7 @@ The **'Members Bio Data'** window displays the records of members personal infor
 <img  alt="Members Bio Data" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image13.png">
 
 
-
+<!--
 ## Member Batch Register
 
 The **'Members Batch Register'** holds the details of the members who have been uploaded via a template. See the members batch register screenshot below:
@@ -181,7 +224,7 @@ Clicking the **'Cancelled Members in Batch'** button will show a section listing
 
 <img  alt="Restore Membership" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image16.png">
 
-
+-->
 
 ### Member Documents Checklist
 
