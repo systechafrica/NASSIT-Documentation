@@ -122,8 +122,7 @@ Clicking the **'Complete Saving Member'** button will save push the members deta
 
 **Tip**
 
--   Remember to go to the member approval window to approve a newly created member. This is demonstrated in a later section.
-
+-   Remember to go to the **General Member Approval** window to approve a newly created member. This is demonstrated in a later section.
 
 <!--
 ### *Batch Member Onboarding Method* 
@@ -184,7 +183,21 @@ Clicking the **'Hamburger'** icon on the right side of the members register wind
 
 The **'Members Bio Data'** window displays the records of members personal information. Records can be filtered by members name and an extract of the members report generated a shown below:
 
-<img  alt="Members Bio Data" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image13.png">
+<img  alt="Members Bio Data" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image13.jpg">
+
+
+**Action**
+
+-   Click **label 1** button to initiate the process of adding a new member. 
+
+-   Click **label 2** button to open a window showing the details of a selected member.
+
+-   Click **label 3** button to filter member records based on the key words typed on the adjacent search box. 
+
+-   Click **label 4** button to extra a report for the selected member.  
+
+-   Click **label 5** button to extar details of a selected member.  
+
 
 
 <!--
@@ -230,13 +243,13 @@ Clicking the **'Cancelled Members in Batch'** button will show a section listing
 
 The '**Member Document Checklist'** is a list of all the documents that are needed for the successful registration of a member into a scheme. These documents are enlisted in the system as shown below:
 
-<img  alt="Member Document Checklist" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image17.png">
+<img  alt="Member Document Checklist" width="90%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image17.png">
 
 
 
 ## Dependant Management
 
-The **'Dependant Management'** menu provides access links to the dependents register and enrolment form. Click the respective link to
+The **'Dependant Management'** menu provides access link to the dependants register. Click the respective link to
 open a window for interacting with the mentioned objects. See screenshot below:
 
 <img  alt="Dependant Management menu" width="60%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependant menu.png">
@@ -245,12 +258,12 @@ open a window for interacting with the mentioned objects. See screenshot below:
 
 ### **Dependants Register**
 
-The **'Dependants Register'** contains the details of all the beneficiaries nominated by scheme members. From the register's menu bar, a new depandant can be created and from the **'Operations'** dropdown button and all necessary dependant document checklist accessed from the **'Open Register'** dropdown button. See screenshot below:
+The **'Dependants Register'** contains the details of all the beneficiaries nominated by scheme members. From the register's menu bar all necessary dependant document checklist can be accessed from the **'Open Register'** drop-down button among others as shown in the screenshot below:
 
 
-<img  alt="Dependant Register" width="98%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependant reg.png">
+<img  alt="Dependant Register" width="99%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependants.jpg">
 
-
+<!--
 
 ### **Adding a New Dependant**
 
@@ -260,7 +273,7 @@ locate the **'Operations'** button and from the dropdown list, click **'Add New 
 
 <img  alt="adding a new dependant" width="98%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependant details.png">
 
-
+-->
 
 ## Benefits Log Checklist
 
@@ -282,7 +295,7 @@ The **'Benefits Log Checklist'** window lists all the documents already defined 
 -   Click **label 5** button to view the details of a selected record from the list.
 
 
-
+<!--
 ## Accountant General Payroll
 
 The **'Accounts General Payroll'** window contains the list of the members who worked before the year 2000. There service behold 2000 is factored in claim processing. See screenshot below:
@@ -301,16 +314,16 @@ The **'Accounts General Payroll'** window contains the list of the members who w
 
 -   Click **label 4** text box and type key words to filter payroll records quickly.
 
-
+-->
 
 ## General Member Approvals
 
-The '**General member Approval'** window displays the members whose details have been updated and need to be certified and approved before they can be moved to the member register. See screenshot below:
+The **'General member Approval'** window displays the members whose details have been updated and need to be **'Certified'**and **'Approved'** before they can be moved changed. See screenshot below:
 
-<img  alt="General member Approval" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image22.png">
+<img  alt="General member Approval" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image22.jpg">
 
 
-
+<!--
 ## Take Notes
 
 This tool aids the system users to take some notes and save them. To see the notes already written and capture new notes.
@@ -318,3 +331,5 @@ This tool aids the system users to take some notes and save them. To see the not
 Click the **'Take Notes'** link to open the Notes window. From this window locate and then click the **'New'** button to load a new dialog box and type new notes as shown below:
 
 <img  alt="Take Notes" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image23.png">
+
+-->
