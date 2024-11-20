@@ -1,4 +1,4 @@
-## Contribution Receivables/Receipts
+### Contribution Receivables/Receipts
 
 The links under this category give access to windows where the Contributions Billing, Receivables Register, and Receipts Register configurations are set. Click on the drop-down submenu links enclosed below to load the respective windows and set configurations appropriately:
 
@@ -14,7 +14,7 @@ The **'Direct Debits'** window displays all direct debits authorized by the spon
 
 -->
 
-## Contribution Schedules
+### Contribution Schedules
 
 The **'Contribution Schedules'** window lists all the contribution schedules generated in the system to date. Through the window, a new contribution schedule can be generated and emailed to establishments or downloaded among other operations. See screenshot below:
 
@@ -38,7 +38,7 @@ The **'Contribution Schedules'** window lists all the contribution schedules gen
 
 
 
-## Generating a Contribution Schedule
+### Generating a Contribution Schedule
 
 To generate a contributions schedule, click the **'Generate Contributions Schedule'** link to open the contributions schedule dialog box where the details of a new schedule are captured. click the **'Run Contributions Billing'** button to create a new contribution schedule. See screenshot below:
 
@@ -54,6 +54,7 @@ To generate a contributions schedule, click the **'Generate Contributions Schedu
 Clicking the **Lookup Employer** button will help you to fetch the employer by filtering through the records as shown below:
 
 <img  alt="Generating a Bill" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image41a.jpg">
+
 
 **Action**
 
@@ -72,23 +73,23 @@ A successful running of contribution schedule will be confirmed by a window show
 <img  alt="Generating a Bill" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image42.jpg">
 
 
-## Validating Bill
+### Validating a schedule
 
-### Download generated bill
+### Download generated schedule
 
 After generating a contribution schedule, a schedule is emailed ny NASSIT to the employer for confirmation or downloaded for internal view by clicking the **'Download'** link and from the drop-down menu click **'Generated Schedule'** to download the bill as shown below:
 
 <img  alt="Generated Bill" width="80%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image43.jpg">
 
 
-### Uploading Validated schedule
+### Uploading Validated Schedule
 
 After making the necessary updates to the contribution schedule, the employer will email it back to NASSIT for upload into the system for for validation. See the screenshot below on how to import the bill:
 
 <img  alt="Uploading Validating Bill" width="70%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image44.jpg">
 
 
-Clicking the **'Import schedule validation'** link will load the importation window. Click **'Browse'** to locate the bill file then click on the **'Upload'** button. This will populate the window with records as shown below:
+Clicking the **'Import Schedule Validation'** link will load the importation window. Click **'Browse'** to locate the bill file then click on the **'Upload'** button. This will populate the window with records as shown below:
 
 <img  alt="Import Bill Validation" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image45.jpg">
 

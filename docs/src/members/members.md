@@ -232,7 +232,7 @@ See screenshot below:
 <img  alt="Members Bio Data approva window" width="60%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/membersapproval.jpg">
 
 
-## Members Batch Register
+### Members Batch Register
 
 The **'Members Batch Register'** holds the details of the members who have been uploaded via a template. See the members
  batch register screenshot below:
@@ -392,8 +392,8 @@ The **'Accounts General Payroll'** window contains the list of the members who w
 
 ## General Member Approvals
 
-The **'General member Approvals'** window displays the members whose details have been updated and need to be **'Certified'**and 
-**'Approved'** before they can be moved changed. See screenshot below:
+The **'General member Approvals'** window displays the members whose details have been updated and need to be **'Certified'** and 
+**'Approved'** before the changes can reflect in the members register. See screenshot below:
 
 <img  alt="General member approvals window" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image22.jpg">
 
