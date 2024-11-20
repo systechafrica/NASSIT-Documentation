@@ -83,11 +83,13 @@ such as the Dependants/Next of kin tab, Contributions tab, Salary History tab et
 
 ### Member Onboarding Process
 
+
 ### *Adding a New Member*
 
 To register add a member in an establishment, a member details form is used to capture member's data for the registration process.
 To begin the process, click the '**'New Member'** link from the **'Member Operations'** drop-down menu to open a dialog box
 through which a member's basic details are captured. see all the steps as follows:
+
 
 ***Section 1 of Membership Form***
 
@@ -96,6 +98,7 @@ shown below:
 
 <img  alt="creating a new member" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image6a.jpg">
 
+
 ***Section 2 of Membership Form***
 
 Fiil in the details in the second section of the membership form, select the employer and click the **'Next'** button to move to
@@ -103,12 +106,14 @@ the next section as shown below:
 
 <img  alt="creating a new member" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image6b.jpg">
 
+
 ***Section 3 of Membership Form***
 
 Capture the details of the member's **Dependants** and **Parents** by filling in their details and then click the 
 **'Complete Saving Member'** button to save the new meber and his/her beneficiaries as shown in the screenshot below: 
 
 <img  alt="creating beneficiaries" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image6c.jpg">
+
 
 **Action**
 
@@ -201,7 +206,7 @@ options of the actions that relate to members. These actions include claim movem
 The **'Members Bio Data'** window displays the records of members personal information. Records can be filtered by members 
 name and an extract of the members report generated a shown below:
 
-<img  alt="Members Bio Data" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image13.jpg">
+<img  alt="Members Bio Data window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image13.jpg">
 
 
 **Action**
@@ -224,7 +229,7 @@ The **New Members Approvals** menu provides links to access windows through whic
 single registration and registrations done through the portal are granted so that the members can be moved to **Member Register**.
 See screenshot below:
 
-<img  alt="Members Bio Data" width="60%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/membersapproval.jpg">
+<img  alt="Members Bio Data approva window" width="60%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/membersapproval.jpg">
 
 
 ## Members Batch Register
@@ -347,7 +352,7 @@ certification is done. See screenshot below:
 
 The **'Benefits Log Checklist'** window lists all the documents already defined for a claim of benefits. See screenshot below:
 
-<img  alt="Benefits Log Checklist" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image20.png">
+<img  alt="Benefits Log Checklist window" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image20.png">
 
 
 **Action**
@@ -387,10 +392,10 @@ The **'Accounts General Payroll'** window contains the list of the members who w
 
 ## General Member Approvals
 
-The **'General member Approval'** window displays the members whose details have been updated and need to be **'Certified'**and 
+The **'General member Approvals'** window displays the members whose details have been updated and need to be **'Certified'**and 
 **'Approved'** before they can be moved changed. See screenshot below:
 
-<img  alt="General member Approval" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image22.jpg">
+<img  alt="General member approvals window" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image22.jpg">
 
 
 <!--
