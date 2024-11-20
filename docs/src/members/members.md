@@ -1,14 +1,16 @@
-### Members Registration Components
+### Membership Registration
 
-All the link options under the **'Members'** menu open to different windows where the respective configuration related to member management are done. See screenshot below:
+All the link options under the **'Members'** menu open to different windows where the respective configuration related to the Management
+of the scheme employers, members and their dependants are done. See screenshot below:
 
-<img  alt="Members" width="50%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/img2.png">
+<img  alt="Members" width="50%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image2.jpg">
 
 
 
 ## Employer Register
 
-The **'Employer Register'** lists all the employers in a scheme. From this window specific actions can be carried out regarding a selected employer from the list. See screenshot below:
+The **'Employer Register'** lists all the employers in a scheme. From this window specific actions can be carried out 
+regarding a selected employer from the list. See screenshot below:
 
 <img  alt="Sponsor Register" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image3.jpg">
 
@@ -28,7 +30,8 @@ The **'Employer Register'** lists all the employers in a scheme. From this windo
 
 **Tip**
 
-More columns can be shown on the grid table by clicking the header cell of any column and adding new data fields as shown in the screenshot below:
+More columns can be shown on the grid table by clicking the header cell of any column and adding new data fields as shown 
+in the screenshot below:
 
 <img  alt="adding column" width="70%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image3a.jpg">
 
@@ -37,9 +40,11 @@ More columns can be shown on the grid table by clicking the header cell of any c
 
 ## Members Register
 
-The **'Members Register'** lists all the members under an employer in a scheme. From this window specific actions can be carried out regarding a selected member from the list.
+The **'Members Register'** lists all the members under an employer in a scheme. From this window specific actions can be
+ carried out regarding a selected member from the list.
 
-Clicking the **'View Members'** button (see previous screenshot) will open a members register window displaying the members under a selected sponsor as shown below:
+Clicking the **'View Members'** button (see previous screenshot) will open a members register window displaying the members 
+under a selected sponsor as shown below:
 
 <img  alt="Member Register" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image4.jpg">
 
@@ -59,14 +64,18 @@ Clicking the **'View Members'** button (see previous screenshot) will open a mem
 
 ### Member Operations
 
-The **'Member Operations'** drop-down menu provides links to open windows for various actions related to members. These actions include tasks like adding a new member, viewing the details of a selected member among others. See the screenshot below:
+The **'Member Operations'** drop-down menu provides links to open windows for various actions related to members.
+These actions include tasks like adding a new member, viewing the details of a selected member among others. See the
+screenshot below:
 
 <img  alt="Member Operations" width="60%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image5.jpg">
 
 
 ### Members Details
 
-Clicking the **'Show Details'** checkbox, as shown in a previous screenshot, will open a section on the lower side of the members register window, displaying details of a selected member from the register. The section is arranged in tabs, such as the Dependants/Next of kin tab, Contributions tab, Salary History tab etc., as shown below:
+Clicking the **'Show Details'** checkbox, as shown in a previous screenshot, will open a section on the lower side of 
+the members register window, displaying details of a selected member from the register. The section is arranged in tabs,
+such as the Dependants/Next of kin tab, Contributions tab, Salary History tab etc., as shown below:
 
 <img  alt="Members Details" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image12.jpg">
 
@@ -76,23 +85,28 @@ Clicking the **'Show Details'** checkbox, as shown in a previous screenshot, wil
 
 ### *Adding a New Member*
 
-To register add a member in an establishment, a member details form is used to capture member's data for the registration process. To begin the process, click the '**'New Member'** link from the **'Member Operations'** drop-down menu to open a dialog box through which a member's basic details are captured. see all the steps as follows:
+To register add a member in an establishment, a member details form is used to capture member's data for the registration process.
+To begin the process, click the '**'New Member'** link from the **'Member Operations'** drop-down menu to open a dialog box
+through which a member's basic details are captured. see all the steps as follows:
 
 ***Section 1 of Membership Form***
 
-Fill in the details in the first section of the membership form and click the **'Next'** button to move to the next section as shown below:
+Fill in the details in the first section of the membership form and click the **'Next'** button to move to the next section as
+shown below:
 
 <img  alt="creating a new member" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image6a.jpg">
 
 ***Section 2 of Membership Form***
 
-Fiil in the details in the second section of the membership form, select the employer and click the **'Next'** button to move to the next section as shown below:
+Fiil in the details in the second section of the membership form, select the employer and click the **'Next'** button to move to
+the next section as shown below:
 
 <img  alt="creating a new member" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image6b.jpg">
 
 ***Section 3 of Membership Form***
 
-Capture the details of the member's **Dependants** and **Parents** by filling in their details and then click the **'Complete Saving Member'** button to save the new meber and his/her beneficiaries as shown in the screenshot below: 
+Capture the details of the member's **Dependants** and **Parents** by filling in their details and then click the 
+**'Complete Saving Member'** button to save the new meber and his/her beneficiaries as shown in the screenshot below: 
 
 <img  alt="creating beneficiaries" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image6c.jpg">
 
@@ -127,7 +141,8 @@ Clicking the **'Complete Saving Member'** button will save push the members deta
 <!--
 ### *Batch Member Onboarding Method* 
 
-This method enables massive registration of members at a go. Members are compiled in a template file and then uploaded to the system. To begin, download the members template. There are two ways of accessing the download links as shown below:
+This method enables massive registration of members at a go. Members are compiled in a template file and then uploaded 
+to the system. To begin, download the members template. There are two ways of accessing the download links as shown below:
 
 
 1.  Download the template from the **'Sponsors Registers'** window as shown below:
@@ -155,7 +170,8 @@ To upload members efficiently, restrict the number of members on the file to a f
 
 ### Members batch upload Process
 
-To import members in batch, after preparing the template, click the **Members** link to open the **Members Import** window through which the template is loaded from a user's storage device to the system as shown below:
+To import members in batch, after preparing the template, click the **Members** link to open the **Members Import** 
+window through which the template is loaded from a user's storage device to the system as shown below:
 
 <img  alt="Members Import Process" width="90%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/memberimport.png">
 
@@ -172,7 +188,8 @@ To import members in batch, after preparing the template, click the **Members** 
 
 ### Members Right Side Menu
 
-Clicking the **'Hamburger'** icon on the right side of the members register window will open a dropdown menu with more options of the actions that relate to members. These actions include claim movements, reports among others. See the screenshot below:
+Clicking the **'Hamburger'** icon on the right side of the members register window will open a dropdown menu with more 
+options of the actions that relate to members. These actions include claim movements, reports among others. See the screenshot below:
 
 <img  alt="Hamburger" width="45%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image11.png">
 
@@ -181,7 +198,8 @@ Clicking the **'Hamburger'** icon on the right side of the members register wind
 
 ## Member Biodata
 
-The **'Members Bio Data'** window displays the records of members personal information. Records can be filtered by members name and an extract of the members report generated a shown below:
+The **'Members Bio Data'** window displays the records of members personal information. Records can be filtered by members 
+name and an extract of the members report generated a shown below:
 
 <img  alt="Members Bio Data" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image13.jpg">
 
@@ -200,10 +218,19 @@ The **'Members Bio Data'** window displays the records of members personal infor
 
 
 
-<!--
-## Member Batch Register
+## New Members Approvals
 
-The **'Members Batch Register'** holds the details of the members who have been uploaded via a template. See the members batch register screenshot below:
+The **New Members Approvals** menu provides links to access windows through which apploval of membership from batch registration, 
+single registration and registrations done through the portal are granted so that the members can be moved to **Member Register**.
+See screenshot below:
+
+<img  alt="Members Bio Data" width="60%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/membersapproval.jpg">
+
+
+## Members Batch Register
+
+The **'Members Batch Register'** holds the details of the members who have been uploaded via a template. See the members
+ batch register screenshot below:
 
 <img  alt="Members Batch Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image14.png">
 
@@ -233,17 +260,37 @@ Clicking the **'Show Details'** button will open a section of extra details of a
 -   Click **label 4** button and from the drop-down menu then click to certify, authorize, and approve selected members from the batch.
 
 
-Clicking the **'Cancelled Members in Batch'** button will show a section listing all members whose membership has been revoked. To retore membership, select individuals from the grid table and click the **'Restore Membership'** button as shown below:
+Clicking the **'Cancelled Members in Batch'** button will show a section listing all members whose membership has been 
+revoked. To retore membership, select individuals from the grid table and click the **'Restore Membership'** button as shown below:
 
 <img  alt="Restore Membership" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image16.png">
 
--->
 
-### Member Documents Checklist
+### MSS Members Approvals
 
-The '**Member Document Checklist'** is a list of all the documents that are needed for the successful registration of a member into a scheme. These documents are enlisted in the system as shown below:
+All members registered through the MSS portal my employers will be listed on this window waiting for certification process before they 
+can be moved to the members register. From this window the details of a selected member can be viewed or the registration cancelled all together.
+See screenshot below:
 
-<img  alt="Member Document Checklist" width="90%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image17.png">
+<img  alt="MSS Membership approval window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/MSSapprovals.jpg">
+
+
+### New Members Approvals (Individual)
+
+All members registered through the single member onboarding process will be listed on this window waiting for certification process before they 
+can be moved to the members register. From this window the details of a selected member can be viewed or the registration cancelled all together.
+See screenshot below:
+
+<img  alt="MSS Membership approval window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/singlemembershipapproval.jpg">
+
+
+### Members Documents Checklist
+
+The **'Members Documents Checklist'** window list of all the documents that are needed for the successful registration of a member
+into a scheme. From this window new documents can be added to the checklist by clicking the **New** button to load a 
+**New Document checklist** dialog box through which the details of a new document are captured. See screenshot below: 
+
+<img  alt="Member Document Checklist window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/Memberdocchecklist.jpg">
 
 
 
@@ -255,25 +302,46 @@ open a window for interacting with the mentioned objects. See screenshot below:
 <img  alt="Dependant Management menu" width="60%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependant menu.png">
 
 
-
 ### **Dependants Register**
 
-The **'Dependants Register'** contains the details of all the beneficiaries nominated by scheme members. From the register's menu bar all necessary dependant document checklist can be accessed from the **'Open Register'** drop-down button among others as shown in the screenshot below:
+The **'Dependants Register'** contains the details of all the beneficiaries nominated by scheme members. From the register's menu
+bar all necessary dependant document checklist can be accessed from the **'Open Register'** drop-down button among others as shown
+in the screenshot below:
 
 
-<img  alt="Dependant Register" width="99%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependants.jpg">
-
-<!--
-
-### **Adding a New Dependant**
-
-To add a new Dependant, navigate to the **'Dependants Register'**,
-locate the **'Operations'** button and from the dropdown list, click **'Add New Dependant'** to open a dialog box for capturing the details of a new Dependant. Click on the **'Lookup Member'** button to select the member whose dependants details you need to capture as shown below:
+<img  alt="Dependant Register window" width="99%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependants.jpg">
 
 
-<img  alt="adding a new dependant" width="98%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependant details.png">
+### **Dependants Documents Checklist**
 
--->
+To view and add the documents that dependants need to submit for registration, locate the **'Open Register'** menu from the 
+**'Pensioners Register'** and from the drop-down, select the **'Dependants Document Checklist'** to open the window through which
+ the configurations are done as shown in the screenshot below:
+
+<img  alt="Dependants Documents Checklist window" width="97%" height="auto" class="center"  src="../.vuepress/public/membersmedia/depschecklist.jpg">
+
+
+### **Dependants Endorsement**
+
+Incase the dependants details are updated from the **'Dependants Register'** such changes need to be endorsed before the changes can take effect.
+All the beneficiaries whose details have been changed will be moved to the **'Dependants Endorsement'** window for approval. From this window 
+certification is done. See screenshot below:
+
+<img  alt="Dependants endorsement window" width="99%" height="auto" class="center"  src="../.vuepress/public/membersmedia/depsendorsement.jpg">
+
+**Action**
+
+-   Click **label 1** button to search for records based on set parameters. 
+
+-   Click **label 2** button to certify and approve endosement of a selected dependant from the list.
+
+-   Click **label 3** button to view the details of a selected dependant in a separate window.
+
+-   Click **label 4** button cancel a dependant's proposed updates.
+
+-   Click **label 5** button to extra dependants related reports.
+
+
 
 ## Benefits Log Checklist
 
@@ -298,7 +366,8 @@ The **'Benefits Log Checklist'** window lists all the documents already defined 
 <!--
 ## Accountant General Payroll
 
-The **'Accounts General Payroll'** window contains the list of the members who worked before the year 2000. There service behold 2000 is factored in claim processing. See screenshot below:
+The **'Accounts General Payroll'** window contains the list of the members who worked before the year 2000. There service behold 
+2000 is factored in claim processing. See screenshot below:
 
 <img  alt="Accounts General Payroll" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image21.png">
 
@@ -318,7 +387,8 @@ The **'Accounts General Payroll'** window contains the list of the members who w
 
 ## General Member Approvals
 
-The **'General member Approval'** window displays the members whose details have been updated and need to be **'Certified'**and **'Approved'** before they can be moved changed. See screenshot below:
+The **'General member Approval'** window displays the members whose details have been updated and need to be **'Certified'**and 
+**'Approved'** before they can be moved changed. See screenshot below:
 
 <img  alt="General member Approval" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image22.jpg">
 
@@ -328,7 +398,8 @@ The **'General member Approval'** window displays the members whose details have
 
 This tool aids the system users to take some notes and save them. To see the notes already written and capture new notes.
 
-Click the **'Take Notes'** link to open the Notes window. From this window locate and then click the **'New'** button to load a new dialog box and type new notes as shown below:
+Click the **'Take Notes'** link to open the Notes window. From this window locate and then click the **'New'** button to load
+ a new dialog box and type new notes as shown below:
 
 <img  alt="Take Notes" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image23.png">
 
