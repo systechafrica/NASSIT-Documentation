@@ -129,14 +129,20 @@ The **'Cashbook Register'** lists all the cash books created and used in a schem
 
 ### Contributions Receipts Register
 
-The Contributions Receipts window lists all the recipts created in the system ready to be tied to specific contribution schedules. From this window **New Receipts** can be **Created**, **Certified** and **Posted**. See screenshoot below:
+The Contributions Receipts window lists all the recipts created in the system ready to be tied to specific contribution schedules. From this window **'New Receipts'** can be **Created**, **Certified** and **Posted**. See screenshoot below:
 
 <img  alt="Receipts Register" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image48.jpg">
 
 
-Click the **'New Receipt'** button open a dialogue box through which a **New Contribution Receipt** is created as shown below:
+Click the **'New Receipt'** button open a dialogue box through which a **'New Contribution Receipt'** is created as shown below:
 
 <img  alt="New Receipt" width="93%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image49.jpg">
+
+**Action**
+
+-   Click **label 1** button to filter the employer quickly from the employers register.
+
+-   Click **label 2** button to save the new receipt ready fi tying  to a contribution schedule.
 
 
 <!--
