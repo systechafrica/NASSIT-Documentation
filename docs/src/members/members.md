@@ -315,7 +315,7 @@ in the screenshot below:
 ### **Dependants Documents Checklist**
 
 To view and add the documents that dependants need to submit for registration, locate the **'Open Register'** menu from the 
-**'Pensioners Register'** and from the drop-down, select the **'Dependants Document Checklist'** to open the window through which
+**'Dependants Registers'** and from the drop-down, select the **'Dependants Document Checklist'** to open the window through which
  the configurations are done as shown in the screenshot below:
 
 <img  alt="Dependants Documents Checklist window" width="97%" height="auto" class="center"  src="../.vuepress/public/membersmedia/depschecklist.jpg">
