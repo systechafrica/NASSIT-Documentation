@@ -42,12 +42,12 @@ The circled numbers in the screenshot above correspond to the numbers in the fol
 | 3.    	| Logout button             	| Clicking this button will terminate all the running processes and close the system.                                                               	|
 | 4.    	| Main menu bar             	| This is the location of the major menu. Click to expand and display more menu items.                                                                                    	|
 | 5.    	| Scheme Setup link         	| A shortcut to launching the scheme setup module. Click to open the setup page.                                                                    	|
-| 6.    	| Investments link          	| A link to the Investments (ACCESS DENIED. NOT SUBSCRIBED TO)Module.                                                                                                                 	|
-| 7.    	| Workflow link             	| A link to the Workflow (ACCESS DENIED. NOT SUBSCRIBED TO)Module.                                                                                                                    	|
-| 8.    	| Fees and Commission link  	| A link to the Fees and Commission (ACCESS DENIED. NOT SUBSCRIBED TO)Module.                                                                                                         	|
+| 6.    	| Investments link          	| ACCESS DENIED. NOT SUBSCRIBED                                                                                                            	|
+| 7.    	| Workflow link             	| ACCESS DENIED. NOT SUBSCRIBED TOModule.                                                                                                                    	|
+| 8.    	| Fees and Commission link  	| ACCESS DENIED. NOT SUBSCRIBED                                                                                                   	|
 | 9.    	| Pensioners Register link  	| A link to the Pensioners Register Module.                                                                                                         	|
 | 10.   	| Administrative Panel link 	| A link to the Administrative Panel Module.                                                                                                        	 |
-| 11.   	| Accounts link             	| A link to the Accounts (ACCESS DENIED. NOT SUBSCRIBED TO)Module.                                                                                                                    	|
+| 11.   	| Accounts link             	| ACCESS DENIED. NOT SUBSCRIBED                                                                                                                   	|
 | 12.   	| Members Register link      	| A shortcut to the Members Register Module.                                                                                                             |
 
 
