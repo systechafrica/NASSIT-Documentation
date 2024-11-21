@@ -57,6 +57,6 @@ There are two ways to upload members into the system's member register:
 
     -   Upload the file into the system to add more than one member in a batch.
 
-    **NB**
+**NB**
 
-    For NASSIT member onboarding process, only the Single Member Onboarding Method is approved.
+For now NASSIT has restricted member registration to the Single Member Onboarding Method. 
