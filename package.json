@@ -1,16 +1,12 @@
 {
-  "name": "FundMaster Documentation",
+  "name": "FundMaster_Documentation",
   "version": "0.0.1",
-  "description": "System Help Documentation",
+  "description": "system help Documentation",
   "main": "index.js",
   "authors": [
     {
       "name": "Martin K",
       "email": "martin.mutuma@systechafrica.com"
-    },
-    {
-      "name": "Tracey",
-      "email": "tracey.nduta@systechafrica.com"
     },
     {
       "name": "Simon Kimathi",
