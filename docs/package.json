@@ -17,7 +17,7 @@
       "email": "simon.kimathi@systechafrica.com"
     }
   ],
-  "repository": "https://github.com/systechafrica/FundMaster-Knowledgebase",
+  "repository": "https://github.com/systechafrica/NASSIT-Documentation",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src && cp -R src/.vuepress/dist/ ./dist",
