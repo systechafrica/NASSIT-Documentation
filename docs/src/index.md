@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: "/img/NASSIT-HERO.png"
-tagline: This documentation provided user guide information on how to run various end-to-end processes in FundMaster Xe Ver 2.0 for NASSIT pension administration.
+tagline: This documentation provided user guide information on how to run various end-to-end processes in FundMaster Xc for NASSIT pension administration.
 actionText: Get Started →
 actionLink: /introduction/
 features:

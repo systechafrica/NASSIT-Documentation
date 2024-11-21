@@ -2,7 +2,7 @@ const {description} = require('../../package');
 
 module.exports = {
     logo: "/img/logo/fundmaster-hero-image.png",
-    title: 'FundMaster Xe Ver 2.0',
+    title: 'FundMaster Xe',
     description: description,
     themeConfig: {
         logo: "/img/logo/fundmaster-hero-image.png",
