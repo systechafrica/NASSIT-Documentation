@@ -1,4 +1,10 @@
 
+## Claim Activities
+
+The activities under this menu are related to claim processing. To start an activity, click the appropriate link from the enclosed drop-down menu to open the respective window as shown in the screenshot below:
+
+<img  alt="Claim Activities menu" width="50%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/claimactivities.jpg">
+
 
 ## Initiating Claim Movement
 
@@ -14,7 +20,6 @@ To initiate a claim whose **'Reason for Exit'** is ill health, Click the **'Init
 Fill out the form with the required details and then click the **'Confirm Exit Documents Checklist'** button (as shown in the next screenshot but one) to receive and confirm receipt of relevant documents from the member. After confirming receipt of documents, click the **'Save'** button to proceed with the claim process as shown below:
 
 <img  alt="Confirm Exit Documents Checklist" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image63.png">
-
 
 
 Click the **'Confirm Exit Documents Checklist'** button, as shown in the previously, to open the **'Benefits Log Checklist Confirmation'** window**.** Select a document from the list and double-click to confirm receipt of the document. Otherwise, click the **'Receive Document'** button to upload the document as shown below:
@@ -55,14 +60,6 @@ Next, click the **'Proceed Now'** button to process the payment and save the rec
 After the **'Certification'** is done, the record status in the movement processing window will turn from **'Awaiting Certification'** to **'Calculation done'** as shown in the screenshot below:
 
 <img  alt="Awaiting Certification" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image70.png">
-
-
-## Claim Activities
-
-The activities under this menu are related to claim processing. To start an activity, click the appropriate link from the enclosed drop-down menu to open the respective window as shown in the screenshot below:
-
-<img  alt="Claim Activities menu" width="50%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/claimactivities.jpg">
-
 
 
 ## Movement Processing
