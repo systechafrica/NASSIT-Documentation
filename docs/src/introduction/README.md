@@ -36,25 +36,26 @@ The circled numbers in the screenshot above correspond to the numbers in the fol
 
 
 | **No.** 	| **Interface Elements**    	| **Description**                                                                                                                                   	|
-|---------	|---------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------	|
-| 1.    	| Top menu bar              	| This is the bar where the system version trademark, the name of the running scheme, language drop-down menu, and logout button is located.    	|
-| 2.     	| Language drop-down menu   	| Click to select a language of choice. This will render the navigation and content in the selected language.                                       	|
-| 3.    	| Logout button             	| Clicking this button will terminate all the running processes and close the system.                                                               	|
-| 4.    	| Main menu bar             	| This is the location of the major menu. Click to expand and display more menu items.                                                                                    	|
-| 5.    	| Scheme Setup link         	| A shortcut to launching the scheme setup module. Click to open the setup page.                                                                    	|
-| 6.    	| Investments link          	| ACCESS DENIED. NOT SUBSCRIBED                                                                                                            	|
-| 7.    	| Workflow link             	| ACCESS DENIED. NOT SUBSCRIBED TOModule.                                                                                                                    	|
-| 8.    	| Fees and Commission link  	| ACCESS DENIED. NOT SUBSCRIBED                                                                                                   	|
-| 9.    	| Pensioners Register link  	| A link to the Pensioners Register Module.                                                                                                         	|
-| 10.   	| Administrative Panel link 	| A link to the Administrative Panel Module.                                                                                                        	 |
-| 11.   	| Accounts link             	| ACCESS DENIED. NOT SUBSCRIBED                                                                                                                   	|
-| 12.   	| Members Register link      	| A shortcut to the Members Register Module.                                                                                                             |
+|---------	|------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------	|
+| 1.    	| Top menu bar              	| This is the bar where the system version trademark, the name of the running scheme, language drop-down menu, and logout button is located.            |
+| 2.     	| Language drop-down menu   	| Click to select a language of choice. This will render the navigation and content in the selected language.                                           |
+| 3.    	| Logout button             	| Clicking this button will terminate all the running processes and close the system.                                                                   |
+| 4.    	| Main menu bar             	| This is the location of the major menu. Click to expand and display more menu items.                                                                  |
+| 5.    	| Scheme Setup link         	| A shortcut to launching the scheme setup module. Click to open the setup page.                                                                        |
+| 6.    	| Investments link          	| **Access Denied: Subscription Required**                                     	                                                                        |
+| 7.    	| Workflow link             	| **Access Denied: Subscription Required**                                     	                                                                        |
+| 8.    	| Fees and Commission link  	| **Access Denied: Subscription Required**                                                                                                              |
+| 9.    	| Pensioners Register link  	| A link to the Pensioners Register Module.                                                                                                             |
+| 10.   	| Administrative Panel link 	| A link to the Administrative Panel Module.                                                                                                            |
+| 11.   	| Accounts link             	| **Access Denied: Subscription Required**                                                                                                              |
+| 12.   	| Members Register link      	| A shortcut to the Members Register Module.                                                                                                            |
 
 
 
 ## Main Menu Bar
 
-Clicking the hamburger icon on the upper-left corner of the landing page will enable a user to expand the menu bar, allowing access to more controls. The expanded menu bar displays a help tab, on the uppermost side, for accessing the help documentation.
+Clicking the hamburger icon on the upper-left corner of the landing page will enable a user to expand the menu bar, allowing access to more controls. The expanded menu bar displays a help tab,
+ on the uppermost side, for accessing the help documentation.
 
 Located on the lowermost side of the menu bar are more controls that enable other configurations for a user account. See screenshot below:
 
@@ -62,14 +63,14 @@ Located on the lowermost side of the menu bar are more controls that enable othe
 
 
  
-| **No.**  | **Element**         | **Description**                                                                                                                                                                  |
-|----------|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.        | Help link           | A link to the help documentation for user reference. Click to open the page.                                                                                                     |
-| 2.        |   Account config    | A section with links for configuring user account details.                                                                                                                       |
-| 2(a). |   Profile           | This is where the logged in user's profile name is displayed.                                                                                                                      |
-| 2(b). |   Switch Scheme     | Allows a user to change from the currently running scheme to another without terminating a session. Note that a successful switch will change the scheme name on the uppermost bar |
-| 2(c). |   Change Password   | Allows a user to change password for security reasons.                                                                                                                          |
-| 2(d). |   Products Setup    | Clicking on this link will open the products page to view available products and create new.                                                                        |
-| 2(e). |   Logout            | Click to terminate all the running processes and close the current profile account ready to log in as a new user.                                                                |
+| **No.**  | **Element**            | **Description**                                                                                                                                                                     |
+|----------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.       | Help link              | A link to the help documentation for user reference. Click to open the page.                                                                                                        |
+| 2.       | Account config         | A section with links for configuring user account details.                                                                                                                          |
+| 2(a).    | Profile                | This is where the logged in user's profile name is displayed.                                                                                                                       |
+| 2(b).    | Switch Scheme          | Allows a user to change from the currently running scheme to another without terminating a session. Note that a successful switch will change the scheme name on the uppermost bar  |
+| 2(c).    | Change Password        | Allows a user to change password for security reasons.                                                                                                                              |
+| 2(d).    | Products Setup         | Clicking on this link will open the products page to view available products and create new.                                                                                        |
+| 2(e).    | Logout                 | Click to terminate all the running processes and close the current profile account ready to log in as a new user.                                                                   |
  
  
