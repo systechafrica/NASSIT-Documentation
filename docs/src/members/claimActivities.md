@@ -13,7 +13,7 @@ To initiate a claim for a member, navigate to the **'Members Register'** and sel
 <img  alt="Initiate Movement/Claim window" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image62.jpg">
 
 
-## Processing a Claim
+### Processing a Claim
 
 To initiate a claim whose **'Reason for Exit'** is ill health, Click the **'Initiate Movement/Claim'** link to load an exit form (see the following screenshot) where configurations for processing the claims are set.
 
