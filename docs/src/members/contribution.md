@@ -106,14 +106,14 @@ Clicking the **'Show Details'** checklist will open a new section on the lower p
 
 To view the details of a selected batch record, click on the **'Batch Details'** tab as shown below:
 
-<img  alt="Batch Details" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image34.png">
+<img  alt="Batch Details" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image34.png">
 
 
 ### Batch Contribution
 
 To view batch contributions distribution to member's accounts, click the **'Batch Contributions'** tab as shown below:
 
-<img  alt="Batch Contributions" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image35.png">
+<img  alt="Batch Contributions" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image35.png">
 
 
 
@@ -121,7 +121,7 @@ To view batch contributions distribution to member's accounts, click the **'Batc
 
 The **'Historical Contributions Register'** shows all the historical data uploaded in the system in the form of batches. From this window, new batches of historical contributions can be uploaded and certified. See screenshot below:
 
-<img  alt="Historical Contributions Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image36.png">
+<img  alt="Historical Contributions Register" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image36.png">
 
 
 
@@ -145,7 +145,7 @@ Click the **'Transferred in Claims'** link to open a grid table listing all the 
 
 The links under this category give access to windows where the Contributions Billing, Receivables Register, and Receipts Register configurations are set. Click on the drop-down submenu links enclosed below to load the respective windows and set configurations appropriately:
 
-<img  alt="Contribution Receivables/Receipts" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image39.jpg">
+<img  alt="Contribution Receivables/Receipts" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/contrReceivable.jpg">
 
 
 <!--
@@ -157,7 +157,7 @@ The **'Direct Debits'** window displays all direct debits authorized by the spon
 
 -->
 
-### Contribution Schedules
+## Contribution Schedules
 
 The **'Contribution Schedules'** window lists all the contribution schedules generated in the system to date. Through the window, a new contribution schedule can be generated and emailed to establishments or downloaded among other operations. See screenshot below:
 
@@ -246,14 +246,14 @@ Clicking the **'Import Schedule Validation'** link will load the importation win
 -   Click **label 3** button to  save the contribution scheduel. 
 
 
-### Contribution Schedules
+### Contribution Schedule Operations
 
 After a contribution schedule is validated, it will be listed on the contribution schedules window. From here the Contribution Schedule can be Certified, Cancelled among other actions from the **Schedule Operations** drop-down menu or **Unposted**,**Reversed**, **Tied to a Receipt** etc. from the **Posting** menu as shown in the screenshot below: 
 
 <img  alt="Contribution Schedule " width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image46.jpg">
 
 
-### Reversed Contribution Schedules
+## Reversed Contribution Schedules
 
 all the contribution scheduled that have been reversed for whatever reason such that they arre not posted to the members accounts are listed the in a **Reversed Contributions Schedule** as shown below:
 
@@ -261,7 +261,7 @@ all the contribution scheduled that have been reversed for whatever reason such 
 
 
 
-### Cashbook Register
+## Cashbook Register
 
 The **'Cashbook Register'** lists all the cash books created and used in a scheme. From the **'Cashbook Operations'** menu a new cashbook can be created and the details of a selected cashbook from the list viewed. See screenshot below:
 
@@ -269,7 +269,7 @@ The **'Cashbook Register'** lists all the cash books created and used in a schem
 
 
 
-### Contributions Receipts Register
+## Contributions Receipts Register
 
 The Contributions Receipts window lists all the recipts created in the system ready to be tied to specific contribution schedules. From this window **'New Receipts'** can be **Created**, **Certified** and **Posted**. See screenshoot below:
 
