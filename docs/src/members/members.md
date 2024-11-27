@@ -9,8 +9,7 @@ of the scheme employers, members and their dependants are done. See screenshot b
 
 ## Employer Register
 
-The **'Employer Register'** lists all the employers in a scheme. From this window specific actions can be carried out 
-regarding a selected employer from the list. See screenshot below:
+The **'Employer Register'** lists all the establishments in the NASSIT scheme and categorized according to the sector of the economy they fall under. From this window specific actions can be carried out regarding a selected establishment from the list. See screenshot below:
 
 <img  alt="Sponsor Register" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image3.jpg">
 

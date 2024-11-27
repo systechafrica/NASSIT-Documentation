@@ -1,8 +1,15 @@
 ### Members Module
 
-The members module facilitates the seamless onboarding of individuals contributing members into a scheme by connecting conributors and the establishments they work for. This linkage streamlines the management of diverse establishments, their members contributions, and overall operational processes. The module excels not only in ensuring efficient onboarding but also provides features for viewing existing members, uploading contributions, and initiating claim processes among others.
+The Members Module simplifies the onboarding of individual contributing members into a scheme by establishing a connection between contributors and their respective establishments. This linkage enhances the management of multiple establishments, their members' contributions, and associated operational processes.
 
-Below is a screenshot of the Members Module dashboard with the left side pane expanded to reveal menu links to different configuration windows:
+The module is designed to not only ensure efficient onboarding but also offers additional functionalities, including:
+
+- Viewing and managing existing members.
+- Uploading contributions.
+- Initiating and tracking claim processes.
+- Accessing other essential features for seamless operations.
+
+Below is a screenshot of the Members Module dashboard, with the left-side pane expanded to reveal menu links to various configuration windows for easy navigation.
 
 <img  alt="Members module dashboard " width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image1.png">
 
