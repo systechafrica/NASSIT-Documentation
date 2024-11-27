@@ -13,7 +13,7 @@ To initiate a claim for a member, navigate to the **'Members Register'** and sel
 <img  alt="Initiate Movement/Claim window" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image62.jpg">
 
 
-### Processing a Claim
+### Reasons for Exit
 
 To initiate a claim whose **'Reason for Exit'** is ill health, Click the **'Initiate Movement/Claim'** link to load an exit form (see the following screenshot) where configurations for processing the claims are set.
 
@@ -45,6 +45,7 @@ Clicking the **'Movement Processing'** menu will open the movement processing wi
 <img  alt="Movement Processing" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image67.png">
 
 
+## Benefits Calculation
 
 Click the **'Show Benefits Calculation'** tab from the **'Benefits Calculation'** drop-down menu to load the **'Benefits Calculation'** form. This shows the member's benefits tabulations as shown in the screenshot below:
 

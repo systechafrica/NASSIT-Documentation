@@ -1,12 +1,14 @@
 
 ## Contributions
 
-After the process of adding Members and Sponsors to a Scheme, the next step is to upload members' contributions. Contributions can be uploaded to the system in two ways: as a single contribution for one member or multiple contributions for more than one member in a batch using a template.
+Once establishments and their employees are successfully onboarded to a scheme, the next step involves uploading their contributions. These contributions are subsequently allocated to the respective members' accounts. This section provides a detailed walkthrough of all processes related to contributions, ensuring clarity and accuracy at every step.
 
 
 <img  alt="Contributions" width="50%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image24.jpg">
 
 
+
+<!--
 
 ## Contribution Journals
 
@@ -15,7 +17,6 @@ The **'Contribution Journal'** form is used to capture contributions for members
 <img  alt="Contribution Journals" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image25.png">
 
 
-<!--
 ## Contribution Approval
 
 The **'Contribution Approval'** window lists all the member contributions that have been received and need to be approved as a way of confirming their receipt. See screenshot below:
