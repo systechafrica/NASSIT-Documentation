@@ -26,16 +26,6 @@ The **'Contribution Approval'** window lists all the member contributions that h
 -->
 
 
-## New Batch Contribution
-
-After downloading the contributions template and filling it with data. Click the **'New Batch Contribution'** link to open the window through which the template is uploaded back into the system. The following screenshot shows an example of a successful upload:
-
-<img  alt="New Batch Contribution" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image27.png">
-
-
-**Tip**
-
-In the event of unagreeable data or tempered with template settings,  the system to reject the upload through an error alert message in the troubleshooting window.
 
 <!--
 ## Contributions Debt Management
@@ -79,7 +69,7 @@ The **'Process Penalties'** window displays the records of all contribution pena
 
 After batch contributions are successfully uploaded into the system, they are collectively saved in a register where all the member's batch contributions are tabulated based on the different sponsors in the scheme. To open this register, click the **'Batch Contributions Register'** link to batch records as shown below:
 
-<img  alt="Batch Contributions Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image33.png">
+<img  alt="Batch Contributions Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image33.jpg">
 
 
 **Action**
@@ -115,6 +105,17 @@ To view batch contributions distribution to member's accounts, click the **'Batc
 
 <img  alt="Batch Contributions" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image35.png">
 
+
+### New Batch Contribution
+
+After downloading the contributions template and filling it with data. Click the **'New Batch Contribution'** link to open the window through which the template is uploaded back into the system. The following screenshot shows an example of a successful upload:
+
+<img  alt="New Batch Contribution" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image27.png">
+
+
+**Tip**
+
+In the event of unagreeable data or tempered with template settings,  the system to reject the upload through an error alert message in the troubleshooting window.
 
 
 ## Historical Contribution Register
