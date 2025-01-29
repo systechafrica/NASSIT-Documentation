@@ -32,7 +32,7 @@ Click this link to open a dialog box to configure IPAs related to FundMaster int
 
 Click the '**Report Server'** menu item to open a Report Server Config dialog box to configure settings that enables FundMaster to connect to a report server as shown in the screenshot below:
 
-<img  alt="report server" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image41.png">  
+<img  alt="report server" width="99%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image41.png">  
 
 
 
@@ -72,7 +72,7 @@ Click the **'New Configuration'** button to open a dialog box where settings for
 
 To upload logos for use in the system-generated reports, select the configuration whose reports need logos. Locate the list in the report's configuration window. Then click the **'Upload/Edit logo'** button to open a dialog box and upload the logos as shown below:
 
-<img  alt="Uploading report logos" width="85%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image44.png">  
+<img  alt="Uploading report logos" width="99%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image44.png">  
 
 
 **Action**
@@ -86,7 +86,7 @@ To upload logos for use in the system-generated reports, select the configuratio
 
 Click either of the **'Upload'** buttons to open a Logo Upload dialog box through which a path to locate the logo from a user's device is provided. Click the **'Upload logo'** button to move the selected logo to the system as shown below:
 
-<img  alt="logo upload" width="75%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image45.png">  
+<img  alt="logo upload" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image45.png">  
 
 
 
@@ -95,12 +95,12 @@ Click either of the **'Upload'** buttons to open a Logo Upload dialog box throug
 To map a scheme to a specific report configuration, select the configuration you want to map a scheme to from the list of
 configurations on the upper section of the window, then click the **'New Mapping'** button located in the lower section of the window to open a new mapping dialog box. Type the name of the new mapping and click the **'Get Scheme to Map'** button to map the scheme to the set report configuration as shown below:
 
-<img  alt="mapping Scheme to a Configuration" width="75%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image46.png">  
+<img  alt="mapping Scheme to a Configuration" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image46.png">  
 
 
 Click the **'Get Scheme to Map'** button to open the scheme details window. Search for the scheme you want to map and click the Double-Click to Select button to select the scheme. You can also select multiple schemes by clicking the **'Select Multiple'** button as shown below:
 
-<img  alt="Get Scheme to Map" width="85%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image47.png">  
+<img  alt="Get Scheme to Map" width="99%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image47.png">  
 
 
 
@@ -108,12 +108,19 @@ Click the **'Get Scheme to Map'** button to open the scheme details window. Sear
 
 Click the **'Reports Register'** link to open the Reports Register window where a list of all report objects from the various module are listed. From this window a particular report can be selected and **'Enables'** or **'Disabled'** as shown in the screenshot below:
 
-<img  alt="Reports Registe" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image48.jpg">  
+<img  alt="Reports Registe" width="99%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image48.jpg">  
 
 
 **Tip**
 
 Select a report from the list and click the **'Enable'** button to have the report activated so that it can be generated. Otherwise Click **'Disable'** button means the report cannot be generated.
+
+
+### Analytics Server
+
+Click the **'Analytics Server’** menu item to open Analytics Server Configurations dialog box to configure settings that enable a scheme to connect to the analytics server as shown in the screenshot below:
+
+<img  alt="Analytics Server" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image50a.jpg">  
 
 
 
@@ -122,3 +129,12 @@ Select a report from the list and click the **'Enable'** button to have the repo
 The Form Fields Validation Form enables the configurations of various fields validations in a form. See screenshot below:
 
 <img  alt="Form Fields Validation Form" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image49.png">  
+
+
+## Run Internal Scripts
+
+This menu provides access to links for running different module scripts. Click a menu item such as Setup from the drop-down menu to load a dialogue box. Clicking Yes will run the scripts allowing the module to run effectively. See screenshot below:
+
+<img  alt="Run Internal Scripts" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image50.jpg">  
+
+
