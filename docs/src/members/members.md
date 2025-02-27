@@ -354,47 +354,44 @@ The **'Benefits Log Checklist'** window displays a list of all required document
 -   Click **label 5** button to view the details of a selected record from the list.
 
 
-<!--
-## Accountant General Payroll
+## Validation Management
 
-The **'Accounts General Payroll'** window contains the list of the members who worked before the year 2000. There service behold 
-2000 is factored in claim processing. See screenshot below:
+The **'Validation Management'** menu provides access to member validation tools. It includes the **Validation Register** for tracking invalidity members and the **Validation Document Checklist** for managing required documents. See screenshot below:
 
-<img  alt="Accounts General Payroll" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image21.png">
+<img  alt="Validation management menu" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/ValidationMgtMenu.jpg">
 
 
-**Action**
+## Validation Register
 
--   Click **label 1** button to initiate the process of uploading payrolls in batch.
+The **'Validation Register'** contains details of scheme members classified as having a disability (invalidity members). It helps track and manage their eligibility, benefits, and special considerations within the scheme. See the register screenshot Below:
 
--   Click **label 2** menu and from the dropdown list click the appropriate option for certification of the selected payroll
-    records. There are also options for certification of all the payrolls listed.
+<img  alt="Validation register" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/ValidityRegister.jpg">
 
--   Click **label 3** button to delete a selected payroll record from the list.
+ **Actions**
 
--   Click **label 4** text box and type key words to filter payroll records quickly.
+- Click label 1 button to add a new member.
 
--->
-
-## General Member Approvals
-
-The **'General Member Approvals'** window displays the members whose details have been updated and need to be **'Certified'** and **'Approved'** before the changes can be reflected in the Members Register. See screenshot below:
+- Click label 2 button to upload the employment letter necessary for registering a new member into the scheme.
 
 
-<img  alt="General member approvals window" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/GeneralApprovals.jpg">
+## Validation Document Checklist
+
+The **'Validation Document Checklist'** window allows the listing of all the documents required for invalidity benefits claims at the point of retirement. See screenshot below:
+
+<img  alt="Validation document checklist window" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/VDC.jpg">
 
 
- **Action**
+**Actions**
 
-•	Click label 1 button to filter the records by the parameters you have set.
+- Click label 1 button to add a new document to the checklist.
 
-•	Click label 2 button and from the drop-down menu then click to Certify or Approve the updates of a selected member.
+- Click label 2 button and from the dropdown menu click to Certify and Approve the new document. view the details of a selected record.
 
-•	Click label 3 button to view the details of a selected record from the list.
+- Click label 3 button to delete a selected document from the list. 
 
-•	Click label 4 button to cancel the certification of a selected member record.
+- Click label 4 text box and type the name of a checklist document to filter records. 
 
-Clicking the **Details** button will open an **'Item Approval Details'** window showing the changes made to the member details. See the screenshot below:
 
-<img  alt="Item approval details window" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/ItemsApproval.jpg">
-
+Clicking the **'Add New Document Checklist'** will open a dialog box through which the detail of a new document is created as shown below:
+ 
+<img  alt="Add new document checklist window" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/AddNewDoc.jpg">
