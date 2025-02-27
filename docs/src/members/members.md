@@ -103,7 +103,7 @@ Capture the details of the member's **Dependants** and **Parents** by filling in
 <img  alt="creating beneficiaries" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image6c.jpg">
 
 
-**Action**
+**Actions**
 
 -   Click **label 1** to open a dialog box for capturing the dependants details.
 
@@ -195,7 +195,7 @@ name and an extract of the members report generated a shown below:
 <img  alt="Members Bio Data window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/BioData.jpg">
 
 
-**Action**
+**Actions**
 
 -   Click **label 1** button to initiate the process of adding a new member. 
 
@@ -234,7 +234,7 @@ The **'Members Batch Register'** holds the details of the members who have been 
 <img  alt="Members Batch Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image14.png">
 
 
-**Action**
+**Actions**
 
 -   Click **label 1** menu to select the option of importing member in batch or canceling a batch.
 
@@ -248,7 +248,7 @@ Clicking the **'Show Details'** button will open a section showing more details 
 <img  alt="Show Details" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image15.png">
 
 
-**Action**
+**Actions**
 
 -   Click **label 1** to see a list of all the members whose membership has been revoked from the batch being proceeded.
 
@@ -320,7 +320,7 @@ In case a dependant’s details are updated from the **'Dependants Register'**, 
 
 <img  alt="Dependants endorsement window" width="99%" height="auto" class="center"  src="../.vuepress/public/membersmedia/depsendorsement.jpg">
 
-**Action**
+**Actions**
 
 -   Click **label 1** button to search for records based on set parameters. 
 
@@ -341,7 +341,7 @@ The **'Benefits Log Checklist'** window displays a list of all required document
 <img  alt="Benefits Log Checklist window" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image20.png">
 
 
-**Action**
+**Actions**
 
 -   Click **label 1** button to add a new benefits log.
 
