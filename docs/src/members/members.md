@@ -208,15 +208,15 @@ name and an extract of the members report generated a shown below:
 -   Click **label 5** button to show extra details of a selected member.  
 
 
-Clicking the **Show Details** will show a lower section below the grid table showing more details of a selected member bio record. The screenshot below shows the **Employment History** tab. Under this tab are the details pertaining to different **Establishments** the member has worked for: 
+Clicking the **'Show Details'** will show a lower section below the grid table showing more details of a selected member bio record. The screenshot below shows the **'Employment History'** tab. Under this tab are the details pertaining to different **'Establishments'** the member has worked for: 
 
 <img  alt="Employment history tab" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/EmploymentHistory.jpg">
 
 
-Clicking the **New Employment Information** button will load a dialog box for capturing another record of the selected member employment history. See screenshot below:
+Clicking the **'New Employment Information'** button will load a dialog box for capturing another record of the selected member employment history. See screenshot below:
 
 
-<img  alt="New employment Information" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/MemberEmploymentHistory.jpg">
+<img  alt="New employment Information" width="80%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/MemberEmploymentHistory.jpg">
 
 
 ## New Members Approvals
@@ -267,22 +267,22 @@ revoked. To retore membership, select individuals from the grid table and click 
 
 ### MSS Members Approvals
 
-All members registered through the MSS Portal will be listed on this **MSS Member Approvals** window waiting for certification process before they can be moved to the Members Register. From this window the details of a selected member can be viewed, or the registration cancelled all together. See screenshot below:
+All members registered through the MSS Portal will be listed on this **'MSS Member Approvals'** window waiting for certification process before they can be moved to the Members Register. From this window the details of a selected member can be viewed, or the registration cancelled all together. See screenshot below:
 
 <img  alt="MSS Membership approval window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/MSSapprovals.jpg">
 
 
 ### New Members Approvals (Individual)
 
-All members registered through the single member onboarding process (Using the membership form in FundMaster) will be listed on this window waiting for the certification process before they can be moved to the Members Register. From this window the details of a selected member can be viewed, or the registration cancelled all together. See screenshot below:
+All members registered by filling the membership form in FundMaster will be listed on this window waiting for the certification process before they can be moved to the Members Register. From this window the details of a selected member can be viewed, or the registration cancelled all together. See screenshot below:
 
 <img  alt="MSS Membership approval window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/singlemembershipapproval.jpg">
 
 
 ### Members Documents Checklist
 
-The **'Members Documents Checklist'** window list of all the documents that are needed for the successful registration of a member into a scheme. From this window new documents can be added to the checklist by clicking the **New** button to load a 
-**New Document checklist** dialog box through which the details of a new document are captured. See screenshot below: 
+The **'Members Documents Checklist'** window list of all the documents that are needed for the successful registration of a member into a scheme. From this window new documents can be added to the checklist by clicking the **'New'** button to load a 
+**'New Document checklist'** dialog box through which the details of a new document are captured. See screenshot below: 
 
 <img  alt="Member Document Checklist window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/Memberdocchecklist.jpg">
 
@@ -336,7 +336,7 @@ In case a dependant’s details are updated from the **'Dependants Register'**, 
 
 ## Benefits Log Checklist
 
-The **Benefits Log Checklist** window displays a list of all required documents that must be uploaded into the system before a claim process can be initiated. Refer to the screenshot below for a visual representation of this checklist.
+The **'Benefits Log Checklist'** window displays a list of all required documents that must be uploaded into the system before a claim process can be initiated. Refer to the screenshot below for a visual representation of this checklist.
 
 <img  alt="Benefits Log Checklist window" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image20.png">
 
@@ -398,18 +398,3 @@ Clicking the **Details** button will open an **'Item Approval Details'** window 
 
 <img  alt="Item approval details window" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/ItemsApproval.jpg">
 
-
-
-
-
-<!--
-## Take Notes
-
-This tool aids the system users to take some notes and save them. To see the notes already written and capture new notes.
-
-Click the **'Take Notes'** link to open the Notes window. From this window locate and then click the **'New'** button to load
- a new dialog box and type new notes as shown below:
-
-<img  alt="Take Notes" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image23.png">
-
--->
