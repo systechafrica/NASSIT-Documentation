@@ -63,7 +63,6 @@ There are two ways to upload members into the system's member register:
     -   Utilize a template file (e.g., MS Excel) filled with member details.
 
     -   Upload the file into the system to add more than one member in a batch.
+    
 
-**NB**
-
-For now NASSIT has restricted member registration to the Single Member Onboarding Method. 
+**Note:**For now NASSIT has restricted member registration to the Single Member Onboarding Method. 

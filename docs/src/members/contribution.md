@@ -64,10 +64,17 @@ The **'Process Penalties'** window displays the records of all contribution pena
 
 -->
 
+## Contribution Approval
+
+The **'Contribution Approval'** window lists individual member contributions that have been received and need to be approved as a way of confirming their receipt. See screenshot below:
+
+<img  alt="Contribution Approval" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image26.png">
+
+
 
 ## Batch Contributions Register
 
-After batch contributions are successfully uploaded into the system, they are collectively saved in a register where all the member's batch contributions are tabulated based on the different sponsors in the scheme. To open this register, click the **'Batch Contributions Register'** link to batch records as shown below:
+After batch contributions are successfully uploaded into the system, they are collectively saved in the **'Batch Contributions Register'** where all the batch contributions are grouped based on the different establishments. To open this register, click the Batch Contributions Register as shown in the screenshot below:
 
 <img  alt="Batch Contributions Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image33.jpg">
 
@@ -113,9 +120,7 @@ After downloading the contributions template and filling it with data. Click the
 <img  alt="New Batch Contribution" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image27.png">
 
 
-**Tip**
-
-In the event of unagreeable data or tempered with template settings,  the system to reject the upload through an error alert message in the troubleshooting window.
+**Tip:** In the event of unagreeable data or tempered with template settings,  the system to reject the upload through an error alert message in the troubleshooting window.
 
 
 ## Historical Contribution Register
@@ -195,12 +200,12 @@ To generate a contributions schedule, click the **'Generate Contributions Schedu
 -   Click **label 2** button to to run the contribution schedule. 
 
 
-Clicking the **Lookup Employer** button will help you to fetch the employer by filtering through the records as shown below:
+Clicking the **'Lookup Employer'** button will help you to fetch the employer by filtering through the records as shown below:
 
 <img  alt="Generating a Bill" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image41a.jpg">
 
 
-**Action**
+**Actions**
 
 -   Click **label 1** text field and type the name of the employer you are generating the schedule for. 
 
@@ -238,7 +243,7 @@ Clicking the **'Import Schedule Validation'** link will load the importation win
 <img  alt="Import Bill Validation" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image45.jpg">
 
 
-**Action**
+**Actions**
 
 -   Click **label 1** button to locate the contribution schedule file from your device for upload.
 
@@ -281,7 +286,7 @@ Click the **'New Receipt'** button open a dialogue box through which a **'New Co
 
 <img  alt="New Receipt" width="93%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image49.jpg">
 
-**Action**
+**Actions**
 
 -   Click **label 1** button to filter the employer quickly from the employers register.
 
