@@ -1,6 +1,6 @@
 ### Membership Registration
 
-All the link options under the **'Members'** menu open to different windows where the respective configuration related to the Management
+All the links under the **'Members'** menu open to different windows where the respective configuration related to the Management
 of the scheme employers, members and their dependants are done. See screenshot below:
 
 <img  alt="Members" width="50%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image2.jpg">
@@ -9,46 +9,40 @@ of the scheme employers, members and their dependants are done. See screenshot b
 
 ## Employer Register
 
-The **'Employer Register'** lists all the establishments in the NASSIT scheme and categorized according to the sector of the economy they fall under. From this window specific actions can be carried out regarding a selected establishment from the list. See screenshot below:
+The **'Employer Register'** lists all the establishments in the NASSIT scheme and categorizes them according to the sector of the economy they fall under. From this window specific actions can be taken regarding a selected establishment from the list. See screenshot below: 
 
 <img  alt="Sponsor Register" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image3.jpg">
 
 
-**Action**
+**Actions**
 
--   Click **label 1** button to open a window where all members of a selected employer are listed.
+- Click **label 1** button to open a window where all members of a selected employer are listed.
 
--   Click **label 2** textbox and type a employer name or reference number to filter employer records.
+- Click **label 2** textbox and type an employer name or reference number to filter employer records.
 
--   Click **label 3** textbox and type a employer reference number to filter employer records.
+- Click **label 3** textbox and type an employer reference number to filter employer records.
 
--   Click **label 4** button and from the drop-down menu select a template to downlaod. 
+- Click **label 4** button and from the drop-down menu select a template to download.
 
--   Click **label 5** button and from the drop-down menu select a links to download member related reports. 
+- Click **label 5** button and from the drop-down menu select links to download member related reports.
+   
 
-
-**Tip**
-
-More columns can be shown on the grid table by clicking the header cell of any column and adding new data fields as shown 
-in the screenshot below:
+**Tip:**More columns can be shown on the grid table by clicking the header cell of any column and adding new data fields as shown in the screenshot below:
 
 <img  alt="adding column" width="70%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image3a.jpg">
 
 
-
-
 ## Members Register
 
-The **'Members Register'** lists all the members under an employer in a scheme. From this window specific actions can be
- carried out regarding a selected member from the list.
+The **Members Registe**r lists all the members under an establishment within the scheme. From this window, specific actions can be performed on a selected member from the list.
 
-Clicking the **'View Members'** button (see previous screenshot) will open a members register window displaying the members 
-under a selected sponsor as shown below:
+Clicking the **View Members** button (see the member register screenshot) will open the Members Register window, displaying the members under the selected establishment, as shown below:
+
 
 <img  alt="Member Register" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image4.jpg">
 
 
-**Action**
+**Actions**
 
 -   Click **label 1** menu to open a drop-down list of options related to members operations such as adding a new member.
 
@@ -63,9 +57,7 @@ under a selected sponsor as shown below:
 
 ### Member Operations
 
-The **'Member Operations'** drop-down menu provides links to open windows for various actions related to members.
-These actions include tasks like adding a new member, viewing the details of a selected member among others. See the
-screenshot below:
+The **Member Operations** drop-down menu provides links to open windows for various actions related to members. These actions include tasks like adding a new member, viewing the details of a selected member, among others. See the screenshot below:
 
 <img  alt="Member Operations" width="60%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image5.jpg">
 
@@ -82,12 +74,9 @@ such as the Dependants/Next of kin tab, Contributions tab, Salary History tab et
 
 ### Member Onboarding Process
 
-
 ### *Adding a New Member*
 
-To register add a member in an establishment, a member details form is used to capture member's data for the registration process.
-To begin the process, click the '**'New Member'** link from the **'Member Operations'** drop-down menu to open a dialog box
-through which a member's basic details are captured. see all the steps as follows:
+To register add a member in an establishment, a member details form is used to capture member's data for the registration process. To begin the process, click the '**'New Member'** link from the **'Member Operations'** drop-down menu to open a dialog box through which a member's basic details are captured. see all the steps as follows:
 
 
 ***Section 1 of Membership Form***
@@ -138,9 +127,7 @@ Clicking the **'Add Parent'** button will load the dialog box for capturing the 
 Clicking the **'Complete Saving Member'** button will save push the members details into the member register.
 
 
-**Tip**
-
--   Remember to go to the **General Member Approval** window to approve a newly created member. This is demonstrated in a later section.
+**Tip:**Remember to go to the **General Member Approval** window to approve a newly created member. This is demonstrated in a later section.
 
 <!--
 ### *Batch Member Onboarding Method* 
@@ -224,9 +211,7 @@ name and an extract of the members report generated a shown below:
 
 ## New Members Approvals
 
-The **New Members Approvals** menu provides links to access windows through which apploval of membership from batch registration, 
-single registration and registrations done through the portal are granted so that the members can be moved to **Member Register**.
-See screenshot below:
+The **New Members Approvals** menu provides links to access windows through which apploval of membership from batch registration,single registration and registrations done through the portal are granted so that the members can be moved to **Member Register**.See screenshot below:
 
 <img  alt="Members Bio Data approva window" width="60%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/membersapproval.jpg">
 
@@ -391,8 +376,7 @@ The **'Accounts General Payroll'** window contains the list of the members who w
 
 ## General Member Approvals
 
-The **'General member Approvals'** window displays the members whose details have been updated and need to be **'Certified'** and 
-**'Approved'** before the changes can reflect in the members register. See screenshot below:
+The **'General member Approvals'** window displays the members whose details have been updated and need to be **'Certified'** and **'Approved'** before the changes can reflect in the members register. See screenshot below:
 
 <img  alt="General member approvals window" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image22.jpg">
 
