@@ -27,7 +27,7 @@ The **'Employer Register'** lists all the establishments in the NASSIT scheme an
 - Click **label 5** button and from the drop-down menu select links to download member related reports.
    
 
-**Tip:**More columns can be shown on the grid table by clicking the header cell of any column and adding new data fields as shown in the screenshot below:
+**Tip:** More columns can be shown on the grid table by clicking the header cell of any column and adding new data fields as shown in the screenshot below:
 
 <img  alt="adding column" width="70%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image3a.jpg">
 
@@ -127,7 +127,7 @@ Clicking the **'Add Parent'** button will load the dialog box for capturing the 
 Clicking the **'Complete Saving Member'** button will save push the members details into the member register.
 
 
-**Tip:**Remember to go to the **General Member Approval** window to approve a newly created member. This is demonstrated in a later section.
+**Tip:** Remember to go to the **General Member Approval** window to approve a newly created member. This is demonstrated in a later section.
 
 <!--
 ### *Batch Member Onboarding Method* 
@@ -257,26 +257,21 @@ revoked. To retore membership, select individuals from the grid table and click 
 
 ### MSS Members Approvals
 
-All members registered through the MSS portal my employers will be listed on this window waiting for certification process before they 
-can be moved to the members register. From this window the details of a selected member can be viewed or the registration cancelled all together.
-See screenshot below:
+All members registered through the MSS portal my employers will be listed on this window waiting for certification process before they can be moved to the members register. From this window the details of a selected member can be viewed or the registration cancelled all together. See screenshot below:
 
 <img  alt="MSS Membership approval window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/MSSapprovals.jpg">
 
 
 ### New Members Approvals (Individual)
 
-All members registered through the single member onboarding process will be listed on this window waiting for certification process before they 
-can be moved to the members register. From this window the details of a selected member can be viewed or the registration cancelled all together.
-See screenshot below:
+All members registered through the single member onboarding process will be listed on this window waiting for certification process before they can be moved to the members register. From this window the details of a selected member can be viewed or the registration cancelled all together. See screenshot below:
 
 <img  alt="MSS Membership approval window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/singlemembershipapproval.jpg">
 
 
 ### Members Documents Checklist
 
-The **'Members Documents Checklist'** window list of all the documents that are needed for the successful registration of a member
-into a scheme. From this window new documents can be added to the checklist by clicking the **New** button to load a 
+The **'Members Documents Checklist'** window list of all the documents that are needed for the successful registration of a member into a scheme. From this window new documents can be added to the checklist by clicking the **New** button to load a 
 **New Document checklist** dialog box through which the details of a new document are captured. See screenshot below: 
 
 <img  alt="Member Document Checklist window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/Memberdocchecklist.jpg">
@@ -294,8 +289,7 @@ open a window for interacting with the mentioned objects. See screenshot below:
 ### **Dependants Register**
 
 The **'Dependants Register'** contains the details of all the beneficiaries nominated by scheme members. From the register's menu
-bar all necessary dependant document checklist can be accessed from the **'Open Register'** drop-down button among others as shown
-in the screenshot below:
+bar all necessary dependant document checklist can be accessed from the **'Open Register'** drop-down button among others as shown in the screenshot below:
 
 
 <img  alt="Dependant Register window" width="99%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependants.jpg">
