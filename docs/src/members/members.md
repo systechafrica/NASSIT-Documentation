@@ -368,7 +368,6 @@ The **'Accounts General Payroll'** window contains the list of the members who w
 
 ## General Member Approvals
 
-General Member Approvals
 The **'General Member Approvals'** window displays the members whose details have been updated and need to be **'Certified'** and **'Approved'** before the changes can be reflected in the Members Register. See screenshot below:
 
 
@@ -385,7 +384,7 @@ The **'General Member Approvals'** window displays the members whose details hav
 
 •	Click label 4 button to cancel the certification of a selected member record.
 
-Clicking the **Details** button will open an **Item Approval Details** window showing the changes made to the member details. See the screenshot below:
+Clicking the **Details** button will open an **'Item Approval Details'** window showing the changes made to the member details. See the screenshot below:
 
 <img  alt="Item approval details window" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/ItemsApproval.jpg">
 
