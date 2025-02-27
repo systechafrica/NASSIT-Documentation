@@ -358,14 +358,14 @@ The **'Benefits Log Checklist'** window displays a list of all required document
 
 The **'Validation Management'** menu provides access to member validation tools. It includes the **Validation Register** for tracking invalidity members and the **Validation Document Checklist** for managing required documents. See screenshot below:
 
-<img  alt="Validation management menu" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/ValidationMgtMenu.jpg">
+<img  alt="Validation management menu" width="50%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/ValidationMgtMenu.jpg">
 
 
 ## Validation Register
 
 The **'Validation Register'** contains details of scheme members classified as having a disability (invalidity members). It helps track and manage their eligibility, benefits, and special considerations within the scheme. See the register screenshot Below:
 
-<img  alt="Validation register" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/ValidityRegister.jpg">
+<img  alt="Validation register" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/ValidityRegister.jpg">
 
  **Actions**
 
@@ -394,4 +394,4 @@ The **'Validation Document Checklist'** window allows the listing of all the doc
 
 Clicking the **'Add New Document Checklist'** will open a dialog box through which the detail of a new document is created as shown below:
  
-<img  alt="Add new document checklist window" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/AddNewDoc.jpg">
+<img  alt="Add new document checklist window" width="78%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/AddNewDoc.jpg">
