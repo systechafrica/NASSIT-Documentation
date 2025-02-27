@@ -34,7 +34,7 @@ The **'Employer Register'** lists all the establishments in the NASSIT scheme an
 
 ## Members Register
 
-The **Members Registe**r lists all the members under an establishment within the scheme. From this window, specific actions can be performed on a selected member from the list.
+The **Members Registe** contains the records for all the members under an establishment within the scheme. From this window, specific actions can be performed on a selected member from the list.
 
 Clicking the **View Members** button (see the member register screenshot) will open the Members Register window, displaying the members under the selected establishment, as shown below:
 
@@ -201,11 +201,11 @@ name and an extract of the members report generated a shown below:
 
 -   Click **label 2** button to open a window showing the details of a selected member.
 
--   Click **label 3** button to filter member records based on the key words typed on the adjacent search box. 
+-   Click **label 3** button to filter a member record based on the key words typed on the search box. 
 
--   Click **label 4** button to extra a report for the selected member.  
+-   Click **label 4** button to extract a report for the selected member.  
 
--   Click **label 5** button to extar details of a selected member.  
+-   Click **label 5** button to show extra details of a selected member.  
 
 
 
@@ -233,7 +233,7 @@ The **'Members Batch Register'** holds the details of the members who have been 
 -   Click **label 3** button to view all the details of a selected individual member in the batch.
 
 
-Clicking the **'Show Details'** button will open a section of extra details of a selected member as shown below:
+Clicking the **'Show Details'** button will open a section showing more details of a selected member as shown below:
 
 <img  alt="Show Details" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image15.png">
 
@@ -257,14 +257,14 @@ revoked. To retore membership, select individuals from the grid table and click 
 
 ### MSS Members Approvals
 
-All members registered through the MSS portal my employers will be listed on this window waiting for certification process before they can be moved to the members register. From this window the details of a selected member can be viewed or the registration cancelled all together. See screenshot below:
+All members registered through the MSS Portal will be listed on this **MSS Member Approvals** window waiting for certification process before they can be moved to the Members Register. From this window the details of a selected member can be viewed, or the registration cancelled all together. See screenshot below:
 
 <img  alt="MSS Membership approval window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/MSSapprovals.jpg">
 
 
 ### New Members Approvals (Individual)
 
-All members registered through the single member onboarding process will be listed on this window waiting for certification process before they can be moved to the members register. From this window the details of a selected member can be viewed or the registration cancelled all together. See screenshot below:
+All members registered through the single member onboarding process (Using the membership in FundMaster) will be listed on this window waiting for the certification process before they can be moved to the Members Register. From this window the details of a selected member can be viewed, or the registration cancelled all together. See screenshot below:
 
 <img  alt="MSS Membership approval window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/singlemembershipapproval.jpg">
 
@@ -306,9 +306,7 @@ To view and add the documents that dependants need to submit for registration, l
 
 ### **Dependants Endorsement**
 
-Incase the dependants details are updated from the **'Dependants Register'** such changes need to be endorsed before the changes can take effect.
-All the beneficiaries whose details have been changed will be moved to the **'Dependants Endorsement'** window for approval. From this window 
-certification is done. See screenshot below:
+In case a dependant’s details are updated from the **'Dependants Register'**, such changes need to be endorsed before the updates can take effect. All the beneficiaries whose details have been changed will be moved to the **'Dependants Endorsement'** window for approval. From this window, certification is done. See screenshot below:
 
 <img  alt="Dependants endorsement window" width="99%" height="auto" class="center"  src="../.vuepress/public/membersmedia/depsendorsement.jpg">
 
@@ -328,7 +326,7 @@ certification is done. See screenshot below:
 
 ## Benefits Log Checklist
 
-The **'Benefits Log Checklist'** window lists all the documents already defined for a claim of benefits. See screenshot below:
+The **Benefits Log Checklist** window displays a list of all required documents that must be uploaded into the system before a claim process can be initiated. Refer to the screenshot below for a visual representation of this checklist.
 
 <img  alt="Benefits Log Checklist window" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image20.png">
 
@@ -370,7 +368,7 @@ The **'Accounts General Payroll'** window contains the list of the members who w
 
 ## General Member Approvals
 
-The **'General member Approvals'** window displays the members whose details have been updated and need to be **'Certified'** and **'Approved'** before the changes can reflect in the members register. See screenshot below:
+The **'General Member Approvals'** window displays the members whose details have been updated and need to be **'Certified'** and **'Approved'** before the changes can be reflected in the members register. See screenshot below:
 
 <img  alt="General member approvals window" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image22.jpg">
 
