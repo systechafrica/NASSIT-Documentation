@@ -354,6 +354,7 @@ The **'Benefits Log Checklist'** window displays a list of all required document
 -   Click **label 5** button to view the details of a selected record from the list.
 
 
+
 ## Validation Management
 
 The **'Validation Management'** menu provides access to member validation tools. It includes the **Validation Register** for tracking invalidity members and the **Validation Document Checklist** for managing required documents. See screenshot below:
