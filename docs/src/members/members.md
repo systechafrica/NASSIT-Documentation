@@ -192,7 +192,7 @@ options of the actions that relate to members. These actions include claim movem
 The **'Members Bio Data'** window displays the records of members personal information. Records can be filtered by members 
 name and an extract of the members report generated a shown below:
 
-<img  alt="Members Bio Data window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image13.jpg">
+<img  alt="Members Bio Data window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/BioData.jpg">
 
 
 **Action**
@@ -207,6 +207,16 @@ name and an extract of the members report generated a shown below:
 
 -   Click **label 5** button to show extra details of a selected member.  
 
+
+Clicking the **Show Details** will show a lower section below the grid table showing more details of a selected member bio record. The screenshot below shows the **Employment History** tab. Under this tab are the details pertaining to different **Establishments** the member has worked for: 
+
+<img  alt="Employment history tab" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/EmploymentHistory.jpg">
+
+
+Clicking the **New Employment Information** button will load a dialog box for capturing another record of the selected member employment history. See screenshot below:
+
+
+<img  alt="New employment Information" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/MemberEmploymentHistory.jpg">
 
 
 ## New Members Approvals
@@ -264,7 +274,7 @@ All members registered through the MSS Portal will be listed on this **MSS Membe
 
 ### New Members Approvals (Individual)
 
-All members registered through the single member onboarding process (Using the membership in FundMaster) will be listed on this window waiting for the certification process before they can be moved to the Members Register. From this window the details of a selected member can be viewed, or the registration cancelled all together. See screenshot below:
+All members registered through the single member onboarding process (Using the membership form in FundMaster) will be listed on this window waiting for the certification process before they can be moved to the Members Register. From this window the details of a selected member can be viewed, or the registration cancelled all together. See screenshot below:
 
 <img  alt="MSS Membership approval window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/singlemembershipapproval.jpg">
 
