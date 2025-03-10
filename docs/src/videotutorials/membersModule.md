@@ -4,7 +4,7 @@ title: Member Onboarding Processes
 
 ### Member onbording processes
 
-This category of videos shows the processes involved in onboarding  members in FundMaster Xe:
+This category of videos shows the processes involved in onboarding  members in FundMaster Xc:
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">

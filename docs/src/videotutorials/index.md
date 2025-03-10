@@ -4,7 +4,7 @@ title: How to Videos
 
 ### FundMaster UI Navigation
 
-This category of videos shows how to navigate various user interfaces (UI) in FundMaster Xe:
+This category of videos shows how to navigate various user interfaces (UI) in FundMaster Xc:
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">
@@ -35,19 +35,19 @@ export default {
           id: 1,
           thumbnail: "https://img.youtube.com/vi/StIAaFSmr7I/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/StIAaFSmr7I",
-          description: "How to log in to FundMaster"
+          description: "How to log in to FundMaster Xc"
         },
         {
           id: 2,
           thumbnail: "https://img.youtube.com/vi/s82gFzfPMbA/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/s82gFzfPMbA",
-          description: "How to navigate Fundmaster Landing Page interface."
+          description: "How to navigate Fundmaster Xc Landing Page interface."
         },
         {
           id: 3,
           thumbnail: "https://img.youtube.com/vi/L2UxRTHFyak/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/L2UxRTHFyak",
-          description: "How to nagivate FundMaster Xe Admin Panel interface."
+          description: "How to nagivate FundMaster Xc Admin Panel interface."
         },
         {
           id: 4,
@@ -59,7 +59,7 @@ export default {
           id: 5,
           thumbnail: "https://img.youtube.com/vi/WUA_HwAqufM/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/WUA_HwAqufM",
-          description: "How to Assign Permissions to user profiles in FundMaster."
+          description: "How to Assign Permissions to user profiles in FundMaster Xc."
         },
         // Add more videos here...
         

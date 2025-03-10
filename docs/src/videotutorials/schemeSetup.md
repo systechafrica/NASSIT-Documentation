@@ -4,7 +4,7 @@ title: Scheme Setup Processes
 
 ### Scheme Setup Processes
 
-This categories of videos shows how various scheme setup configurations are done in FundMaster:
+This categories of videos shows how various scheme setup configurations are done in FundMaster Xc:
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">

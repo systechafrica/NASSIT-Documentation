@@ -1,10 +1,10 @@
 ---
-title: Employer Enrollment Processes
+title: Contributions Processes
 ---
 
-### Employer Enrollment Processes
+### Members contributions management
 
-This category of videos shows how to onboard employers in FundMaster Xc:
+This category of videos shows the processes involved in managing member contributions in FundMaster Xc:
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">
@@ -31,23 +31,29 @@ export default {
   data() {
     return {
       videos: [
-        {
+   {
           id: 1,
-          thumbnail: "https://img.youtube.com/vi/z1XcwrJl3cY/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/z1XcwrJl3cY",
-          description: "Part 1: Employer registration process"
+          thumbnail: "https://img.youtube.com/vi/JgT4hzn6liQ/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/JgT4hzn6liQ",
+          description: "Part 1: Generating a contribution schedule"
         },
-                {
+        {
           id: 2,
-          thumbnail: "https://img.youtube.com/vi/iHJF5y_TRD8/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/iHJF5y_TRD8",
-          description: "Part 2: Employer registration processe"
+          thumbnail: "https://img.youtube.com/vi/3zdOL-HrQiE/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/3zdOL-HrQiE",
+          description: "Part 2: Validating a contribution schedule"
         },
-                {
+        {
           id: 3,
-          thumbnail: "https://img.youtube.com/vi/sZd2L7qs6n0/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/sZd2L7qs6n0",
-          description: "Part 3: Employer registration process"
+          thumbnail: "https://img.youtube.com/vi/sVmVNSTFMT8/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/sVmVNSTFMT8",
+          description: "Part 3: Creating a contribution receipt"
+        },
+        {
+          id: 4,
+          thumbnail: "https://img.youtube.com/vi/VdcX0ibiE7Y/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/VdcX0ibiE7Y",
+          description: "Part 4: Tying a contribution schedule to a receipt"
         },
      
         // Add more videos here...
@@ -99,7 +105,7 @@ export default {
 .video-modal-frame {
   position: relative;
   width: 90%;
-  padding-bottom: 54.25%;
+  padding-bottom: 56.25%;
   height: 0;
 }
 
