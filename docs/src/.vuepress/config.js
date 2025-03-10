@@ -123,6 +123,7 @@ function getSidebar() {
                 '',
                 'employerEnrollment',
                 'membersModule',
+                'contributions',
                 'schemeSetup',
             ]),
     };
