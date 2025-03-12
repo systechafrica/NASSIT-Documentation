@@ -163,7 +163,7 @@ The **Members Documents Checklist** window list of all the documents that are ne
 
 ## Members BioData
 
-The **Members Bio-Data** window displays records of members personal information. Records in this register can be filtered by a member’s name and an extract of the members report generated. See screenshot below:
+The **Members BioData** window displays records of members personal information. Records in this register can be filtered by a member’s name and an extract of the members report generated. See screenshot below:
 
 <img  alt="Members Bio Data window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/BioData.jpg">
 
@@ -224,7 +224,7 @@ Clicking the **New Employment Information** button will load a dialog box for ca
 
 The **New Members Approvals** menu provides links to access windows through which apploval of membership from batch registration,single registration and registrations done through the portal are granted so that the members can be moved to **Member Register**.See screenshot below:
 
-<img  alt="Members Bio Data approva window" width="60%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/membersapproval.jpg">
+<img  alt="Members BioData approva window" width="60%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/membersapproval.jpg">
 
 
 

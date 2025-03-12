@@ -1,10 +1,9 @@
 
 ## Contributions
 
-Once establishments and their employees are successfully onboarded to a scheme, the next step involves uploading their contributions. These contributions are subsequently allocated to the respective members' accounts. This section provides a detailed walkthrough of all processes related to contributions, ensuring clarity and accuracy at every step.
+Once **Establishments** and their **Employees** are successfully onboarded to the scheme, the next step involves uploading their Contributions. These contributions are subsequently allocated to the respective members' accounts. This section provides a detailed walkthrough of all processes related to contributions, ensuring clarity and accuracy at every step.
 
-
-<img  alt="Contributions" width="50%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image24.jpg">
+<img  alt="Contributions menu" width="50%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/contrbMenu.jpg">
 
 
 
@@ -18,7 +17,7 @@ The **'Contribution Approval'** window lists individual member contributions tha
 
 ## Batch Contributions Register
 
-After batch contributions are successfully uploaded into the system, they are collectively saved in the **'Batch Contributions Register'** where all the batch contributions are grouped based on the different establishments. To open this register, click the Batch Contributions Register as shown in the screenshot below:
+After batch contributions are successfully uploaded into the system, they are collectively saved in the **Batch Contributions Register** where all the batch contributions are grouped based on the different establishments. To open this register, click the Batch Contributions Register as shown in the screenshot below:
 
 <img  alt="Batch Contributions Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image33.jpg">
 
@@ -37,29 +36,29 @@ After batch contributions are successfully uploaded into the system, they are co
 
 -   Click **label 6** and type a key word upon which records can be filtered.
 
--   Click **label 7** and from the dropdown menu check the **'Show Details'** button to load a new section showing more details of a selected batch record from the list.
+-   Click **label 7** and from the dropdown menu check the **Show Details** button to load a new section showing more details of a selected batch record from the list.
 
 
-Clicking the **'Show Details'** checklist will open a new section on the lower part of the window showing extra information concerning the selected batch. The information is organized in tabs.
+Clicking the **Show Details** checklist will open a new section on the lower part of the window showing extra information concerning the selected batch. The information is organized in tabs.
 
 
 ### Batch Details
 
-To view the details of a selected batch record, click on the **'Batch Details'** tab as shown below:
+To view the details of a selected batch record, click on the **Batch Details** tab as shown below:
 
 <img  alt="Batch Details" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image34.png">
 
 
 ### Batch Contribution
 
-To view batch contributions distribution to member's accounts, click the **'Batch Contributions'** tab as shown below:
+To view batch contributions distribution to member's accounts, click the **Batch Contributions** tab as shown below:
 
 <img  alt="Batch Contributions" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image35.png">
 
 
 ### New Batch Contribution
 
-After downloading the contributions template and filling it with data. Click the **'New Batch Contribution'** link to open the window through which the template is uploaded back into the system. The following screenshot shows an example of a successful upload:
+After downloading the contributions template and filling it with data. Click the **New Batch Contribution** link to open the window through which the template is uploaded back into the system. The following screenshot shows an example of a successful upload:
 
 <img  alt="New Batch Contribution" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image27.png">
 
@@ -76,7 +75,7 @@ The links under this category give access to windows where the Contributions Bil
 
 ## Contribution Schedules
 
-The **'Contribution Schedules'** window lists all the contribution schedules generated in the system to date. Through the window, a new contribution schedule can be generated and emailed to establishments or downloaded among other operations. See screenshot below:
+The **Contribution Schedules** window lists all the contribution schedules generated in the system to date. Through the window, a new contribution schedule can be generated and emailed to establishments or downloaded among other operations. See screenshot below:
 
 <img  alt="Contribution Billing" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image40.jpg">
 
@@ -100,7 +99,7 @@ The **'Contribution Schedules'** window lists all the contribution schedules gen
 
 ### Generating a Contribution Schedule
 
-To generate a contributions schedule, click the **'Generate Contributions Schedule'** link to open the contributions schedule dialog box where the details of a new schedule are captured. click the **'Run Contributions Billing'** button to create a new contribution schedule. See screenshot below:
+To generate a contributions schedule, click the **Generate Contributions Schedule** link to open the contributions schedule dialog box where the details of a new schedule are captured. click the **Run Contributions Billing** button to create a new contribution schedule. See screenshot below:
 
 <img  alt="Generating a Bill" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image41.jpg">
 
@@ -111,7 +110,7 @@ To generate a contributions schedule, click the **'Generate Contributions Schedu
 -   Click **label 2** button to to run the contribution schedule. 
 
 
-Clicking the **'Lookup Employer'** button will help you to fetch the employer by filtering through the records as shown below:
+Clicking the **Lookup Employer** button will help you to fetch the employer by filtering through the records as shown below:
 
 <img  alt="Generating a Bill" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image41a.jpg">
 
@@ -138,7 +137,7 @@ A successful running of contribution schedule will be confirmed by a window show
 
 ### Download generated schedule
 
-After generating a contribution schedule, a schedule is emailed ny NASSIT to the employer for confirmation or downloaded for internal view by clicking the **'Download'** link and from the drop-down menu click **'Generated Schedule'** to download the bill as shown below:
+After generating a contribution schedule, a schedule is emailed ny NASSIT to the employer for confirmation or downloaded for internal view by clicking the **Download** link and from the drop-down menu click **Generated Schedule** to download the bill as shown below:
 
 <img  alt="Generated Bill" width="80%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image43.jpg">
 
@@ -150,7 +149,7 @@ After making the necessary updates to the contribution schedule, the employer wi
 <img  alt="Uploading Validating Bill" width="70%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image44.jpg">
 
 
-Clicking the **'Import Schedule Validation'** link will load the importation window. Click **'Browse'** to locate the bill file then click on the **'Upload'** button. This will populate the window with records as shown below:
+Clicking the **Import Schedule Validation** link will load the importation window. Click **Browse** to locate the bill file then click on the **'Upload'** button. This will populate the window with records as shown below:
 
 <img  alt="Import Bill Validation" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image45.jpg">
 
