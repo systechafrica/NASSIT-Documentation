@@ -196,8 +196,9 @@ Clicking the **Yes** button will load the **Employer Search** dialog window  as 
 
 **Action**
 
-- Click label 1 button to load another window and select the right employer. 
-- Click label 2 button to open the membership details form.
+- Click **label 1** button to load another window and select the right employer. 
+
+- Click **label 2** button to open the membership details form.
 
 
 **Tip:** Refer to **Member Onboarding Process** as shown previously.
@@ -268,7 +269,7 @@ revoked. To retore membership, select individuals from the grid table and click 
 
 ### MSS Members Approvals
 
-All members registered through the MSS Portal will be listed on this **'MSS Member Approvals'** window waiting for certification process before they can be moved to the Members Register. From this window the details of a selected member can be viewed, or the registration cancelled all together. See screenshot below:
+All members registered through the MSS Portal will be listed on this **MSS Member Approvals** window waiting for certification process before they can be moved to the Members Register. From this window the details of a selected member can be viewed, or the registration cancelled all together. See screenshot below:
 
 <img  alt="MSS Membership approval window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/MSSapprovals.jpg">
 
@@ -283,7 +284,7 @@ All members registered by filling the membership form in FundMaster will be list
 
 ## Dependant Management
 
-The **'Dependant Management'** menu provides access link to the dependants register. Click the respective link to
+The **Dependant Management** menu provides access link to the dependants register. Click the respective link to
 open a window for interacting with the mentioned objects. See screenshot below:
 
 <img  alt="Dependant Management menu" width="60%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependant menu.png">
@@ -291,8 +292,8 @@ open a window for interacting with the mentioned objects. See screenshot below:
 
 ### **Dependants Register**
 
-The **'Dependants Register'** contains the details of all the beneficiaries nominated by scheme members. From the register's menu
-bar all necessary dependant document checklist can be accessed from the **'Open Register'** drop-down button among others as shown in the screenshot below:
+The **Dependants Register** contains the details of all the beneficiaries nominated by scheme members. From the register's menu
+bar all necessary dependant document checklist can be accessed from the **Open Register** drop-down button among others as shown in the screenshot below:
 
 
 <img  alt="Dependant Register window" width="99%" height="auto" class="center"  src="../.vuepress/public/membersmedia/dependants.jpg">
@@ -300,8 +301,8 @@ bar all necessary dependant document checklist can be accessed from the **'Open 
 
 ### **Dependants Documents Checklist**
 
-To view and add the documents that dependants need to submit for registration, locate the **'Open Register'** menu from the 
-**'Dependants Registers'** and from the drop-down, select the **'Dependants Document Checklist'** to open the window through which
+To view and add the documents that dependants need to submit for registration, locate the **Open Register** menu from the 
+**Dependants Registers** and from the drop-down, select the **Dependants Document Checklist** to open the window through which
  the configurations are done as shown in the screenshot below:
 
 <img  alt="Dependants Documents Checklist window" width="97%" height="auto" class="center"  src="../.vuepress/public/membersmedia/depschecklist.jpg">
@@ -309,7 +310,7 @@ To view and add the documents that dependants need to submit for registration, l
 
 ### **Dependants Endorsement**
 
-In case a dependant’s details are updated from the **'Dependants Register'**, such changes need to be endorsed before the updates can take effect. All the beneficiaries whose details have been changed will be moved to the **'Dependants Endorsement'** window for approval. From this window, certification is done. See screenshot below:
+In case a dependant’s details are updated from the **Dependants Register**, such changes need to be endorsed before the updates can take effect. All the beneficiaries whose details have been changed will be moved to the **Dependants Endorsement** window for approval. From this window, certification is done. See screenshot below:
 
 <img  alt="Dependants endorsement window" width="99%" height="auto" class="center"  src="../.vuepress/public/membersmedia/depsendorsement.jpg">
 
@@ -329,7 +330,7 @@ In case a dependant’s details are updated from the **'Dependants Register'**, 
 
 ## Benefits Log Checklist
 
-The **'Benefits Log Checklist'** window displays a list of all required documents that must be uploaded into the system before a claim process can be initiated. Refer to the screenshot below for a visual representation of this checklist.
+The **Benefits Log Checklist** window displays a list of all required documents that must be uploaded into the system before a claim process can be initiated. Refer to the screenshot below for a visual representation of this checklist.
 
 <img  alt="Benefits Log Checklist window" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image20.png">
 
@@ -350,14 +351,14 @@ The **'Benefits Log Checklist'** window displays a list of all required document
 
 ## Validation Management
 
-The **'Validation Management'** menu provides access to member validation tools. It includes the **Validation Register** for tracking invalidity members and the **Validation Document Checklist** for managing required documents. See screenshot below:
+The **Validation Management** menu provides access to member validation tools. It includes the **Validation Register** for tracking invalidity members and the **Validation Document Checklist** for managing required documents. See screenshot below:
 
 <img  alt="Validation management menu" width="50%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/ValidationMgtMenu.jpg">
 
 
 ## Validation Register
 
-The **'Validation Register'** contains details of scheme members classified as having a disability (invalidity members). It helps track and manage their eligibility, benefits, and special considerations within the scheme. See the register screenshot Below:
+The **Validation Register** contains details of scheme members classified as having a disability (invalidity members). It helps track and manage their eligibility, benefits, and special considerations within the scheme. See the register screenshot Below:
 
 <img  alt="Validation register" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/ValidityRegister.jpg">
 
@@ -370,7 +371,7 @@ The **'Validation Register'** contains details of scheme members classified as h
 
 ## Validation Document Checklist
 
-The **'Validation Document Checklist'** window allows the listing of all the documents required for invalidity benefits claims at the point of retirement. See screenshot below:
+The **Validation Document Checklist** window allows the listing of all the documents required for invalidity benefits claims at the point of retirement. See screenshot below:
 
 <img  alt="Validation document checklist window" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/VDC.jpg">
 
@@ -386,6 +387,6 @@ The **'Validation Document Checklist'** window allows the listing of all the doc
 - Click label 4 text box and type the name of a checklist document to filter records. 
 
 
-Clicking the **'Add New Document Checklist'** will open a dialog box through which the detail of a new document is created as shown below:
+Clicking the **Add New Document Checklist** will open a dialog box through which the detail of a new document is created as shown below:
  
 <img  alt="Add new document checklist window" width="78%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/AddNewDoc.jpg">

@@ -8,62 +8,6 @@ Once establishments and their employees are successfully onboarded to a scheme, 
 
 
 
-<!--
-
-## Contribution Journals
-
-The **'Contribution Journal'** form is used to capture contributions for members of the scheme. See screenshot below:
-
-<img  alt="Contribution Journals" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image25.png">
-
-
-## Contribution Approval
-
-The **'Contribution Approval'** window lists all the member contributions that have been received and need to be approved as a way of confirming their receipt. See screenshot below:
-
-<img  alt="Contribution Approval" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image26.png">
-
--->
-
-
-
-<!--
-## Contributions Debt Management
-
-The configurations under this **'Contribution Debt Management'** menu are set to determine among other things the penalty formulae to use in case of rate contributions payments, the policy rates setting for processing penalties, and previous salaries are also configured. See screenshot below:
-
-<img  alt="Contribution Debt Management" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image28.png">
-
-
-### Penalty Formulae
-
-Click the **'Penalty Formulae'** link to open a penalty details dialog box through which a new penalty formula is set as shown in the screenshot below:
-
-<img  alt="Penalty Formulae" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image29.png">
-
-
-### Policy Rates
-
-Click the **'Policy Rates'** link to open rates details dialog box through which a new rate is configured as shown in the screenshot below:
-
-<img  alt="Policy Rates" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image30.png">
-
-
-### Previous Salaries
-
-The **'Previous Salaries'** window displays the records of all salaries that were paid previously. From this window the records can be imported into the system using a template. See screenshot below:
-
-<img  alt="Previous Salaries" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image31.png">
-
-
-### Process Penalties 
-
-The **'Process Penalties'** window displays the records of all contribution penalties given for late contributions and other reasons. From the **'Operations'** dropdown menu, a penalty record can be emailed to a member among other actions. See screenshot below:
-
-<img  alt="Process Penalties" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image32.png">
-
--->
-
 ## Contribution Approval
 
 The **'Contribution Approval'** window lists individual member contributions that have been received and need to be approved as a way of confirming their receipt. See screenshot below:
@@ -123,45 +67,12 @@ After downloading the contributions template and filling it with data. Click the
 **Tip:** In the event of unagreeable data or tempered with template settings,  the system to reject the upload through an error alert message in the troubleshooting window.
 
 
-## Historical Contribution Register
-
-The **'Historical Contributions Register'** shows all the historical data uploaded in the system in the form of batches. From this window, new batches of historical contributions can be uploaded and certified. See screenshot below:
-
-<img  alt="Historical Contributions Register" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image36.png">
-
-
-
-## Load Historical Contribution Arrears
-
-Clicking the **'Load Historical Contribution Arrears'** side menu will load a form through which the contribution arrears are loaded into the system. See screenshot below:
-
-<img  alt="Load Historical Contributions Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image37.png">
-
-
-<!--
-## Transferred in Claims
-
-Click the **'Transferred in Claims'** link to open a grid table listing all the claims transferred within a scheme. Besides searching for a claim record using keywords or member number, a selected claim can be **Certified,** **Posted,** or **Canceled** among other actions as shown below:
-
-<img  alt="Transferred in Claims" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image38.png">
-
--->
-
 ## Contribution Receivables/Receipts
 
 The links under this category give access to windows where the Contributions Billing, Receivables Register, and Receipts Register configurations are set. Click on the drop-down submenu links enclosed below to load the respective windows and set configurations appropriately:
 
 <img  alt="Contribution Receivables/Receipts" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/contrReceivable.jpg">
 
-
-<!--
-## Direct Debits
-
-The **'Direct Debits'** window displays all direct debits authorized by the sponsors in a scheme. The transactions can be approved, reversed, or posted to a scheme's accounts:
-
-<img  alt="Direct Debits" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image52.png">
-
--->
 
 ## Contribution Schedules
 
@@ -220,6 +131,7 @@ Clicking the **'Lookup Employer'** button will help you to fetch the employer by
 A successful running of contribution schedule will be confirmed by a window showing message with the employer name and their members with the total contribution expected as shown below:
 
 <img  alt="Generating a Bill" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image42.jpg">
+
 
 
 ### Validating a schedule
@@ -292,22 +204,3 @@ Click the **'New Receipt'** button open a dialogue box through which a **'New Co
 
 -   Click **label 2** button to save the new receipt ready fi tying  to a contribution schedule.
 
-
-<!--
-### Receipts Register
-
-The **'Receipts Register'** window displays a table listing all the receipted contributions as shown below:
-
-<img  alt="Receipts Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image50.png">
-
-
-Click the **'Operations'** menu and from the dropdown menu, select to generate an invoice for a selected receipt, post Non-Cash Book Receipts among other operations as shown above.
-
-
-## AVC Applications
-
-The **'AVC Application'** window displays all the **Additional Voluntary Contribution (AVC)** applications that have been made by scheme members in addition to **Mandatory Contributions**. From this window the requested can be approved or declined. See screenshot below:
-
-<img  alt="AVC Applications" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image51.png">
-
--->

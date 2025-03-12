@@ -5,20 +5,12 @@ The links under this category give access to windows where the Contributions Bil
 <img  alt="Contribution Receivables/Receipts" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image39.jpg">
 
 
-<!--
-## Direct Debits
-
-The **'Direct Debits'** window displays all direct debits authorized by the sponsors in a scheme. The transactions can be approved, reversed, or posted to a scheme's accounts:
-
-<img  alt="Direct Debits" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image52.png">
-
--->
-
 ### Contribution Schedules
 
 The **'Contribution Schedules'** window lists all the contribution schedules generated in the system to date. Through the window, a new contribution schedule can be generated and emailed to establishments or downloaded among other operations. See screenshot below:
 
 <img  alt="Contribution Billing" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image40.jpg">
+
 
 **Action**
 
@@ -73,7 +65,7 @@ A successful running of contribution schedule will be confirmed by a window show
 <img  alt="Generating a Bill" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image42.jpg">
 
 
-### Validating a schedule
+### Validating a Schedule
 
 ### Download generated schedule
 
@@ -111,6 +103,7 @@ After a contribution schedule is validated, it will be listed on the contributio
 <img  alt="Contribution Schedule " width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image46.jpg">
 
 
+
 ### Reversed Contribution Schedules
 
 all the contribution scheduled that have been reversed for whatever reason such that they arre not posted to the members accounts are listed the in a **Reversed Contributions Schedule** as shown below:
@@ -138,28 +131,9 @@ Click the **'New Receipt'** button open a dialogue box through which a **'New Co
 
 <img  alt="New Receipt" width="93%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image49.jpg">
 
+
 **Action**
 
 -   Click **label 1** button to filter the employer quickly from the employers register.
 
 -   Click **label 2** button to save the new receipt ready fi tying  to a contribution schedule.
-
-
-<!--
-### Receipts Register
-
-The **'Receipts Register'** window displays a table listing all the receipted contributions as shown below:
-
-<img  alt="Receipts Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image50.png">
-
-
-Click the **'Operations'** menu and from the dropdown menu, select to generate an invoice for a selected receipt, post Non-Cash Book Receipts among other operations as shown above.
-
-
-## AVC Applications
-
-The **'AVC Application'** window displays all the **Additional Voluntary Contribution (AVC)** applications that have been made by scheme members in addition to **Mandatory Contributions**. From this window the requested can be approved or declined. See screenshot below:
-
-<img  alt="AVC Applications" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image51.png">
-
--->
