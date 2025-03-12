@@ -129,68 +129,41 @@ Clicking the **'Complete Saving Member'** button will save push the members deta
 
 **Tip:** Remember to go to the **General Member Approval** window to approve a newly created member. This is demonstrated in a later section.
 
-<!--
-### *Batch Member Onboarding Method* 
 
-This method enables massive registration of members at a go. Members are compiled in a template file and then uploaded 
-to the system. To begin, download the members template. There are two ways of accessing the download links as shown below:
+## Adding a Single Contribution
+To capture a single contribution into a members account, navigate to the Members Register and select the member from the grid table. Locate the **Member Operations** menu on the top menu bar and from the dropdown menu click New Single Contribution as shown below:
 
-
-1.  Download the template from the **'Sponsors Registers'** window as shown below:
-
-<img  alt="Sponsors Registers" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image7.png">
+<img  alt="adding a single contribution" width="80%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/singlecontr.jpg">
 
 
+Clicking the **New Single Contribution** link will load a dialogue window where the details of the contribution made are captured into the system. See screenshot below:
 
-2.  Download the template from the **'Members Register'** window as shown below:
+<img  alt="single contribution dialog box" width="80%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/singlecontrbwindow.jpg">
 
-<img  alt="member template" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image8.png">
-
-
-
-Below is a sample template used to import and upload members:
-
-<img  alt="sample template" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image9.png">
+**Tip:** for the contribution to reflect in the members contributions account, navigate to the **Single contribution Approval** window where the record is to be certified, approved and posted to the members account.
 
 
+## Removing a Member from the Register 
 
-**Tip**
+To remove a member from the register, navigate to the Members Register and select the member from the grid table. Locate the **Member Operations** menu on the top menu bar and from the dropdown menu click **Remove Member**, then click **Certify**, **Approve**, and **Remove** respectively as shown below: 
 
-To upload members efficiently, restrict the number of members on the file to a figure below 65,500.
-
-
-### Members batch upload Process
-
-To import members in batch, after preparing the template, click the **Members** link to open the **Members Import** 
-window through which the template is loaded from a user's storage device to the system as shown below:
-
-<img  alt="Members Import Process" width="90%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/memberimport.png">
+<img  alt="single contribution dialog box" width="80%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/memberRemoval.jpg">
 
 
-**Action**
+**Tip:** the reasons for removing a member from the register should be typed on the comments window that pops up when you click on the action links.
 
--   Click **label 1** button to provide a link for fetching the template file from another device.
 
--   Click **label 2** button to check for exceptions (possible errors) before proceeding.
+### Members Documents Checklist
 
--   Click **label 3** button to save the uploaded list of members from the batch file.
+The **Members Documents Checklist** window list of all the documents that are needed for the successful registration of a member into a scheme. From this window new documents can be added to the checklist by clicking the **New** button to load a new document checklist dialog box through which the details of a new document are captured. See screenshot below: 
+
+<img  alt="Member Document Checklist window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/Memberdocchecklist.jpg">
 
 
 
-### Members Right Side Menu
+## Members BioData
 
-Clicking the **'Hamburger'** icon on the right side of the members register window will open a dropdown menu with more 
-options of the actions that relate to members. These actions include claim movements, reports among others. See the screenshot below:
-
-<img  alt="Hamburger" width="45%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image11.png">
-
--->
-
-
-## Member Biodata
-
-The **'Members Bio Data'** window displays the records of members personal information. Records can be filtered by members 
-name and an extract of the members report generated a shown below:
+The **Members Bio-Data** window displays records of members personal information. Records in this register can be filtered by a member’s name and an extract of the members report generated. See screenshot below:
 
 <img  alt="Members Bio Data window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/BioData.jpg">
 
@@ -208,15 +181,42 @@ name and an extract of the members report generated a shown below:
 -   Click **label 5** button to show extra details of a selected member.  
 
 
-Clicking the **'Show Details'** will show a lower section below the grid table showing more details of a selected member bio record. The screenshot below shows the **'Employment History'** tab. Under this tab are the details pertaining to different **'Establishments'** the member has worked for: 
+
+### Adding a New Member via Member Biodata 
+
+To add a new member from Members BioData window, click the **Add New Member** to as shown previously. This action will load a dialog box asking for confirmation of the existence a the establishment for which the member is to be attached as shown below:
+
+<img  alt="adding a new member via biodata register" width="60%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/confirmEmployer.jpg">
+
+
+Clicking the **Yes** button will load the **Employer Search** dialog window  as shown below:
+
+<img  alt="employer search dialog window" width="96%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/employerSearch.jpg">
+
+
+**Action**
+
+- Click label 1 button to load another window and select the right employer. 
+- Click label 2 button to open the membership details form.
+
+
+**Tip:** Refer to **Member Onboarding Process** as shown previously.
+
+
+### Member Details
+
+Clicking the **Show Details** will show a lower section below the grid table showing more details of a selected member bio record. The screenshot below shows the **Employment History** tab. Under this tab are the details pertaining to different **Establishments** the member has worked for: 
 
 <img  alt="Employment history tab" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/EmploymentHistory.jpg">
 
 
-Clicking the **'New Employment Information'** button will load a dialog box for capturing another record of the selected member employment history. See screenshot below:
+Clicking the **New Employment Information** button will load a dialog box for capturing another record of the selected member employment history. See screenshot below:
 
 
 <img  alt="New employment Information" width="80%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/MemberEmploymentHistory.jpg">
+
+
+**Tip:** Click the tabs named **Bank Details**,**Dependants/Next of Kin**,**Contributions** to view the respective details for the selected member.
 
 
 ## New Members Approvals
@@ -224,6 +224,7 @@ Clicking the **'New Employment Information'** button will load a dialog box for 
 The **New Members Approvals** menu provides links to access windows through which apploval of membership from batch registration,single registration and registrations done through the portal are granted so that the members can be moved to **Member Register**.See screenshot below:
 
 <img  alt="Members Bio Data approva window" width="60%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/membersapproval.jpg">
+
 
 
 ### Members Batch Register
@@ -243,7 +244,7 @@ The **'Members Batch Register'** holds the details of the members who have been 
 -   Click **label 3** button to view all the details of a selected individual member in the batch.
 
 
-Clicking the **'Show Details'** button will open a section showing more details of a selected member as shown below:
+Clicking the **Show Details** button will open a section showing more details of a selected member as shown below:
 
 <img  alt="Show Details" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image15.png">
 
@@ -259,8 +260,8 @@ Clicking the **'Show Details'** button will open a section showing more details 
 -   Click **label 4** button and from the drop-down menu then click to certify, authorize, and approve selected members from the batch.
 
 
-Clicking the **'Cancelled Members in Batch'** button will show a section listing all members whose membership has been 
-revoked. To retore membership, select individuals from the grid table and click the **'Restore Membership'** button as shown below:
+Clicking the **Cancelled Members in Batch** button will show a section listing all members whose membership has been 
+revoked. To retore membership, select individuals from the grid table and click the **Restore Membership** button as shown below:
 
 <img  alt="Restore Membership" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image16.png">
 
@@ -277,14 +278,6 @@ All members registered through the MSS Portal will be listed on this **'MSS Memb
 All members registered by filling the membership form in FundMaster will be listed on this window waiting for the certification process before they can be moved to the Members Register. From this window the details of a selected member can be viewed, or the registration cancelled all together. See screenshot below:
 
 <img  alt="MSS Membership approval window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/singlemembershipapproval.jpg">
-
-
-### Members Documents Checklist
-
-The **'Members Documents Checklist'** window list of all the documents that are needed for the successful registration of a member into a scheme. From this window new documents can be added to the checklist by clicking the **'New'** button to load a 
-**'New Document checklist'** dialog box through which the details of a new document are captured. See screenshot below: 
-
-<img  alt="Member Document Checklist window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/Memberdocchecklist.jpg">
 
 
 
