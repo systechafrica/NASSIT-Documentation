@@ -131,6 +131,7 @@ Clicking the **'Complete Saving Member'** button will save push the members deta
 
 
 ## Adding a Single Contribution
+
 To capture a single contribution into a members account, navigate to the Members Register and select the member from the grid table. Locate the **Member Operations** menu on the top menu bar and from the dropdown menu click New Single Contribution as shown below:
 
 <img  alt="adding a single contribution" width="80%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/singlecontr.jpg">
@@ -143,7 +144,7 @@ Clicking the **New Single Contribution** link will load a dialogue window where 
 **Tip:** for the contribution to reflect in the members contributions account, navigate to the **Single contribution Approval** window where the record is to be certified, approved and posted to the members account.
 
 
-## Removing a Member from the Register 
+### Removing a Member 
 
 To remove a member from the register, navigate to the Members Register and select the member from the grid table. Locate the **Member Operations** menu on the top menu bar and from the dropdown menu click **Remove Member**, then click **Certify**, **Approve**, and **Remove** respectively as shown below: 
 
@@ -167,7 +168,6 @@ The **Members BioData** window displays records of members personal information.
 
 <img  alt="Members Bio Data window" width="98%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/BioData.jpg">
 
-
 **Actions**
 
 -   Click **label 1** button to initiate the process of adding a new member. 
@@ -181,8 +181,7 @@ The **Members BioData** window displays records of members personal information.
 -   Click **label 5** button to show extra details of a selected member.  
 
 
-
-### Adding a New Member via Member Biodata 
+### Adding a New Member
 
 To add a new member from Members BioData window, click the **Add New Member** to as shown previously. This action will load a dialog box asking for confirmation of the existence a the establishment for which the member is to be attached as shown below:
 
@@ -334,7 +333,6 @@ The **Benefits Log Checklist** window displays a list of all required documents 
 
 <img  alt="Benefits Log Checklist window" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image20.png">
 
-
 **Actions**
 
 -   Click **label 1** button to add a new benefits log.
@@ -346,7 +344,6 @@ The **Benefits Log Checklist** window displays a list of all required documents 
 -   Click **label 4** button to view a printable copy of the checklist.
 
 -   Click **label 5** button to view the details of a selected record from the list.
-
 
 
 ## Validation Management
