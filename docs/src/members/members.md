@@ -353,7 +353,7 @@ The **Validation Management** menu provides access to member validation tools. I
 <img  alt="Validation management menu" width="50%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/ValidationMgtMenu.jpg">
 
 
-## Validation Register
+### Validation Register
 
 The **Validation Register** contains details of scheme members classified as having a disability (invalidity members). It helps track and manage their eligibility, benefits, and special considerations within the scheme. See the register screenshot Below:
 
@@ -366,7 +366,7 @@ The **Validation Register** contains details of scheme members classified as hav
 - Click label 2 button to upload the employment letter necessary for registering a new member into the scheme.
 
 
-## Validation Document Checklist
+### Validation Document Checklist
 
 The **Validation Document Checklist** window allows the listing of all the documents required for invalidity benefits claims at the point of retirement. See screenshot below:
 
