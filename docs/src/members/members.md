@@ -361,9 +361,9 @@ The **Validation Register** contains details of scheme members classified as hav
 
  **Actions**
 
-- Click label 1 button to add a new member.
+- Click **label** 1 button to add a new member.
 
-- Click label 2 button to upload the employment letter necessary for registering a new member into the scheme.
+- Click **label 2** button to upload the employment letter necessary for registering a new member into the scheme.
 
 
 ### Validation Document Checklist
@@ -375,13 +375,13 @@ The **Validation Document Checklist** window allows the listing of all the docum
 
 **Actions**
 
-- Click label 1 button to add a new document to the checklist.
+- Click **label 1** button to add a new document to the checklist.
 
-- Click label 2 button and from the dropdown menu click to Certify and Approve the new document. view the details of a selected record.
+- Click **label 2** button and from the dropdown menu click to Certify and Approve the new document. view the details of a selected record.
 
-- Click label 3 button to delete a selected document from the list. 
+- Click **label 3** button to delete a selected document from the list. 
 
-- Click label 4 text box and type the name of a checklist document to filter records. 
+- Click **label 4** text box and type the name of a checklist document to filter records. 
 
 
 Clicking the **Add New Document Checklist** will open a dialog box through which the detail of a new document is created as shown below:
