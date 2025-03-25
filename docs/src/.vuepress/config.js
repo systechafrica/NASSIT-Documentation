@@ -121,11 +121,11 @@ function getSidebar() {
                 'Videos Tutorials',
             [
                 '',
+                'schemeSetup',
                 'employerEnrollment',
                 'membersModule',
                 'contributions',
                 'claims',
-                'schemeSetup',
             ]),
     };
 }
