@@ -124,6 +124,7 @@ function getSidebar() {
                 'employerEnrollment',
                 'membersModule',
                 'contributions',
+                'claims',
                 'schemeSetup',
             ]),
     };
