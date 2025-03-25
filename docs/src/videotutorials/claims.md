@@ -33,8 +33,8 @@ export default {
       videos: [
    {
           id: 1,
-          thumbnail: "https://img.youtube.com/vi/R9zff9Nf94/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/R9zff9Nf94",
+          thumbnail: "https://img.youtube.com/vi/nR9zff9Nf94/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/nR9zff9Nf94",
           description: "Part 1: Claim initiation process"
         },
         {
