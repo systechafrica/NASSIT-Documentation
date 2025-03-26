@@ -4,7 +4,7 @@ title: Portal Processes
 
 ### Self service processes through the Portal
 
-This category of videos shows the MSS processes involved in interacting with the core system remotely:
+This category of videos shows the MSS processes involved in interacting with the core system remotely.
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">
@@ -42,7 +42,6 @@ export default {
           thumbnail: "https://img.youtube.com/vi/Im_c68ZD-8o/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/Im_c68ZD-8o",
           description: "Establishment (Employer) registration process through the portal"
-
         },
               
         // Add more videos here...
