@@ -1,5 +1,5 @@
 ---
-title: Employer Enrollment Processes
+title: Establishment Registration Processes
 ---
 
 ### Employer Enrollment Processes
@@ -33,21 +33,15 @@ export default {
       videos: [
         {
           id: 1,
-          thumbnail: "https://img.youtube.com/vi/z1XcwrJl3cY/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/z1XcwrJl3cY",
-          description: "Part 1: Employer registration process"
+          thumbnail: "https://img.youtube.com/vi/K6rdqMIsfQE/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/K6rdqMIsfQE",
+          description: "Part 1: Employer registration process: Capturing employer details"
         },
                 {
           id: 2,
-          thumbnail: "https://img.youtube.com/vi/iHJF5y_TRD8/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/iHJF5y_TRD8",
-          description: "Part 2: Employer registration processe"
-        },
-                {
-          id: 3,
-          thumbnail: "https://img.youtube.com/vi/sZd2L7qs6n0/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/sZd2L7qs6n0",
-          description: "Part 3: Employer registration process"
+          thumbnail: "https://img.youtube.com/vi/YYXMrfr-YG4/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/YYXMrfr-YG4",
+          description: "Part 2: Employer registration processe: Employer certification process"
         },
      
         // Add more videos here...
