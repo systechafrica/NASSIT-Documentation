@@ -126,6 +126,7 @@ function getSidebar() {
                 'membersModule',
                 'contributions',
                 'claims',
+                'portal',
             ]),
     };
 }
