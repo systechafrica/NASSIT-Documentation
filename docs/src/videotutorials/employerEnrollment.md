@@ -33,8 +33,8 @@ export default {
       videos: [
         {
           id: 1,
-          thumbnail: "https://img.youtube.com/vi/K6rdqMIsfQE/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/K6rdqMIsfQE",
+          thumbnail: "https://img.youtube.com/vi/HyiMP-p9LIg/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/HyiMP-p9LIg",
           description: "Part 1: Employer registration process: Capturing employer details"
         },
                 {
