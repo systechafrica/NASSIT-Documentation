@@ -83,7 +83,6 @@ function getSidebar() {
                 'members',   
                 'contribution', 
                 'claimActivities',
-                'reserveFunds', 
                 'fundAccounts', 
                  
             ]),
