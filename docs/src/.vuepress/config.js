@@ -27,7 +27,7 @@ module.exports = {
             },
             {text: 'Glossary', link: '/glossary/'},
             {text: 'Video Tutorials', link: '/videotutorials/'},
-            ],
+        ],
         sidebar: getSidebar(),
     },
 };
@@ -80,11 +80,17 @@ function getSidebar() {
             'Members Module',
             [
                 '',
-                'members',   
-                'contribution', 
+                'members',
+                'contribution',
                 'claimActivities',
+<<<<<<< HEAD
                 'fundAccounts', 
                  
+=======
+                'reserveFunds',
+                'fundAccounts',
+
+>>>>>>> b47a0348c640d63a13da9db590b3dfe0c8c7c86b
             ]),
         '/pensioners/': generateSidebar(
             '/pensioners/',
@@ -95,7 +101,7 @@ function getSidebar() {
                 'payrollOperations',
                 'deductions',
                 'certificates',
-                'suspensions',           
+                'suspensions',
             ]),
         '/workflow/': generateSidebar(
             '/workflow/',
@@ -110,14 +116,14 @@ function getSidebar() {
             '/reports/',
             'Reports Engine Module',
             [
-                  '',
-                  'dashBoards',
-                  'batchMembersReport',
-                  'membersBenefitReport', 
+                '',
+                'dashBoards',
+                'batchMembersReport',
+                'membersBenefitReport',
             ]),
         '/videotutorials/': generateSidebar(
-                '/videotutorials/',
-                'Videos Tutorials',
+            '/videotutorials/',
+            'Videos Tutorials',
             [
                 '',
                 'schemeSetup',
