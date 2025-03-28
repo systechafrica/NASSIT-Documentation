@@ -2,7 +2,7 @@
 title: Portal Processes
 ---
 
-### Self service processes through the Self-service portal
+### Self-Service Portal Key Processes
 
 This category of videos shows the MSS processes involved in interacting with the core system remotely.
 
