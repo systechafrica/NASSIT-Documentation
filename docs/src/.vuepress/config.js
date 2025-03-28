@@ -83,14 +83,9 @@ function getSidebar() {
                 'members',
                 'contribution',
                 'claimActivities',
-<<<<<<< HEAD
-                'fundAccounts', 
-                 
-=======
+                'fundAccounts',
                 'reserveFunds',
                 'fundAccounts',
-
->>>>>>> b47a0348c640d63a13da9db590b3dfe0c8c7c86b
             ]),
         '/pensioners/': generateSidebar(
             '/pensioners/',
