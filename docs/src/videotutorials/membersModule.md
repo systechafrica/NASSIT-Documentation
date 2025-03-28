@@ -1,8 +1,8 @@
 ---
-title: Member Onboarding Processes
+title: Member Onboarding
 ---
 
-### Member onbording processes
+### Member Onbording Processes
 
 This category of videos shows the processes involved in onboarding  members in FundMaster Xc:
 
