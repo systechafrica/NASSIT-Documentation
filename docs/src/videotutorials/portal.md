@@ -19,7 +19,7 @@ This category of videos shows the MSS processes involved in interacting with the
   <div class="video-modal" v-if="currentVideo">
     <div class="video-modal-overlay" @click="closeModal">
       <div class="video-modal-frame">
-        <iframe :src="currentVideo.videoUrl" frameborder="0" allowfullscreen></iframe>
+      <iframe :src="currentVideo.videoUrl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
       <button class="close-modal">Close</button>
     </div>
