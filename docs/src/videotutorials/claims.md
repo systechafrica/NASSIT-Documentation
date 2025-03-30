@@ -135,16 +135,15 @@ export default {
 
 .video-modal-frame {
   position: relative;
-  width: 90%;
-  max-width: 900px;
-  padding-bottom: 56.25%;
+  width: 60%;
+  padding-bottom: 33.75%;
   height: 0;
 }
 
 .video-modal-frame iframe {
   position: absolute;
   width: 100%;
-  height: 100%;
+  height: 90%;
 }
 
 /* Close Button */
