@@ -92,23 +92,28 @@ export default {
 
 .video-modal-frame {
   position: relative;
-  width: 90%;
-  padding-bottom: 54.25%;
+  width: 60%;
+  padding-bottom: 33.75%;
   height: 0;
 }
 
 .video-modal-frame iframe {
   position: absolute;
-  width: 80%;
-  height: 80%;
+  width: 100%;
+  height: 90%;
 }
 
 .close-modal {
-  width: 40px;
-  height: 40px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 22px;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background-color: red; /* Red background */
+  color: white; /* White text/icon */
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
+  padding: 8px 12px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
 }
 </style>

@@ -104,8 +104,8 @@ export default {
 
 .video-modal-frame {
   position: relative;
-  width: 90%;
-  padding-bottom: 56.25%;
+  width: 60%;
+  padding-bottom: 33.75%;
   height: 0;
 }
 
@@ -119,10 +119,13 @@ export default {
   position: absolute;
   top: 15px;
   right: 15px;
-  background-color: transparent;
+  background-color: red; /* Red background */
+  color: white; /* White text/icon */
   border: none;
-  color: #fff;
   font-size: 18px;
   cursor: pointer;
+  padding: 8px 12px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
 }
 </style>
