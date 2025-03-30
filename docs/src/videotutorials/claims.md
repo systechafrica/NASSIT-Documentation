@@ -90,7 +90,7 @@ export default {
 }
 
 .video-item img {
-  max-width: 100%;
+  max-width: 60%;
   border-radius: 8px;
   transition: transform 0.3s ease;
 }
