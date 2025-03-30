@@ -99,8 +99,8 @@ export default {
 
 .video-modal-frame iframe {
   position: absolute;
-  width: 100%;
-  height: 90%;
+  width: 80%;
+  height: 80%;
 }
 
 .close-modal {
