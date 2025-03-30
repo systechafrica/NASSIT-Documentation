@@ -96,6 +96,10 @@ export default {
   transition: transform 0.3s ease;
 }
 
+.video-item:hover img {
+  transform: scale(1.05);
+}
+
 .video-modal-overlay {
   position: fixed;
   top: 0;
