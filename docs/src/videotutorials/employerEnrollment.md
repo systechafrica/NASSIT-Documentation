@@ -104,13 +104,11 @@ export default {
 }
 
 .close-modal {
-  position: absolute;
-  top: 15px;
-  right: 15px;
-  background-color: transparent;
-  border: none;
-  color: #fff;
-  font-size: 18px;
-  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
 }
 </style>
