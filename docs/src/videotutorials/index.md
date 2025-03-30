@@ -19,9 +19,14 @@ This category of videos shows how to navigate the UI in FundMaster Xc:
   <div class="video-modal" v-if="currentVideo">
     <div class="video-modal-overlay" @click="closeModal">
       <div class="video-modal-frame">
-        <iframe :src="currentVideo.videoUrl" frameborder="0" allowfullscreen></iframe>
+        <iframe 
+          :src="currentVideo.videoUrl" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+        </iframe>
       </div>
-      <button class="close-modal">Close</button>
+      <button class="close-modal" @click="closeModal">Close</button>
     </div>
   </div>
 </template>
