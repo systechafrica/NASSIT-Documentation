@@ -85,12 +85,15 @@ export default {
 }
 
 .video-item {
+  position: relative;
   text-align: center;
   cursor: pointer;
 }
 
 .video-item img {
   max-width: 100%;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
 }
 
 .video-modal-overlay {
