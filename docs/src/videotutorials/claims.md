@@ -105,11 +105,15 @@ export default {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-size: 50px;
   color: white;
   background: rgba(0, 0, 0, 0.6);
   border-radius: 50%;
-  padding: 10px 20px;
+  width: 80px; /* Set a fixed width */
+  height: 80px; /* Set a fixed height */
   opacity: 0.8;
   transition: opacity 0.3s;
 }
