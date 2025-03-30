@@ -1,5 +1,5 @@
 ---
-title: User Interface (UI) Walkthrough
+title: User Interface Walkthrough
 ---
 
 ### FundMaster UI
