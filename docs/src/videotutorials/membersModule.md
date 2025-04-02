@@ -1,5 +1,5 @@
 ---
-title: Member Onboarding Processes
+title: Member Registration
 ---
 
 ### Member Onbording Processes

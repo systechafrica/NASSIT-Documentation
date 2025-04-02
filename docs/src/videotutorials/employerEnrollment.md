@@ -1,5 +1,5 @@
 ---
-title: Employer Onboarding Processes
+title: Establishment registration
 ---
 
 ### Employer Enrollment Processes
