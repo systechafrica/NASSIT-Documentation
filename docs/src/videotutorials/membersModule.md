@@ -38,29 +38,17 @@ export default {
       videos: [
    {
           id: 1,
-          thumbnail: "https://img.youtube.com/vi/Gd35pDk4M-Q/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/Gd35pDk4M-Q",
-          description: "Part 1: Single member upload process"
+          thumbnail: "https://img.youtube.com/vi/hz02AsMO5RI/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/hz02AsMO5RI",
+          description: "Part 1: Member onboarding process"
         },
         {
           id: 2,
-          thumbnail: "https://img.youtube.com/vi/FSxAP01P-P0/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/FSxAP01P-P0",
-          description: "Part 2: Single member authorization process"
+          thumbnail: "https://img.youtube.com/vi/sYUXYyTJiCk/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/sYUXYyTJiCk",
+          description: "Part 2: Member onboarding process"
         },
-        {
-          id: 3,
-          thumbnail: "https://img.youtube.com/vi/kNr0FsEo4EA/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/kNr0FsEo4EA",
-          description: "Part 1: Batch members upload process"
-        },
-        {
-          id: 4,
-          thumbnail: "https://img.youtube.com/vi/McTUOqDArQc/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/McTUOqDArQc",
-          description: "Part 2: Batch members authorization process"
-        },
-     
+    
         // Add more videos here...
       ],
       currentVideo: null
