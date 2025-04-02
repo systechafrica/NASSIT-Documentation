@@ -40,13 +40,13 @@ export default {
           id: 1,
           thumbnail: "https://img.youtube.com/vi/hz02AsMO5RI/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/hz02AsMO5RI",
-          description: "Part 1: Member onboarding process"
+          description: "Part 1: Member onboarding process: Capturing member details"
         },
         {
           id: 2,
           thumbnail: "https://img.youtube.com/vi/sYUXYyTJiCk/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/sYUXYyTJiCk",
-          description: "Part 2: Member onboarding process"
+          description: "Part 2: Member onboarding process: Member certification process"
         },
     
         // Add more videos here...
