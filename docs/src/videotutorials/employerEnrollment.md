@@ -1,5 +1,5 @@
 ---
-title: Establishment registration
+title: Establishment Registration
 ---
 
 ### Employer Enrollment Processes
