@@ -2,7 +2,7 @@
 title: UI Walkthrough
 ---
 
-### FundMaster UI
+### FundMaster Xc UI
 
 This category of videos shows how to navigate the UI in FundMaster Xc:
 
