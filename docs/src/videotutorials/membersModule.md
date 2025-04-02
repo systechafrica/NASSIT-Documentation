@@ -1,5 +1,5 @@
 ---
-title: Member Onboarding
+title: Member Onboarding Processes
 ---
 
 ### Member Onbording Processes
