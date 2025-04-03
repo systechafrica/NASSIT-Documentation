@@ -54,6 +54,12 @@ videos: [
 
 .video-item img {
   max-width: 100%;
+  border-radius: 8px;  /* Ensures rounded corners */
+  transition: transform 0.3s ease;  /* Smooth zoom-in effect */
+}
+
+.video-item img:hover {
+  transform: scale(1.05);  /* Slight zoom on hover */
 }
 </style>
 
