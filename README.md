@@ -54,7 +54,7 @@ FundMaster Xc is the latest version of FundMaster - the most advanced Pension Ad
 
 **6.**	Reporting and Business Intelligence
 
-The system provides a flexible, extensible architecture and tools designed to accommodate the one-size-does-not-fit-all landscape of today’s retirement programs. FundMaster Xe is a proven solution that has gone through a process of complete re-engineering based on customer feedback to keep current with the industry needs.
+The system provides a flexible, extensible architecture and tools designed to accommodate the one-size-does-not-fit-all landscape of today’s retirement programs. FundMaster Xc is a proven solution that has gone through a process of complete re-engineering based on customer feedback to keep current with the industry needs.
 
 ## The Module Concept
 

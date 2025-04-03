@@ -1,4 +1,4 @@
-### FundMaster User Interface(UI)
+### FundMaster User Interface
 
 To access FundMaster on your device, launch your preferred internet browser and input the web Internet Protocol address provided by your system administrator as shown below:
 
@@ -35,7 +35,7 @@ This is the dashboard (with the main menu and other controls) seen on a user’s
 The circled numbers in the screenshot above correspond to the numbers in the following table that describe the key navigation clickable elements on the FundMaster landing page:
 
 
-| **No.** 	| **Interface Elements**    | **Description**                                                                                                                                   	|
+| **No.** 	| **UI Elements**    | **Description**                                                                                                                                   	|
 |---------	|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------	|
 | 1.    	| Top menu bar              | This is the bar where the system version trademark, the name of the running scheme, language drop-down menu, and logout button is located            |
 | 2.     	| Language drop-down menu   | Click to select a language of choice. This will render the navigation and content in the selected language                                           |
