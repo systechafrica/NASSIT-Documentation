@@ -23,21 +23,21 @@ export default {
         {
           id: 1,
           thumbnail: "https://img.youtube.com/vi/Gj1dkVPtAVU/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/watch?v=Gj1dkVPtAVU",
+          videoUrl: "https://www.youtube.com/embed/Gj1dkVPtAVU",
           description: "Part 1: Member registration process through the portal"
         },
         {
           id: 2,
           thumbnail: "https://img.youtube.com/vi/Uge1moy5vMQ/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/watch?v=Uge1moy5vMQ",
+          videoUrl: "https://www.youtube.com/embed/Uge1moy5vMQ",
           description: "Part 2: Member registration process through the portal"
         },
         {
           id: 3,
           thumbnail: "https://img.youtube.com/vi/Im_c68ZD-8o/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/watch?v=Im_c68ZD-8o",
+          videoUrl: "https://www.youtube.com/embed/Im_c68ZD-8o",
           description: "Establishment (Employer) registration process through the portal"
-        }
+        },
       ]
     };
   }
@@ -58,7 +58,5 @@ export default {
 
 .video-item img {
   max-width: 100%;
-  border-radius: 8px;
-  transition: transform 0.3s ease;
 }
 </style>
