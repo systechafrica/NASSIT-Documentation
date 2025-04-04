@@ -18,7 +18,4 @@ Below is a screenshot of the Members Module dashboard, with the left-side pane e
 
 1.  Navigate to the left-side pane and click on the menu item links listed under **label 1** to configure all settings related to members.
 
-2.  Utilize the hot links located under **label 2** to access shortcut routes leading to frequently visited links within the members module.
-
-3.  Click on the button **labeled 3** to access the system's Intelligent Assistant (IA) chatbot.
-    
+2.  Utilize the hot links located under **label 2** to access shortcut routes leading to frequently visited links within the members module.    
