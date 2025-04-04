@@ -1,16 +1,14 @@
 
 ## Claim Activities
 
-The **Claim Activities** menu list links to activities related to benefits claim processing. To start an activity, click the appropriate
-link from the enclosed drop-down menu to open the respective window as shown in the screenshot below:
+The **Claim Activities** menu list links to activities related to benefits claim processing. To start an activity, click the appropriate link from the enclosed drop-down menu to open the respective window as shown in the screenshot below:
 
 <img  alt="hAdmin Panel" width="40%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image1.png"> 
 
 
 ### Movement Processing
 
-The **Movement Processing** window lists all the claims that have been initiated by the members register. From this window, benefits for claim
-records are calculated and transactions are certified. See screenshot below:
+The **Movement Processing** window lists all the claims that have been initiated by the members register. From this window, benefits for claim records are calculated and transactions are certified. See screenshot below:
 
 <img  alt="Movement Processing" width="97%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image2.png"> 
 
@@ -30,8 +28,7 @@ records are calculated and transactions are certified. See screenshot below:
 
 ### Medical Board
 
-The **Medical Board Register** lists all the benefits invalidity claims that have been processed for benefits payment. The transactions listed
-here await paperwork and medical board approval before payment. They are also subjected to the certification process. See screenshot below:
+The **Medical Board Register** lists all the benefits invalidity claims that have been processed for benefits payment. The transactions listed here await paperwork and medical board approval before payment. They are also subjected to the certification process. See screenshot below:
 
 <img  alt="Medical Board Register" width="97%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image4.png"> 
 
@@ -53,16 +50,14 @@ here await paperwork and medical board approval before payment. They are also su
 -   Click **label 7** tab see benefits documents checklist.  
 
 
-Clicking **Benefits Documents Checklist** tab will load a section as shown below. Clicking the **Receive Documents** button will load a
-dialog window to aid in uploading the required document.
+Clicking **Benefits Documents Checklist** tab will load a section as shown below. Clicking the **Receive Documents** button will load a dialog window to aid in uploading the required document.
 
 <img  alt="Benefits Documents Checklist" width="97%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image5.png"> 
 
 
 ### Cancelled Benefits
 
-The **Cancelled Benefits** window lists all the calculated benefits that were later cancelled for a number of reasons. From this window the
-certification process can be rolled back and these rollbacks certified.See screenshot below:
+The **Cancelled Benefits** window lists all the calculated benefits that were later cancelled for a number of reasons. From this window the certification process can be rolled back and these rollbacks certified.See screenshot below:
 
 <img  alt="Cancelled Benefits" width="97%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image6.png"> 
 
@@ -100,16 +95,14 @@ The **Benefits Recalculation** window lists all the benefit transactions that ha
 
 ### Claim Payments
 
-After claim benefits are calculated, all transaction records are pushed to different registers such as Grants, Benefits or Contributions refund
-Registers. From the left side pane shown below, these registers can be accessed:
+After claim benefits are calculated, all transaction records are pushed to different registers such as Grants, Benefits or Contributions refund Registers. From the left side pane shown below, these registers can be accessed:
 
 <img  alt="Claim Payments" width="50%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image8.png"> 
 
 
 ### *Grants Payments*
 
-The **Grant Payment Register** displays all the claim benefits paid in lump sum: Different actions can be taken from this window such as
-sending selected records for payment. See screenshot below:
+The **Grant Payment Register** displays all the claim benefits paid in lump sum: Different actions can be taken from this window such as sending selected records for payment. See screenshot below:
 
 <img  alt="Grant Payment Register" width="97%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image9.png"> 
 
@@ -135,8 +128,7 @@ sending selected records for payment. See screenshot below:
 
 ### *Benefit Payments*
 
-The **Benefits Payment Register** displays all the pensionable claim benefits payable. Different actions can be taken from this window such
-as sending selected records for payment. See screenshot below:
+The **Benefits Payment Register** displays all the pensionable claim benefits payable. Different actions can be taken from this window such as sending selected records for payment. See screenshot below:
 
 <img  alt="Benefits Payment Register" width="97%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image10.png"> 
 
@@ -173,8 +165,7 @@ The **Contributions Refund Register** displays all the refundable contribution t
 
 ***Step 1: Claim Initiating Process***
 
-To initiate a claim for a member, navigate to the **Members Register** and select the Member record from the list. Click the **Movements** tab
-to access the **Initiate Movement/Claim** tab as shown in the following sample screenshot:
+To initiate a claim for a member, navigate to the **Members Register** and select the Member record from the list. Click the **Movements** tab to access the **Initiate Movement/Claim** tab as shown in the following sample screenshot:
 
 <img  alt="claim Processing" width="97%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image12.png"> 
 
@@ -208,14 +199,12 @@ Clicking the **Initiate Movement/Claim** link will load an exit form where param
 -   Click **label 4** button to Save confirmed exit details.   
 
 
-Clicking **Validate Member Statement** will open a dialog box showing a member\'s benefits details. Make sure to confirm the member statement by
-selecting **Yes** as shown below:
+Clicking **Validate Member Statement** will open a dialog box showing a member\'s benefits details. Make sure to confirm the member statement by selecting **Yes** as shown below:
 
 <img  alt="Validate Member Statement" width="87%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image14.png"> 
 
 
-Clicking **Validate Member Beneficiary Statement Information** will open a dialog box showing a member\'s nominated beneficiaries. Make sure to
-confirm the member statement by selecting **Yes** as shown below:
+Clicking **Validate Member Beneficiary Statement Information** will open a dialog box showing a member\'s nominated beneficiaries. Make sure to confirm the member statement by selecting **Yes** as shown below:
 
 <img  alt="CValidate Member Beneficiary Statement Information" width="97%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image15.png"> 
 
@@ -232,8 +221,7 @@ From the same **Movement Processing** window locate the **Benefits Calculation**
 <img  alt="Movement Processing" width="97%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image17.png"> 
 
 
-Clicking the **Show Benefits Calculation** link will open the **Benefits Calculation** form showing the member's benefits tabulations as shown in
-the screenshot below:
+Clicking the **Show Benefits Calculation** link will open the **Benefits Calculation** form showing the member's benefits tabulations as shown in the screenshot below:
 
 <img  alt="Show Benefits Calculation" width="94%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image18.png"> 
 
@@ -254,10 +242,7 @@ the screenshot below:
 -   Click **label 5** button to download a copy of the members pension arrears in MS Excel format. 
 
 
-Clicking the **Proceed Now** button will confirm the calculation of the members benefits. Check the members **Current Status** from the
-**Movement Processing** window to see the next step that awaits in the process. As seen in the following screenshot then members status has
-changed to **Awaiting Certification...**. Locate the **Benefits Certification** menu and from the drop-down click to **Certify** and
-**Authorize** the process: 
+Clicking the **Proceed Now** button will confirm the calculation of the members benefits. Check the members **Current Status** from the **Movement Processing** window to see the next step that awaits in the process. As seen in the following screenshot then members status has changed to **Awaiting Certification...**. Locate the **Benefits Certification** menu and from the drop-down click to **Certify** and **Authorize** the process: 
 
 <img  alt="Certification" width="97%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image20.png"> 
 
@@ -296,13 +281,12 @@ Clicking the **Death Claim Processing** link will load an exit form where parame
 
 ***Step 3: Benefits Calculation***
 
-Navigate to the **Movement Processing** window and locate the **Benefits Calculation** menu and from the drop-down, click **Show Benefits
-Calculation** menu item as shown below:
+Navigate to the **Movement Processing** window and locate the **Benefits Calculation** menu and from the drop-down, click **Show Benefits Calculation** menu item as shown below:
 
 <img  alt="Show Benefits Calculation" width="97%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image25.png"> 
 
 
-### Mss Benefits
+### MSS Benefits
 
 The Mss Benefits register shows all the claims initiated from the MSS Portal. See screenshot below: 
 
