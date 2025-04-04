@@ -1,6 +1,6 @@
 ### Membership Registration
 
-All the links under the **'Members'** menu open to different windows where the respective configuration related to the Management
+All the links under the **Members** menu open to different windows where the respective configuration related to the Management
 of the scheme employers, members and their dependants are done. See screenshot below:
 
 <img  alt="Members" width="50%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image2.jpg">
@@ -9,7 +9,7 @@ of the scheme employers, members and their dependants are done. See screenshot b
 
 ## Employer Register
 
-The **'Employer Register'** lists all the establishments in the NASSIT scheme and categorizes them according to the sector of the economy they fall under. From this window specific actions can be taken regarding a selected establishment from the list. See screenshot below: 
+The **Employer Register** lists all the establishments in the NASSIT scheme and categorizes them according to the sector of the economy they fall under. From this window specific actions can be taken regarding a selected establishment from the list. See screenshot below: 
 
 <img  alt="Sponsor Register" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image3.jpg">
 
@@ -34,7 +34,7 @@ The **'Employer Register'** lists all the establishments in the NASSIT scheme an
 
 ## Members Register
 
-The **Members Registe** contains the records for all the members under an establishment within the scheme. From this window, specific actions can be performed on a selected member from the list.
+The **Members Register** contains the records for all the members under an establishment within the scheme. From this window, specific actions can be performed on a selected member from the list.
 
 Clicking the **View Members** button (see the member register screenshot) will open the Members Register window, displaying the members under the selected establishment, as shown below:
 
@@ -64,7 +64,7 @@ The **Member Operations** drop-down menu provides links to open windows for vari
 
 ### Members Details
 
-Clicking the **'Show Details'** checkbox, as shown in a previous screenshot, will open a section on the lower side of 
+Clicking the **Show Details** checkbox, as shown in a previous screenshot, will open a section on the lower side of 
 the members register window, displaying details of a selected member from the register. The section is arranged in tabs,
 such as the Dependants/Next of kin tab, Contributions tab, Salary History tab etc., as shown below:
 
@@ -76,12 +76,12 @@ such as the Dependants/Next of kin tab, Contributions tab, Salary History tab et
 
 ### *Adding a New Member*
 
-To register add a member in an establishment, a member details form is used to capture member's data for the registration process. To begin the process, click the '**'New Member'** link from the **'Member Operations'** drop-down menu to open a dialog box through which a member's basic details are captured. see all the steps as follows:
+To register add a member in an establishment, a member details form is used to capture member's data for the registration process. To begin the process, click the '**New Member** link from the **Member Operations** drop-down menu to open a dialog box through which a member's basic details are captured. see all the steps as follows:
 
 
 ***Section 1 of Membership Form***
 
-Fill in the details in the first section of the membership form and click the **'Next'** button to move to the next section as
+Fill in the details in the first section of the membership form and click the **Next** button to move to the next section as
 shown below:
 
 <img  alt="creating a new member" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image6a.jpg">
@@ -89,7 +89,7 @@ shown below:
 
 ***Section 2 of Membership Form***
 
-Fiil in the details in the second section of the membership form, select the employer and click the **'Next'** button to move to
+Fiil in the details in the second section of the membership form, select the employer and click the **Next** button to move to
 the next section as shown below:
 
 <img  alt="creating a new member" width="97%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image6b.jpg">
@@ -98,7 +98,7 @@ the next section as shown below:
 ***Section 3 of Membership Form***
 
 Capture the details of the member's **Dependants** and **Parents** by filling in their details and then click the 
-**'Complete Saving Member'** button to save the new meber and his/her beneficiaries as shown in the screenshot below: 
+**Complete Saving Member** button to save the new meber and his/her beneficiaries as shown in the screenshot below: 
 
 <img  alt="creating beneficiaries" width="99%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image6c.jpg">
 
@@ -114,17 +114,17 @@ Capture the details of the member's **Dependants** and **Parents** by filling in
 -   Click **label 4** to complete the process of registring a member. 
 
 
-Clicking the **'Add Dependant'** button will load the dialog box for capturing the details of the dependant as shown below:
+Clicking the **Add Dependant** button will load the dialog box for capturing the details of the dependant as shown below:
 
 <img  alt="adding a dependant" width="80%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image6d.jpg">
 
 
-Clicking the **'Add Parent'** button will load the dialog box for capturing the details of the parent as shown below:
+Clicking the **Add Parent** button will load the dialog box for capturing the details of the parent as shown below:
 
 <img  alt="adding a parent" width="80%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image6e.jpg">
 
 
-Clicking the **'Complete Saving Member'** button will save push the members details into the member register.
+Clicking the **Complete Saving Member** button will save push the members details into the member register.
 
 
 **Tip:** Remember to go to the **General Member Approval** window to approve a newly created member. This is demonstrated in a later section.
@@ -229,7 +229,7 @@ The **New Members Approvals** menu provides links to access windows through whic
 
 ### Members Batch Register
 
-The **'Members Batch Register'** holds the details of the members who have been uploaded via a template. See the members
+The **Members Batch Register** holds the details of the members who have been uploaded via a template. See the members
  batch register screenshot below:
 
 <img  alt="Members Batch Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image14.png">
