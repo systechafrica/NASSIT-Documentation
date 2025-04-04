@@ -5,7 +5,8 @@ such as the processes register and task instances, historic workflows
 and other parameters. Click the links to open their respective windows
 as shown below:
 
-<img  alt="hAdmin Panel" width="90%" height="auto"  class="center"  src="../.vuepress/public/Workflow/image17.png"> 
+<img  alt="hAdmin Panel" width="90%" height="auto"  class="center"  
+src="../.vuepress/public/Workflow/image17.png"> 
 
 
 ### Process Register
@@ -14,7 +15,8 @@ Click the **Process Register** link to open the Processes window where
 the details for all processes and their different tasks, assigned users,
 and other details are displayed in a grid table as shown below:
 
-<img  alt="Process Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/Workflow/image18.png"> 
+<img  alt="Process Register" width="95%" height="auto"  class="center"  
+src="../.vuepress/public/Workflow/image18.png"> 
 
 **Action**
 
@@ -36,7 +38,8 @@ Clicking the **Show Details** button will expand the window to display a
 section where mappings of processes to assigned to users and listing of
 sub processes are accessed as shown below:
 
-<img  alt="Show Details" width="95%" height="auto"  class="center"  src="../.vuepress/public/Workflow/image19.png"> 
+<img  alt="Show Details" width="95%" height="auto"  class="center"  
+#src="../.vuepress/public/Workflow/image19.png"> 
 
 
 ### *Mapping*
@@ -45,7 +48,8 @@ To map processes to assigned users click the **New Allocation** button
 from the Mappings tab to open a window where the configurations is done
 as shown below:
 
-<img  alt="Mapping" width="67%" height="auto"  class="center"  src="../.vuepress/public/Workflow/image20.png"> 
+<img  alt="Mapping" width="67%" height="auto"  class="center"  
+src="../.vuepress/public/Workflow/image20.png"> 
 
 
 ### *Sub Processes*
@@ -53,7 +57,8 @@ as shown below:
 To view all the sub processes for a selected process, click the **Sub
 Processes** tab as shown below:
 
-<img  alt="sub processes" width="95%" height="auto"  class="center"  src="../.vuepress/public/Workflow/image21.png"> 
+<img  alt="sub processes" width="95%" height="auto"  class="center"  
+src="../.vuepress/public/Workflow/image21.png"> 
 
 
 ### Task Instances
@@ -63,7 +68,8 @@ completed and those that are still active in the workflow engine. From
 this window certain actions such as assigning a task to a user can be
 executed. See the screenshot below:
 
-<img  alt="STask Instances" width="95%" height="auto"  class="center"  src="../.vuepress/public/Workflow/image22.png"> 
+<img  alt="STask Instances" width="95%" height="auto"  class="center"  
+src="../.vuepress/public/Workflow/image22.png"> 
 
 **Action**
 
@@ -87,7 +93,8 @@ The **Historic Process Instances** window display all the task
 descriptions under two categories. Those that are active and those that
 have been completed. See the screenshot below
 
-<img  alt="Historic Process Instances" width="97%" height="auto"  class="center"  src="../.vuepress/public/Workflow/image23.png"> 
+<img  alt="Historic Process Instances" width="97%" height="auto"  class="center"  
+src="../.vuepress/public/Workflow/image23.png"> 
 
 
 ### Other Parameters
@@ -99,18 +106,21 @@ exclude these days in the allocation of tasks to days. To configure a
 to set the day and **Add Holiday** button to set a day as **Holiday**
 among other settings such as removing a set day as shown below:
 
-<img  alt="Other Parameters" width="95%" height="auto"  class="center"  src="../.vuepress/public/Workflow/image24.png"> 
+<img  alt="Other Parameters" width="95%" height="auto"  class="center"  
+src="../.vuepress/public/Workflow/image24.png"> 
 
 
 To configure a non-working day, click the **Add Day** button to open a
 dialog box for setting up the day as shown below:
 
-<img  alt="Add Day" width="77%" height="auto"  class="center"  src="../.vuepress/public/Workflow/image25.png"> 
+<img  alt="Add Day" width="77%" height="auto"  class="center"  
+src="../.vuepress/public/Workflow/image25.png"> 
 
 
 To configure a holiday, click the **Add Holiday** button to open a
 dialog box for setting up the day as shown below:
 
-<img  alt="Add Holiday" width="77%" height="auto"  class="center"  src="../.vuepress/public/Workflow/image26.png"> 
+<img  alt="Add Holiday" width="77%" height="auto"  class="center"  
+src="../.vuepress/public/Workflow/image26.png"> 
 
 

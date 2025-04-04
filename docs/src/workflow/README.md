@@ -12,7 +12,8 @@ To access the workflow module dashboard, click the Workflow module link
 on the landing page to open the **Workflow** landing page as shown
 below:
 
-<img  alt="workflow dashboard image" width="98%" height="auto"  class="center"  src="../.vuepress/public/Workflow/landingpage.jpg"> 
+<img  alt="workflow dashboard image" width="98%" height="auto"  class="center"  
+src="../.vuepress/public/Workflow/landingpage.jpg"> 
 
 
 **Action**
@@ -32,11 +33,13 @@ below:
     scheme setup module. Navigate to the left side panel of the scheme
     setup module as shown below:
 
-<img  alt="Systech configs image" width="80%" height="auto"  class="center"  src="../.vuepress/public/Workflow/image4.png"> 
+<img  alt="Systech configs image" width="80%" height="auto"  class="center"  
+src="../.vuepress/public/Workflow/image4.png"> 
 
 
 Click the **Global Configurations** link to open the Global
 Configuration checklist window. Make sure to check the **Yes** button to
 **Activate** the workflow engine. See screenshot below:
 
-<img  alt="global configs" width="80%" height="auto"  class="center"  src="../.vuepress/public/Workflow/image5.png"> 
+<img  alt="global configs" width="80%" height="auto"  class="center"  
+src="../.vuepress/public/Workflow/image5.png"> 
