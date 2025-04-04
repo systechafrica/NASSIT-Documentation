@@ -106,7 +106,7 @@ Registers. From the left side pane shown below, these registers can be accessed:
 <img  alt="Claim Payments" width="50%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image8.png"> 
 
 
-### Grants Payments
+### *Grants Payments*
 
 The **Grant Payment Register** displays all the claim benefits paid in lump sum: Different actions can be taken from this window such as
 sending selected records for payment. See screenshot below:
@@ -133,7 +133,7 @@ sending selected records for payment. See screenshot below:
 -   Click **label 8** button to expand a lower section with tabs for more details of a selected record. 
 
 
-### Benefit Payments
+### *Benefit Payments*
 
 The **Benefits Payment Register** displays all the pensionable claim benefits payable. Different actions can be taken from this window such
 as sending selected records for payment. See screenshot below:
@@ -160,7 +160,7 @@ as sending selected records for payment. See screenshot below:
 -   Click **label 8** button to expand a lower section with tabs for more details of a selected record. 
 
 
-### Contribution Refund
+### *Contribution Refund*
 
 The **Contributions Refund Register** displays all the refundable contribution transactions. Different actions can be taken from this window such as sending selected records for payment. See screenshot below:
 
@@ -262,26 +262,22 @@ changed to **Awaiting Certification...**. Locate the **Benefits Certification** 
 <img  alt="Certification" width="97%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image20.png"> 
 
 
-After the **Certification** is completed, the record status in the **Movement Processing** window will turn from **Awaiting Certification**
-to **Calculation done** as shown in the screenshot below:
+After the **Certification** is completed, the record status in the **Movement Processing** window will turn from **Awaiting Certification** to **Calculation done** as shown in the screenshot below:
 
 <img  alt="Certification" width="97%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image21.png"> 
 
 
-At this point this transaction will be listed in the **Benefits payments Register** since this member qualifies for a lump sum and pension
-payment. See screenshot below:
+At this point this transaction will be listed in the **Benefits payments Register** since this member qualifies for a lump sum and pension payment. See screenshot below:
 
 <img  alt="Benefits payments Register" width="97%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image22.png"> 
 
 
-**Note:** The demonstrated claim processing steps apply to other **Reasons for Exit**, such as **Early Retirement**, **Invalidity**, and
-others.
+**Note:** The demonstrated claim processing steps apply to other **Reasons for Exit**, such as **Early Retirement**, **Invalidity**, and others.
 
 
-### Death Claim Processing
+**Death Claim Processing**
 
-In case of a death in service the benefits of the members need to be processed for payment to be made to his/her family. This section
-demonstrates how to process a death claim.
+In case of a death in service the benefits of the members need to be processed for payment to be made to his/her family. This section demonstrates how to process a death claim.
 
 
 ***Step 1: Death Claim Initiating Process***
@@ -306,50 +302,15 @@ Calculation** menu item as shown below:
 <img  alt="Show Benefits Calculation" width="97%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image25.png"> 
 
 
-**Fund Accounts**
+### Mss Benefits
 
-From the **Fund Accounts** menu, the **Financial Periods Register** is accessed to enabling the creation of the different financial periods.
-This allows different activities related to the fiscal financial transactions.
+The Mss Benefits register shows all the claims initiated from the MSS Portal. See screenshot below: 
 
-<img  alt="Fund Accounts" width="50%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image26.png"> 
-
-
-### Financial Periods Register
-
-Click the **Financial Periods Register** link to open the Financial Periods Register window where all financial periods in a scheme are
-listed. You can also create periods by Click the **Create Periods** drop-down menu as shown below:
-
-<img  alt="Financial Periods Register" width="99%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image27.png"> 
+<img  alt="Show Benefits Calculation" width="97%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/Mssbenefits.jpg"> 
 
 
-### Member Configurations Matrix
+### Purchase of Credit
 
-Before onboarding members, several configurations must be set based on the specific needs and expectations of a scheme and its participants.
-These configurations ensure that all required member information is properly captured and validated:
+The Purchase of Credit register shows all the members with purchased credits. See screenshot below: 
 
-<img  alt="Member Configurations Matrix" width="50%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image28.png"> 
-
-
-***Member Compulsory Fields Configuration Matrix***
-
-Click the **Member Compulsory Fields Configuration Matrix** link to open a dialog box where the mandatory fields are set to **Yes** or **No**.
-See screenshot below:
-
-<img  alt="Member Compulsory Fields Configuration Matrix" width="96%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image29.png"> 
-
-
-
-### Other Member Settings
-
-Click the **Other Members Settings** link to open a dialog box and select **Yes** or **No** for the parameters listed as shown below:
-
-<img  alt="other Members Settings" width="70%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image30.gif"> 
-
-
-***Benefits Calculation Form Field Configuration Form***
-
-Click the **Benefits Calculation Form Field Configuration** Form link to open a dialog box and select **Yes** or **No** for the parameters listed
-as shown below:
-
-<img  alt="Benefits Calculation Form Field Configuration" width="98%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/image31.png"> 
-
+<img  alt="Show Benefits Calculation" width="97%" height="auto"  class="center"  src="../.vuepress/public/claimprocesses/purchasecredit.jpg"> 
