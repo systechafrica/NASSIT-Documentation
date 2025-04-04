@@ -105,7 +105,7 @@ function getSidebar() {
                 '',
                 'taskMgt',
                 'adminPanel',
-                'analysis',
+                'workflowConfig',
             ]),
         '/reports/': generateSidebar(
             '/reports/',

@@ -1,4 +1,4 @@
-### Task Management
+## Task Management
 
 The menu items under the **Task Management** menu allow access to the
 categorized task related windows where certain process tasks are
@@ -26,7 +26,7 @@ users, and other details are displayed in a grid table as shown below:
     categorized has high or low priority.
 
 
-#### Process Metrics
+### Process Metrics
 
 The **Process Metrics** help measure the efficiency, effectiveness, and
 performance of automated workflows. These metrics provide insights into
@@ -49,16 +49,16 @@ See screenshot below:
     tasks under a process.
 
 
-##### Average Completion Time
+### *Average Completion Time*
 
 Clicking the **Get Average Completion Time Allocation** button will open
 a window showing the average time taken to complete the selected sub
 process. See sample screenshot below:
 
-<img  alt="Average Completion Time" width="98%" height="auto"  class="center"  src="../.vuepress/public/Workflow/image9.png"> 
+<img  alt="Average Completion Time" width="70%" height="auto"  class="center"  src="../.vuepress/public/Workflow/image9.png"> 
 
 
-##### Process Performance
+### *Process Performance*
 
 Clicking the **Process Performance** button will open a window showing
 the process performance e.g. the average time taken to complete the
@@ -67,7 +67,7 @@ process. See sample screenshot below:
 <img  alt="Process Performance" width="98%" height="auto"  class="center"  src="../.vuepress/public/Workflow/image10.png"> 
 
 
-##### Task Detail Performance
+### *Task Detail Performance*
 
 Clicking the **Show Task Performance** button will open a window showing
 the description of tasks performed and their performance e.g. the
@@ -77,7 +77,7 @@ below:
 <img  alt="oTask Detail Performance" width="98%" height="auto"  class="center"  src="../.vuepress/public/img/media6/image15.png"> 
 
 
-#### Queue Count
+### Queue Count
 
 The **Queue Count** help measure the performance of tasks under the
 group of those viewed to be of high or low priority. See screenshot
@@ -96,7 +96,7 @@ below:
 -   **Label 3** section shows a chart visualizing the tasks performance.
 
 
-##### Tasks Priority
+### *Tasks Priority*
 
 Clicking the **Get Tasks by Selected Priority** button will open a
 window showing all the tasks and their priority among other details. See
