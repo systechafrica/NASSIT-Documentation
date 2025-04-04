@@ -1,6 +1,6 @@
 ### Introduction
 
-The Administrative Panel facilitates the creation and management of system User Profiles and User Accounts. The system administrator is responsible for enabling system Rights and Permissions for specific User Profiles. To access the Administrative Panel, first navigate to the landing page and click on the **'Administrative Panel'** hot link.
+The Administrative Panel facilitates the creation and management of system User Profiles and User Accounts. The system administrator is responsible for enabling system Rights and Permissions for specific User Profiles. To access the Administrative Panel, first navigate to the landing page and click on the **Administrative Panel** hot link.
 This action will open the Admin Panel Links window as shown below:
 
 <img  alt="admin panel image" width="95%" height="auto"  class="center"  src="../.vuepress/public/adminmedia/image1.png">  
