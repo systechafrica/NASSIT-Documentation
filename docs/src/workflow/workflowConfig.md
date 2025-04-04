@@ -14,7 +14,7 @@ configure a new API:
 <img  alt="API config" width="98%" height="auto"  class="center"  src="../.vuepress/public/Workflow/image27.png"> 
 
 
-### *SMTP Setup*
+### SMTP Setup
 
 This window displays the configurations set to connect the workflow to a
 email service provider for sending of notification messages from the
@@ -24,7 +24,7 @@ setup a new SMPT:
 <img  alt="New Config for SMTP Setup" width="98%" height="auto"  class="center"  src="../.vuepress/public/Workflow/image28.png"> 
 
 
-### *Outbox*
+### Outbox
 
 This window displays the copies of emails that have been sent from the
 workflow. From this window one can also check if a mail has been
