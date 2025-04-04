@@ -12,7 +12,7 @@ To access the workflow module dashboard, click the Workflow module link
 on the landing page to open the **Workflow** landing page as shown
 below:
 
-<img  alt="workflow dashboard image" width="98%" height="auto"  class="center"  src="../.vuepress/public/Workflow/image1.png"> 
+<img  alt="workflow dashboard image" width="98%" height="auto"  class="center"  src="../.vuepress/public/Workflow/landingpage.jpg"> 
 
 
 **Action**
