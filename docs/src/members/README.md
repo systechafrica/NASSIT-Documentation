@@ -11,7 +11,7 @@ The module is designed to not only ensure efficient onboarding but also offers a
 
 Below is a screenshot of the Members Module dashboard, with the left-side pane expanded to reveal menu links to various configuration windows for easy navigation.
 
-<img  alt="Members module dashboard " width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image1.png">
+<img  alt="Members module dashboard " width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/memberlanding.jpg">
 
 **Action**
 
