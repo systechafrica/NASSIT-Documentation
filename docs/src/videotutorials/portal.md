@@ -38,6 +38,12 @@ export default {
           videoUrl: "https://www.youtube.com/embed/Im_c68ZD-8o",
           description: "Establishment (Employer) registration process through the portal"
         },
+                {
+          id: 4,
+          thumbnail: "https://img.youtube.com/vi/qhMYAujlL3I/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/qhMYAujlL3I",
+          description: "NASSIT member or pensioner death reporting through the portal"
+        },
       ]
     };
   }
