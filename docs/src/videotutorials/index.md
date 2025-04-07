@@ -30,25 +30,31 @@ export default {
           id: 2,
           thumbnail: "https://img.youtube.com/vi/s82gFzfPMbA/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/s82gFzfPMbA",
-          description: "How to navigate Fundmaster Xc Landing Page interface."
+          description: "How to navigate Fundmaster Xc Landing Page interface"
         },
         {
           id: 3,
           thumbnail: "https://img.youtube.com/vi/L2UxRTHFyak/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/L2UxRTHFyak",
-          description: "How to nagivate FundMaster Xc Admin Panel interface."
+          description: "How to nagivate FundMaster Xc Admin Panel interface"
         },
         {
           id: 4,
           thumbnail: "https://img.youtube.com/vi/mc-1DVWJM_4/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/mc-1DVWJM_4",
-          description: "How to create User Profiles in FundMaster."
+          description: "How to create User Profiles in FundMaster"
         },
         {
           id: 5,
           thumbnail: "https://img.youtube.com/vi/WUA_HwAqufM/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/WUA_HwAqufM",
-          description: "How to Assign Permissions to user profiles in FundMaster Xc."
+          description: "How to Assign Permissions to user profiles in FundMaster Xc"
+        },
+        {
+          id: 6,
+          thumbnail: "https://img.youtube.com/vi/ndbLDVng3Hw/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/ndbLDVng3Hw",
+          description: "How to create a User Account, Log in and Switch sScheme in FundMaster Xc"
         },
         // Add more videos here...
         
