@@ -1,10 +1,10 @@
 ---
-title: Scheme Setup Processes
+title: Admin Panel Processes
 ---
 
-### Scheme Setup Processes
+### System Administration processes
 
-This categories of videos shows how various scheme setup configurations are done in FundMaster Xc:
+This categories of videos shows how various process are ran in the administration pane in FundMaster Xc:
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">
@@ -20,23 +20,11 @@ export default {
   data() {
     return {
       videos: [
-             {
-          id: 1,
-          thumbnail: "https://img.youtube.com/vi/StIAaFSmr7I/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/StIAaFSmr7I",
-          description: "How to log in to FundMaster"
-        },
         {
-          id: 2,
-          thumbnail: "https://img.youtube.com/vi/s82gFzfPMbA/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/s82gFzfPMbA",
-          description: "How to navigate FundMaster Landing Page interface."
-        },
-        {
-          id: 3,
-          thumbnail: "https://img.youtube.com/vi/L2UxRTHFyak/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/L2UxRTHFyak",
-          description: "How to nagivate FundMaster Xe Admin Panel interface."
+          id: 6,
+          thumbnail: "https://img.youtube.com/vi/ndbLDVng3Hw/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/ndbLDVng3Hw",
+          description: "How to create a User Account, Log in and Switch sScheme in FundMaster Xc"
         },
         // Add more videos here...
       ],

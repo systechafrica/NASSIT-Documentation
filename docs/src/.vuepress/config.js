@@ -121,7 +121,7 @@ function getSidebar() {
             'Videos Tutorials',
             [
                 '',
-                'schemeSetup',
+                'adminPanel',
                 'employerEnrollment',
                 'membersModule',
                 'contributions',

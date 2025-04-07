@@ -50,12 +50,7 @@ export default {
           videoUrl: "https://www.youtube.com/embed/WUA_HwAqufM",
           description: "How to Assign Permissions to user profiles in FundMaster Xc"
         },
-        {
-          id: 6,
-          thumbnail: "https://img.youtube.com/vi/ndbLDVng3Hw/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/ndbLDVng3Hw",
-          description: "How to create a User Account, Log in and Switch sScheme in FundMaster Xc"
-        },
+
         // Add more videos here...
         
       ],
