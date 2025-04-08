@@ -1,5 +1,5 @@
 ---
-title: Admin Panel Processes
+title: System Admin Processes
 ---
 
 ### System Administration processes
