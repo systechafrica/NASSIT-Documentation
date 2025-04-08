@@ -38,19 +38,6 @@ export default {
           videoUrl: "https://www.youtube.com/embed/L2UxRTHFyak",
           description: "How to nagivate FundMaster Xc Admin Panel interface"
         },
-        {
-          id: 4,
-          thumbnail: "https://img.youtube.com/vi/mc-1DVWJM_4/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/mc-1DVWJM_4",
-          description: "How to create User Profiles in FundMaster"
-        },
-        {
-          id: 5,
-          thumbnail: "https://img.youtube.com/vi/WUA_HwAqufM/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/WUA_HwAqufM",
-          description: "How to Assign Permissions to user profiles in FundMaster Xc"
-        },
-
         // Add more videos here...
         
       ],
