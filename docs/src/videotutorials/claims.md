@@ -4,7 +4,7 @@ title: Claims Processes
 
 ### Retirements benefits processing
 
-This category of videos shows the processes involved in processing retirements benefits processing in FundMaster Xc:
+This category of videos shows the workflows involved in processing retirements benefits processing in FundMaster Xc:
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">

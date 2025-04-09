@@ -1,10 +1,10 @@
 ---
-title: System Admin Processes
+title: Pensioners Management Processes
 ---
 
-### System Administration processes
+### Pensiners management processes
 
-"This category of videos demonstrates how various processes are executed within the Administration pane in FundMaster Xc."
+This category of videos demonstrates how various processes are executed within the pensioners module in FundMaster Xc.
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">
@@ -21,16 +21,16 @@ export default {
     return {
       videos: [
         {
-          id: 6,
-          thumbnail: "https://img.youtube.com/vi/ndbLDVng3Hw/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/ndbLDVng3Hw",
-          description: "How to create a User Account, Log in and Switch Schemes in FundMaster Xc"
+          id: 1,
+          thumbnail: "https://img.youtube.com/vi/N4vmv4feXsw/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/N4vmv4feXsw",
+          description: "How to process and approve a pension deduction in FundMaster"
         },
                 {
-          id: 6,
+          id: 2,
           thumbnail: "https://img.youtube.com/vi/IZ-BvBoJ7Xc/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/IZ-BvBoJ7Xc",
-          description: "How to create a User Profile, Assign Permissions to the Profile and move a User from one Profile to Another in FundMaster Xc"
+          description: "How to process and approve a payroll in FundMaster"
         },
         // Add more videos here...
       ],
