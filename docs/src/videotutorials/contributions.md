@@ -40,7 +40,7 @@ export default {
         },
         {
           id: 4,
-          thumbnail: "https://img.youtube.com/vi/YVdcX0ibiE7Y/hqdefault.jpg",
+          thumbnail: "https://img.youtube.com/vi/VdcX0ibiE7Y/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/VdcX0ibiE7Y",
           description: "Part 4: Contribution processing: Tying a contribution to a receipt"
         },
