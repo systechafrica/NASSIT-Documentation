@@ -22,15 +22,27 @@ export default {
       videos: [
         {
           id: 1,
-          thumbnail: "https://img.youtube.com/vi/HyiMP-p9LIg/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/HyiMP-p9LIg",
-          description: "Part 1: Employer registration process: Capturing employer details"
+          thumbnail: "https://img.youtube.com/vi/JgT4hzn6liQ/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/JgT4hzn6liQ",
+          description: "Part 1: Contribution processing: Generating a contribution schedule"
         },
-                {
+        {
           id: 2,
-          thumbnail: "https://img.youtube.com/vi/YYXMrfr-YG4/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/YYXMrfr-YG4",
-          description: "Part 2: Employer registration processe: Employer certification process"
+          thumbnail: "https://img.youtube.com/vi/3zdOL-HrQiE/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/3zdOL-HrQiE",
+          description: "Part 2: Contribution processing: Validating a contribution schedule"
+        },
+        {
+          id: 3,
+          thumbnail: "https://img.youtube.com/vi/sVmVNSTFMT8/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/sVmVNSTFMT8",
+          description: "Part 3: Contribution processing: Creating a contribution receipt"
+        },
+        {
+          id: 4,
+          thumbnail: "https://img.youtube.com/vi/YVdcX0ibiE7Y/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/VdcX0ibiE7Y",
+          description: "Part 4: Contribution processing: Tying a contribution to a receipt"
         },
      
         // Add more videos here...
