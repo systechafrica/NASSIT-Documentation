@@ -2,7 +2,7 @@
 title: Pensioners Processes
 ---
 
-### Pensiners management processes
+### Pensioners management processes
 
 This category of videos demonstrates how various processes are executed within the pensioners module in FundMaster Xc.
 
@@ -26,14 +26,20 @@ export default {
           videoUrl: "https://www.youtube.com/embed/N4vmv4feXsw",
           description: "How to process and approve a pension deduction in FundMaster"
         },
-                {
+        {
           id: 2,
           thumbnail: "https://img.youtube.com/vi/s5UFK9gZb3I/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/s5UFK9gZb3I",
           description: "How to process and approve a payroll in FundMaster"
         },
+        {
+          id: 2,
+          thumbnail: "https://img.youtube.com/vi/0ZISvqcZAJY/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/0ZISvqcZAJY",
+          description: "How to process and approve a Pension arrear in FundMaster"
+        },
         // Add more videos here...
-      ],
+        ],
     };
   }
 };
