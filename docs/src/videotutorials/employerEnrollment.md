@@ -2,7 +2,7 @@
 title: Establishment Registration
 ---
 
-### Employer Enrollment Processes
+### Employer enrollment processes
 
 This category of videos shows how to onboard employers in FundMaster:
 

@@ -2,9 +2,10 @@
 title: Portal Processes
 ---
 
-### Self-Service Portal Key Processes
+### 
+Online portal key processes
 
-This category of videos shows the MSS processes involved in interacting with the core system remotely.
+This category of videos shows the online processes involved in interacting with the core system remotely.
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">

@@ -2,9 +2,9 @@
 title: System Admin Processes
 ---
 
-### System Administration processes
+### System administration processes
 
-"This category of videos demonstrates how various processes are executed within the Administration pane in FundMaster:"
+"This category of videos demonstrates how various processes are executed within the system administration panel:
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">

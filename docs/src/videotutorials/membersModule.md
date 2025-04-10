@@ -2,7 +2,7 @@
 title: Member Registration
 ---
 
-### Member Onbording Processes
+### Member onbording processes
 
 This category of videos shows the processes involved in onboarding members in FundMaster:
 
