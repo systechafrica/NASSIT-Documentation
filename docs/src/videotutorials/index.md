@@ -1,10 +1,10 @@
 ---
-title: UI Walkthrough
+title: System User Interface (UI)
 ---
 
-### FundMaster Xc UI
+### UI Walkthrough
 
-This category of videos shows how to navigate the UI in FundMaster Xc:
+This category of videos shows how to navigate the system:
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">

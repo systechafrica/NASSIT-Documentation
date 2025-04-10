@@ -4,7 +4,7 @@ title: Contributions Processes
 
 ### Members contributions management
 
-This category of videos shows the processes involved in managing member contributions in FundMaster Xc:
+This category of videos shows the processes involved in managing member contributions in FundMaster:
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">
