@@ -4,7 +4,7 @@ title: Pensioners Processes
 
 ### Pensioners management processes
 
-This category of videos demonstrates how various processes are executed within the pensioners in FundMaster:
+This category of videos demonstrates how various processes are executed within the pensioners module in the system:
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">
