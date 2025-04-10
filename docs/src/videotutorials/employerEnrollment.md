@@ -52,6 +52,13 @@ export default {
   cursor: pointer;
 }
 
+.video-item p {
+  text-align: left;
+  margin-top: 8px;
+  font-size: 12px;
+  line-height: 1.4;
+}
+
 .video-item img {
   max-width: 100%;
   border-radius: 8px;  /* Ensures rounded corners */
