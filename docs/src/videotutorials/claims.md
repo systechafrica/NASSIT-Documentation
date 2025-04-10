@@ -2,9 +2,9 @@
 title: Claims Processes
 ---
 
-### Retirements benefits processing
+### Retirement benefits processing
 
-This category of videos shows the workflows involved in processing retirements benefits processing in FundMaster:
+"This category of videos demonstrates the workflows involved in processing retirement benefits:"
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">

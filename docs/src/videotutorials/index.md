@@ -4,7 +4,7 @@ title: System User Interface (UI)
 
 ### UI Walkthrough
 
-This category of videos shows how to navigate the system:
+This category of videos demonstrates how to navigate the system:
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">

@@ -21,16 +21,16 @@ export default {
     return {
       videos: [
         {
-          id: 6,
+          id: 1,
           thumbnail: "https://img.youtube.com/vi/ndbLDVng3Hw/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/ndbLDVng3Hw",
-          description: "How to create a User Account, Log in and Switch Schemes"
+          description: "How to create a user account, log in and switch schemes"
         },
                 {
-          id: 6,
+          id: 2,
           thumbnail: "https://img.youtube.com/vi/IZ-BvBoJ7Xc/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/IZ-BvBoJ7Xc",
-          description: "How to create a User Profile, Assign Permissions and move a User from one Profile to Another"
+          description: "How to create a user profile, assign permissions and move a user from one profile to another"
         },
         // Add more videos here...
       ],
