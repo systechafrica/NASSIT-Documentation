@@ -30,13 +30,13 @@ export default {
           id: 2,
           thumbnail: "https://img.youtube.com/vi/s82gFzfPMbA/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/s82gFzfPMbA",
-          description: "How to navigate Fundmaster Xc Landing Page interface"
+          description: "How to navigate the system landing page interface"
         },
         {
           id: 3,
           thumbnail: "https://img.youtube.com/vi/L2UxRTHFyak/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/L2UxRTHFyak",
-          description: "How to nagivate FundMaster Xc Admin Panel interface"
+          description: "How to nagivate the admin panel interface"
         },
         // Add more videos here...
         

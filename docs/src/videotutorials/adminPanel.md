@@ -24,13 +24,13 @@ export default {
           id: 6,
           thumbnail: "https://img.youtube.com/vi/ndbLDVng3Hw/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/ndbLDVng3Hw",
-          description: "How to create a User Account, Log in and Switch Schemes in FundMaster Xc"
+          description: "How to create a User Account, Log in and Switch Schemes"
         },
                 {
           id: 6,
           thumbnail: "https://img.youtube.com/vi/IZ-BvBoJ7Xc/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/IZ-BvBoJ7Xc",
-          description: "How to create a User Profile, Assign Permissions to the Profile and move a User from one Profile to Another in FundMaster Xc"
+          description: "How to create a User Profile, Assign Permissions and move a User from one Profile to Another"
         },
         // Add more videos here...
       ],

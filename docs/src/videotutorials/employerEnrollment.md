@@ -24,13 +24,13 @@ export default {
           id: 1,
           thumbnail: "https://img.youtube.com/vi/HyiMP-p9LIg/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/HyiMP-p9LIg",
-          description: "Part 1: Employer registration process: Capturing employer details"
+          description: "Part 1: Employer registration process - Capturing employer details"
         },
                 {
           id: 2,
           thumbnail: "https://img.youtube.com/vi/YYXMrfr-YG4/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/YYXMrfr-YG4",
-          description: "Part 2: Employer registration processe: Employer certification process"
+          description: "Part 2: Employer registration processe - Employer certification"
         },
      
         // Add more videos here...

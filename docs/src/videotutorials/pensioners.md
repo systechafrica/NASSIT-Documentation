@@ -24,19 +24,19 @@ export default {
           id: 1,
           thumbnail: "https://img.youtube.com/vi/N4vmv4feXsw/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/N4vmv4feXsw",
-          description: "How to process and approve a pension deduction in FundMaster"
+          description: "How to process and approve a pension deduction"
         },
         {
           id: 2,
           thumbnail: "https://img.youtube.com/vi/s5UFK9gZb3I/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/s5UFK9gZb3I",
-          description: "How to process and approve a payroll in FundMaster"
+          description: "How to process and approve a payroll"
         },
         {
           id: 2,
           thumbnail: "https://img.youtube.com/vi/0ZISvqcZAJY/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/0ZISvqcZAJY",
-          description: "How to process and approve a Pension arrear in FundMaster"
+          description: "How to process and approve a pension arrear"
         },
         // Add more videos here...
         ],

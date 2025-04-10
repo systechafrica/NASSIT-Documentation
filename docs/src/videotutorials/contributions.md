@@ -24,25 +24,25 @@ export default {
           id: 1,
           thumbnail: "https://img.youtube.com/vi/JgT4hzn6liQ/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/JgT4hzn6liQ",
-          description: "Part 1: Contribution processing: Generating a contribution schedule"
+          description: "Part 1: Contribution processing - Generating a contribution schedule"
         },
         {
           id: 2,
           thumbnail: "https://img.youtube.com/vi/3zdOL-HrQiE/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/3zdOL-HrQiE",
-          description: "Part 2: Contribution processing: Validating a contribution schedule"
+          description: "Part 2: Contribution processing - Validating a contribution schedule"
         },
         {
           id: 3,
           thumbnail: "https://img.youtube.com/vi/sVmVNSTFMT8/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/sVmVNSTFMT8",
-          description: "Part 3: Contribution processing: Creating a contribution receipt"
+          description: "Part 3: Contribution processing - Creating a contribution receipt"
         },
         {
           id: 4,
           thumbnail: "https://img.youtube.com/vi/VdcX0ibiE7Y/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/VdcX0ibiE7Y",
-          description: "Part 4: Contribution processing: Tying a contribution to a receipt"
+          description: "Part 4: Contribution processing - Tying a contribution to a receipt"
         },
      
         // Add more videos here...
