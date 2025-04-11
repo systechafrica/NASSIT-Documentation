@@ -37,6 +37,7 @@ names of the pensioners. Clicking the ‘Exception’ tab will open the exceptio
 
 A successful batch upload process will be listed on the **'New pensioner Batch Register'** where the certification process is conducted as shown on the above-mentioned register.
 
+
 ## Single Upload Method
 
 The single pensioner upload method commences from the members register when scheme member retires. At exit, if the member's benefits are

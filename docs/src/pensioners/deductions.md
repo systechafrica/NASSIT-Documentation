@@ -1,5 +1,5 @@
 
-## Deduction
+### Deduction
 
 Pensioner Deductions are the different forms of money deductions made
 from pensioners monthly pension to remit to other funds such as medical
@@ -8,7 +8,7 @@ covers or saccos. Below is a **Pensioners Deduction** window:
 <img  alt="Pensioners Deduction window" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image45.png">
 
 
-### Add New Pensioner Deduction
+### *Add New Pensioner Deduction*
 
 Click the **Add New Pensioner Deduction** from the Pension Deductions
 window to open a dialog window for capturing the details of a new

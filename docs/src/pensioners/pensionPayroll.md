@@ -181,7 +181,7 @@ shown below:
 <img  alt="Document Checklist" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image25.png">
 
 
-### Pensioners Approval
+## Pensioners Approval
 
 The pensioners approval menu gives access to approval related register
 such as the new pensioner approval register. See screenshot below:
