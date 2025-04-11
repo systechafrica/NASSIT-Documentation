@@ -1,6 +1,6 @@
-### Certificates
+## Certificates
 
-## Pensioners Certificates
+### Pensioners Certificates
 
 A **Pensioners Certificate** is proof that a particular pensioner is
 still alive. FundMaster has a provision for the generation of C.O.E for

@@ -1,5 +1,5 @@
 
-### Stopped Pensioners
+## Stopped Pensioners
 
 All pensioners stopped from receiving their monthly pension are listed
 in the **Stopped Pensioners** window. **Reasons for Stoppage** can be

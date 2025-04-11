@@ -1,4 +1,4 @@
-### Pensioners Module
+## Pensioners Module
 
 The Pensioners Module enables the registration of pensioners through
 templates into FundMaster. The Pensioners are connected to the members

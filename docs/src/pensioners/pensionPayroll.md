@@ -1,6 +1,6 @@
-### Pension Register
+## Pension Register
 
-## Payroll Register
+### Payroll Register
 
 The **Payroll Register** displays all the pensioners under different
 categories. From this payroll window, several processes such as
@@ -48,7 +48,7 @@ below:
     done and the **Benefit Calculation** for the deceased pensioner
     reviewed as shown below:
 
-<img  alt="PConversions Register" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image7.png">
+<img  alt="PConversions Register" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image7.png">
 
 
 ### *Pensioner Suspensions*
@@ -62,7 +62,7 @@ Processing** menu as shown below:
 Clicking **Pension Suspensions** will open a dialog box for capturing
 the suspensions details as shown below:
 
-<img  alt="suspensions details" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image9.png">
+<img  alt="suspensions details" width="70%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image9.png">
 
 Clicking **OK** will send the record to the **Pensioner Updates
 Approval** window for certification as shown below:
@@ -86,12 +86,12 @@ shown below:
 Clicking **Pension Stoppage** will open a dialog box for capturing the
 suspensions details as shown below:
 
-<img  alt="suspensions details" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image13.png">
+<img  alt="suspensions details" width="70%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image13.png">
 
 Clicking **OK** will send the record to the **Pensioner Updates
 Approval** window for certification as shown below:
 
-<img  alt="Pensioner Updates Approval" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image14.png">
+<img  alt="Pensioner Updates Approval" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image14.png">
 
 A successful certification of the suspension process will send the
 pensioner to the **Suspended Pensions** register. See screenshot below:

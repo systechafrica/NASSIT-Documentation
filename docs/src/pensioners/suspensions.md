@@ -1,4 +1,4 @@
-### Suspended Pensioners
+## Suspended Pensioners
 
 All pensioners suspended from receiving their monthly pension are listed
 in the **Suspended Pensioners** window. A pensioner can be reinstated,

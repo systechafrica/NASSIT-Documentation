@@ -1,5 +1,5 @@
 
-### Payroll Operations
+## Payroll Operations
 
 The Payroll Operations menu gives access to payroll related access links
 such as a link to access the pension arrears register. See screenshot
@@ -8,7 +8,7 @@ below:
 <img  alt="Payroll Operations menu" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image31.png">
 
 
-## Previous Payroll
+### Previous Payroll
 
 To view all the payrolls that have already been ran for different
 months, click the **Previous Payrolls** link as to open the following
@@ -17,7 +17,7 @@ window:
 <img  alt="PPrevious Payrolls Register" width="98%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image32.png">
 
 
-## Run Payroll
+### Run Payroll
 
 To run the payroll, click on **Run Payroll** link to pop up a payroll
 checklist window as shown in the screenshot below:
@@ -56,7 +56,7 @@ Post to accounts for payment as shown in the screenshot below:
 
 
 
-## Pension Arrears Register
+### Pension Arrears Register
 
 The **Pension Arrears Register** displays all types of pensioners
 arrears detail and allows selected arrears to be written off. See
@@ -65,7 +65,7 @@ screenshot below:
 <img  alt="Pension Arrears Register" width="98%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image40.png">
 
 
-### Add New Arrear
+### *Add New Arrear*
 
 To add an arrear for a pensioner, navigate to the **Payroll Register**
 select the pensioner you need to process an arrear for. Locate and click
@@ -81,7 +81,7 @@ screenshot below:
 <img  alt="arrears details dialog box" width="70%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image42.png">
 
 
-#### Arrear Confirmation
+#### *Arrear Confirmation*
 
 To see the Arrear record, navigate back to the **Payroll Register**
 window and select the pensioner whose arrear we just processes. Click
@@ -92,7 +92,7 @@ in the screenshot below:
 <img  alt="Payroll Register show details section" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image43.png">
 
 
-## Pension Arrears Payment Register
+### Pension Arrears Payment Register
 
 The **Pension Arrears Payment Register** displays the pensioners arrears
 processed for payment. See screenshot below:
