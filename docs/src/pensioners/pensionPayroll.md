@@ -8,7 +8,7 @@ categories. From this payroll window, several processes such as
 Registers** and other operations such as adding pensioner arrears to a
 selected pensioner from the grid table. See screenshot below:
 
-<img  alt="Payroll Register" width="98%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image4.png">
+<img  alt="Payroll Register" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image4.png">
 
 
 ### Movement Processing
@@ -17,7 +17,7 @@ The **Movement Processing** menu gives access to some special group of
 processes that can be executed from the **Payroll Register** as shown in
 the screenshot below:
 
-<img  alt="Movement Processing" width="60%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image5.png">
+<img  alt="Movement Processing" width="56%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image5.png">
 
 
 ### *Initiate Conversion*
@@ -28,7 +28,7 @@ the name of the pensioner from the **Payroll Register**. From the
 dialog window where the details of the conversion are captured as shown
 below:
 
-<img  alt="Initiate Conversion" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image6.png">
+<img  alt="Initiate Conversion" width="94%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image6.png">
 
 **Actions**
 
@@ -48,7 +48,7 @@ below:
     done and the **Benefit Calculation** for the deceased pensioner
     reviewed as shown below:
 
-<img  alt="PConversions Register" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image7.png">
+<img  alt="Conversions Register" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image7.png">
 
 
 ### *Pensioner Suspensions*
@@ -57,22 +57,22 @@ To suspend a pensioner, select his/her name from the **Payroll
 Register** and click **Pension Suspensions** from the **Movements
 Processing** menu as shown below:
 
-<img  alt="Pension Suspensions" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image8.png">
+<img  alt="Pension Suspensions" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image8.png">
 
 Clicking **Pension Suspensions** will open a dialog box for capturing
 the suspensions details as shown below:
 
-<img  alt="suspensions details" width="70%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image9.png">
+<img  alt="suspensions details" width="80%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image9.png">
 
 Clicking **OK** will send the record to the **Pensioner Updates
 Approval** window for certification as shown below:
 
-<img  alt="Pensioner Updates Approval" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image10.png">
+<img  alt="Pensioner Updates Approval" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image10.png">
 
 A successful **Certification** of the suspension process will send the
 pensioner to the **Suspended Pensions** register. See screenshot below:
 
-<img  alt="Suspended Pensions" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image11.png">
+<img  alt="Suspended Pensions" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image11.png">
 
 
 ### *Pension Stoppage*
@@ -81,12 +81,12 @@ To stop a pensioner, select his/her name from the **Payroll Register**
 and click **Pension Stoppage** from the **Movements Processing** menu as
 shown below:
 
-<img  alt="Movements Processing" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image12.png">
+<img  alt="Movements Processing" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image12.png">
 
 Clicking **Pension Stoppage** will open a dialog box for capturing the
 suspensions details as shown below:
 
-<img  alt="suspensions details" width="70%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image13.png">
+<img  alt="suspensions details" width="80%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image13.png">
 
 Clicking **OK** will send the record to the **Pensioner Updates
 Approval** window for certification as shown below:
@@ -96,7 +96,7 @@ Approval** window for certification as shown below:
 A successful certification of the suspension process will send the
 pensioner to the **Suspended Pensions** register. See screenshot below:
 
-<img  alt="Suspended Pensions" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image15.png">
+<img  alt="Suspended Pensions" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image15.png">
 
 
 ### *Invalidity to Reinstatement Transition*
@@ -106,13 +106,13 @@ normal, select his/her name from the **Payroll Register** under the
 Invalidity Category and click **Invalidity to Reinstatement Transition**
 from the **Movements Processing** menu as shown below:
 
-<img  alt="Movements Processing" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image16.png">
+<img  alt="Movements Processing" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image16.png">
 
 Clicking **Invalidity to Reinstatement Transition** will move the
 pensioner from invalidity category back to the original pensioner
 category. See screenshot below:
 
-<img  alt="Pensioner category" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image17.png">
+<img  alt="Pensioner category" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image17.png">
 
 
 ### Open Registers
@@ -121,7 +121,7 @@ The **Open Registers** menu host registers such as the Indexation and
 Conversions registers from which key processes such as pension
 indexation are initiated. See screenshot below:
 
-<img  alt="Open Registers menu" width="60%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image18.png">
+<img  alt="Open Registers menu" width="56%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image18.png">
 
 
 ### *Pension Category Register*
@@ -139,7 +139,7 @@ The **Indexation Register** displays for the pension payrolls that have
 previously been indexed. From this window a new indexation can be done
 and certified among other activities. See screenshot below:
 
-<img  alt="Indexation Register" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image20.png">
+<img  alt="Indexation Register" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image20.png">
 
 Clicking the **Index Pension** button will open a window where a new
 indexation can be parameterized and processed. See screenshot below:
@@ -150,7 +150,7 @@ A successful indexation upon clicking the **Process Indexation** button
 will display the new indexation record in the indexation window for
 certification processing as shown below:
 
-<img  alt="indexation window" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image22.png">
+<img  alt="indexation window" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image22.png">
 
 
 ### *Conversion Register*
@@ -159,7 +159,7 @@ Clicking **Conversion Register** from the Open Register will open a
 register where all the initiated death in retirement claims are
 displayed a shown below:
 
-<img  alt="Conversion Register" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image23.png">
+<img  alt="Conversion Register" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image23.png">
 
 
 #### *Death in Retirement Benefits Calculation*
