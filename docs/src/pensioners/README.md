@@ -24,5 +24,6 @@ Links** window shown below:
     section **labelled 2** to access pensioners forms, registers and
     configure all pensioners-related settings.
 
+
 **Tip:** All the links under **label 1** can also be accessed on the
 left side pane although some are tacked under sub menus.

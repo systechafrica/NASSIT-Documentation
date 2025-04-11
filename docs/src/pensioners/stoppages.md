@@ -11,4 +11,4 @@ added from this window as shown below:
 Clicking the **Reasons for Stoppage** button will open a window where
 the reasons are listed, and new ones can be added. See screenshot below:
 
-<img  alt="Reasons for Stoppage window" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image59.png">
+<img  alt="Reasons for Stoppage window" width="90%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image59.png">
