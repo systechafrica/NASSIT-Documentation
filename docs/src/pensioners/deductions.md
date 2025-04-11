@@ -1,6 +1,8 @@
 
 ### Deduction
 
+## Pensioners Deduction
+
 Pensioner Deductions are the different forms of money deductions made
 from pensioners monthly pension to remit to other funds such as medical
 covers or saccos. Below is a **Pensioners Deduction** window:
