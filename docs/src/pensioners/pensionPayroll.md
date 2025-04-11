@@ -11,7 +11,7 @@ selected pensioner from the grid table. See screenshot below:
 <img  alt="Payroll Register" width="98%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image4.png">
 
 
-## *Movement Processing*
+### Movement Processing
 
 The **Movement Processing** menu gives access to some special group of
 processes that can be executed from the **Payroll Register** as shown in
@@ -115,7 +115,7 @@ category. See screenshot below:
 <img  alt="Pensioner category" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image17.png">
 
 
-## *Open Registers*
+### Open Registers
 
 The **Open Registers** menu host registers such as the Indexation and
 Conversions registers from which key processes such as pension
