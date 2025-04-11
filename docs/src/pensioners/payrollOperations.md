@@ -1,98 +1,103 @@
-### Payroll Operations
 
-The **'Payroll Operations'** window gives links to access to key payroll related actions such as running a payroll window. See screenshot below:
+## Payroll Operations
 
-<img  alt="Payroll Operations" width="60%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image13.png">
+The Payroll Operations menu gives access to payroll related access links
+such as a link to access the pension arrears register. See screenshot
+below:
 
-
-## Previous Payrolls
-
-The **'Previous Payrolls'** window lists all previous payrolls as shown below:
-
-<img  alt="Previous Payrolls" width="98%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image14.png">
+![](vertopal_5be550c04ed3473e90495c5ebb68d5c0/media/image31.png){width="7.212962598425197in"
+height="1.292195975503062in"}
+<img  alt="PPayroll Operations menu" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image31.png">
 
 
-**Action**
+### Previous Payroll
 
--   Click **Label 1** dropdown button to access links to various payroll related activities such as confirming payroll against staged
-    payroll.
+To view all the payrolls that have already been ran for different
+months, click the **Previous Payrolls** link as to open the following
+window:
 
--   Click **Label 2** text boxes to configure how to filter records from the list.
-
--   Click **Label 2** button to filter records as per the settings done in the text boxes.
-
--   Click **Label 3** button to repopulate records as per default settings.
-
--   Click **Label 4** button to view a window with mobile payment transactions.
-
--   Click **Label 5** button to view reports in print format.
-
--   Click **Label 6** button to open a grid table on the lower section showing more details of a selected payroll.
+<img  alt="PPrevious Payrolls Register" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image32.png">
 
 
-**NB:** Select payroll month and year to view pensioner's payroll details, else the grid will be empty.
+### Run Payroll
+
+To run the payroll, click on **Run Payroll** link to pop up a payroll
+checklist window as shown in the screenshot below:
+
+<img  alt="Run Payroll checklist window" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image33.png">
+
+Clicking the **Confirm Payroll Register** checkbox will load a success
+message box with a link to download an excel file with the details of
+the payroll. Otherwise click **OK** to continue.
+
+<img  alt="Confirm Payroll Register pop up box" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image34.png">
+
+Click the **Run Payroll** button to open a confirmation dialog box and
+click the **Yes** button as shown below:
+
+<img  alt="Run Payroll button" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image35.png">
+
+Clicking the **Yes** button will trigger the execution of the payroll.
+If the payroll rans successfully, the record will be displayed in the
+**Previous Payroll** window from which the payroll can be confirmed,
+certified and posted to accounts for payment. See screenshot below:
+
+<img  alt="PPrevious Payroll Register" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image36.png">
+
+Confirm the payroll execution as shown in the screenshot below:
+
+<img  alt="Confirm the payroll menu" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image37.png">
+
+Certify and approve the process as shown in the screenshot below:
+
+<img  alt="certification menu button" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image38.png">
+
+Post to accounts for payment as shown in the screenshot below:
+
+<img  alt="Post to accounts menu" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image39.png">
 
 
+### Pension Arrears Register
 
-### Payroll Activities
+The **Pension Arrears Register** displays all types of pensioners
+arrears detail and allows selected arrears to be written off. See
+screenshot below:
 
-From the payroll register, several actions can be taken upon a selected pension on the payroll such as viewing a pensioner's tax calculation. Click on a menu item to open respective windows where such actions can be performed. See screenshot below:
-
-<img  alt="operations menu" width="65%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image15.png">
-
-
-
-## Run Payroll
-
-To run the payroll, navigate to Pension Payroll menu, from the **'Run Payroll'** menu, click on Run Payroll sub-menu to pop up a payroll
-checklist as shown in the screenshot below:
-
-<img  alt="Run Payroll" width="45%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image16.png">
+<img  alt="Pension Arrears Register" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image40.png">
 
 
-Clicking the **'Run Payroll'** menu item will open the payroll roll checklist window. Confirm various payroll parameters and click **'Run Payroll'** button as shown in the screenshot below:
+#### Add New Arrear
 
-<img  alt="Run Payroll" width="70%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image17.png">
+To add an arrear for a pensioner, navigate to the **Payroll Register**
+select the pensioner you need to process an arrear for. Locate and click
+the **Add Pensioner Arrears** button from the **Operations** menu as
+shown below:
 
+<img  alt="Add Pensioner Arrears button" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image44.png">
 
-**Note:** If a payroll runs successfully, it will move to the previous payroll window, where it can be confirmed against a staged payroll and then certified.
+Clicking the **Add Pensioner Arrears** menu item as shown above will
+open a dialog window for capturing the details of the arrear. See
+screenshot below:
 
-
-
-## Pension Arrears Register
-
-The **'Pension Arrears Register'** records all arears details and allows selected arrears to be written off. See screenshot below:
-
-<img  alt="Pension Arrears Register" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image18.png">
-
-
-**Action**
-
--   Click **Label 1** and from the drop-down menu, select to process an arrear write off or remove a selected arrears.
-
--   Click **Label 2** button to filter records in the register based on set parameters on the text fields.
-
--   Click **Label 3** button and from the dropdown list, certify, approve or rollback the approval process.
+<img  alt="arrears details dialog box" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image42.png">
 
 
+#### Arrear Confirmation
 
-### Adding Arrears
+To see the Arrear record, navigate back to the **Payroll Register**
+window and select the pensioner whose arrear we just processes. Click
+the **Show Details** icon to expand the window. From the **Pension
+Arrears** tab, you can see the new arrear record has been added as shown
+in the screenshot below:
 
-To add Arrears, select a pensioner from the payroll window to add an arrears for that pensioner. From the **'Operations'** dropdown window, click **'Add pensioner Arrears'** as shown below:
-
-<img  alt="Operations menu" width="55%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image19.png">
-
-
-Clicking the **'Add Pensioners Arrears'** link will open a new pensioners arrears form through which an arrear is added to a pensioners
-payroll detail. Key in the arrears details and click the **'Save'** button as shown in the screenshot below:
-
-<img  alt="Add Pensioners Arrears" width="75%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image20.png">
+<img  alt="Payroll Register show details section" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image43.png">
 
 
+### Pension Arrears Payment Register
 
-## Unclaimed Cheques
+The **Pension Arrears Payment Register** displays the pensioners arrears
+processed for payment. See screenshot below:
 
-The **'Unclaimed Cheques'** window lists all the cheques written in a scheme. See screenshot below:
+<img  alt="Pension Arrears Payment Register" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image44.png">
 
-<img  alt="Unclaimed Cheques" width="98%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image21.png">
 

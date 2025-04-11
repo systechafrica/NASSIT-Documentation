@@ -1,41 +1,22 @@
-### Suspensions and Stoppages
+## Suspended Pensioners
 
-The **'Suspensions and Stoppages'** menu gives access to the suspensions register and stoppages register. See screenshot below:
+All pensioners suspended from receiving their monthly pension are listed
+in the **Suspended Pensioners** window. A pensioner can be reinstated,
+reason for suspensions can be captured together with **reasons for
+reinstatement** as shown below:
 
-<img  alt="Suspensions menu" width="60%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image33.png">
-
-
-## Pension Suspensions
-
-The **'Suspended Pensions'** window lists all the pensioners who are suspended from receiving their pensions. From this window a selected
-pensioner can be reinstated, the reasons for suspensions window accessed and suspension history of a selected pension viewed as shown below:
-
-<img  alt="Pension suspension" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image34.png">
+<img  alt="Suspended Pensioners register" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image55.png">
 
 
-**Action**
+Clicking the **Reasons for Suspension** button will open a window where
+the reasons are listed, and new ones can be added. See screenshot below:
 
--   Click **Label 1** and from the drop-down menu, select to reinstate a pensioner or suspend all overage dependants.
-
--   Click **Label 2** button to filter records based on set parameters on the text fields.
-
--   Click **Label 3** button and reset filtered records to default.
-
--   Click **Label 4** button to open a window showing a list of reasons for suspension.
-
--   Click **Label 5** button to via a section showing the history of the selected pensioners.
+<img  alt="Reasons for Suspension window" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image56.png">
 
 
-## Reasons for Suspension
+Clicking the **Reasons for Reinstatement** button will open a window
+where the reasons are listed, and new ones can be added. See screenshot
+below:
 
-The **'Reason for Suspension'** window displays a list of reasons for suspension. From this window new reasons for exit can be added to the list. See screenshot below:
-
-<img  alt="Reason for Suspension" width="80%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image35.png">
-
-
-## Pension Stoppage
-
-The **'Pension Stoppage'** window displays a list of all pensioners stopped from receiving pensions money. See screenshot below:
-
-<img  alt="Pension Stoppage" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionmedia/image36.png">
+<img  alt="Reasons for Reinstatement window" width="96%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image57.png">
 

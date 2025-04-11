@@ -97,6 +97,7 @@ function getSidebar() {
                 'deductions',
                 'certificates',
                 'suspensions',
+                'stoppages',
             ]),
         '/workflow/': generateSidebar(
             '/workflow/',
