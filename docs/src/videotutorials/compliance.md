@@ -30,7 +30,7 @@ videos: [
           id: 2,
           thumbnail: "https://img.youtube.com/vi/8jGy83XbH7E/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/8jGy83XbH7E",
-          description: "Inspecter onboarding proccess"
+          description: "Inspection creation proccess"
 
         },
               
