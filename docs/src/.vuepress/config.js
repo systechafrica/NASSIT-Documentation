@@ -127,6 +127,7 @@ function getSidebar() {
                 'membersModule',
                 'contributions',
                 'claims',
+                'compliance',
                 'pensioners',
                 'portal',
             ]),
