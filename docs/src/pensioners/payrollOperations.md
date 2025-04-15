@@ -10,24 +10,24 @@ The Payroll Operations menu gives access to payroll related access links such as
 
 To view all the payrolls that have already been ran for different months, click the **Previous Payrolls** link as to open the following window:
 
-<img  alt="PPrevious Payrolls Register" width="98%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image32.png">
+<img  alt="PPrevious Payrolls Register" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image32.png">
 
 
 ## Run Payroll
 
 To run the payroll, click on **Run Payroll** link to pop up a payroll checklist window as shown in the screenshot below:
 
-<img  alt="Run Payroll checklist window" width="70%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image33.png">
+<img  alt="Run Payroll checklist window" width="66%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image33.png">
 
 
 Clicking the **Confirm Payroll Register** checkbox will load a success message box with a link to download an excel file with the details of the payroll. Otherwise click **OK** to continue.
 
-<img  alt="Confirm Payroll Register pop up box" width="70%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image34.png">
+<img  alt="Confirm Payroll Register pop up box" width="50%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image34.png">
 
 
 Click the **Run Payroll** button to open a confirmation dialog box and click the **Yes** button as shown below:
 
-<img  alt="Run Payroll button" width="70%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image35.png">
+<img  alt="Run Payroll button" width="45%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image35.png">
 
 
 Clicking the **Yes** button will trigger the execution of the payroll. If the payroll rans successfully, the record will be displayed in the **Previous Payroll** window from which the payroll can be confirmed, certified and posted to accounts for payment. See screenshot below:
