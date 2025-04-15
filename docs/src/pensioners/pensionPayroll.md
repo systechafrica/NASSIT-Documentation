@@ -115,7 +115,7 @@ category. See screenshot below:
 <img  alt="Pensioner category" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image17.png">
 
 
-## Open Registers
+### Open Registers
 
 The **Open Registers** menu host registers such as the Indexation and
 Conversions registers from which key processes such as pension
