@@ -19,25 +19,31 @@ To run the payroll, click on **Run Payroll** link to pop up a payroll checklist 
 
 <img  alt="Run Payroll checklist window" width="70%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image33.png">
 
+
 Clicking the **Confirm Payroll Register** checkbox will load a success message box with a link to download an excel file with the details of the payroll. Otherwise click **OK** to continue.
 
-<img  alt="Confirm Payroll Register pop up box" width="66%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image34.png">
+<img  alt="Confirm Payroll Register pop up box" width="70%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image34.png">
+
 
 Click the **Run Payroll** button to open a confirmation dialog box and click the **Yes** button as shown below:
 
-<img  alt="Run Payroll button" width="66%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image35.png">
+<img  alt="Run Payroll button" width="70%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image35.png">
+
 
 Clicking the **Yes** button will trigger the execution of the payroll. If the payroll rans successfully, the record will be displayed in the **Previous Payroll** window from which the payroll can be confirmed, certified and posted to accounts for payment. See screenshot below:
 
 <img  alt="PPrevious Payroll Register" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image36.png">
 
+
 Confirm the payroll execution as shown in the screenshot below:
 
 <img  alt="Confirm the payroll menu" width="76%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image37.png">
 
-Certify and approve the process as shown in the screenshot below:
+
+Certify and Approve the process as shown in the screenshot below:
 
 <img  alt="certification menu button" width="76%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image38.png">
+
 
 Post to accounts for payment as shown in the screenshot below:
 
@@ -58,6 +64,7 @@ screenshot below:
 To add an arrear for a pensioner, navigate to the **Payroll Register** select the pensioner you need to process an arrear for. Locate and click the **Add Pensioner Arrears** button from the **Operations** menu as shown below:
 
 <img  alt="Add Pensioner Arrears button" width="99%" height="auto"  class="center"  src="../.vuepress/public/pensionermedia/image44.png">
+
 
 Clicking the **Add Pensioner Arrears** menu item as shown above will open a dialog window for capturing the details of the arrear. See screenshot below:
 
