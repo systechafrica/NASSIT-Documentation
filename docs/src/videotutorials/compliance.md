@@ -31,7 +31,18 @@ videos: [
           thumbnail: "https://img.youtube.com/vi/8jGy83XbH7E/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/8jGy83XbH7E",
           description: "Inspection creation proccess"
-
+        },
+        {
+          id: 3,
+          thumbnail: "https://img.youtube.com/vi/epnQ08e_-GU/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/epnQ08e_-GU",
+          description: "How to create a court case"
+        },
+        {
+          id: 4,
+          thumbnail: "https://img.youtube.com/vi/k9EzW3Hypo/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/k9EzW3Hypo",
+          description: "How to create a payment plan"
         },
               
         // Add more videos here...
