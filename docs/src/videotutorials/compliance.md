@@ -40,8 +40,8 @@ videos: [
         },
         {
           id: 4,
-          thumbnail: "https://img.youtube.com/vi/k9EzW3Hypo/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/k9EzW3Hypo",
+          thumbnail: "https://img.youtube.com/vi/Ak9EzW3Hypo/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/Ak9EzW3Hypo",
           description: "How to create a payment plan"
         },
               
