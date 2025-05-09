@@ -44,6 +44,12 @@ videos: [
           videoUrl: "https://www.youtube.com/embed/Ak9EzW3Hypo",
           description: "How to create a payment plan"
         },
+        {
+          id: 5,
+          thumbnail: "https://img.youtube.com/vi/MzDz8HZ1SiM/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/MzDz8HZ1SiM",
+          description: "How to generate soft and harsh demand letters"
+        },
               
         // Add more videos here...
       ],
