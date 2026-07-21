@@ -28,8 +28,8 @@ export default {
         },
         {
           id: 2,
-          thumbnail: "https://img.youtube.com/vi/s5UFK9gZb3I/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/s5UFK9gZb3I",
+          thumbnail: "https://img.youtube.com/vi/_2Txw1R_hF4/hqdefault.jpg",
+          videoUrl: "https://youtu.be/_2Txw1R_hF4",
           description: "How to process and approve a payroll"
         },
         {
