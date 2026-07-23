@@ -33,6 +33,12 @@ videos: [
           description: "Part 2: Benefits processing - Benefits calculation for a normal retirement"
 
         },
+        {
+          id: 3,
+          thumbnail: "https://img.youtube.com/vi/8o09i9-vwTo/hqdefault.jpg",
+          videoUrl: "https://youtu.be/8o09i9-vwTo",
+          description: "Survivors Benefits Processing"
+        },
               
         // Add more videos here...
       ],
