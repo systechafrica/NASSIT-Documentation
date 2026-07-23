@@ -26,7 +26,7 @@ videos: [
           videoUrl: "https://youtu.be/SN3eoVh147k",
           description: "Part 1: Benefit processing - Claim initiation"
         },
-        {git 
+        {
           id: 2,
           thumbnail: "https://img.youtube.com/vi/GMu86TzVBsl4/hqdefault.jpg",
           videoUrl: "https://https://youtu.be/Mu86TzVBsl4",
@@ -37,9 +37,7 @@ videos: [
           thumbnail: "https://img.youtube.com/vi/8o09i9-vwTo/hqdefault.jpg",
           videoUrl: "https://youtu.be/8o09i9-vwTo",
           description: "Survivors Benefits Processing"
-        },
-              
-        // Add more videos here...
+        }
       ],
     };
   }
