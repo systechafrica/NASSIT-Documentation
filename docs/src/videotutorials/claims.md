@@ -26,10 +26,10 @@ videos: [
           videoUrl: "https://youtu.be/SN3eoVh147k",
           description: "Part 1: Benefit processing - Claim initiation"
         },
-        {
+        {git 
           id: 2,
-          thumbnail: "https://img.youtube.com/vi/GFa3dcCBhk0/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/GFa3dcCBhk0",
+          thumbnail: "https://img.youtube.com/vi/GMu86TzVBsl4/hqdefault.jpg",
+          videoUrl: "https://https://youtu.be/Mu86TzVBsl4",
           description: "Part 2: Benefits processing - Benefits calculation for a normal retirement"
         },
         {
