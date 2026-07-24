@@ -24,13 +24,13 @@ videos: [
           id: 1,
           thumbnail: "https://img.youtube.com/vi/SN3eoVh147k/hqdefault.jpg",
           videoUrl: "https://youtu.be/SN3eoVh147k"
-          description: "Part 1: Benefit processing - Claim initiation for normal retirement"
+          description: "Part 1: Normal Retirement Benefit Processing - Claim Initiation Stage"
         },
         {
           id: 2,
           thumbnail: "https://img.youtube.com/vi/Mu86TzVBsl4/hqdefault.jpg",
           videoUrl: "https://youtu.be/Mu86TzVBsl4",
-          description: "Part 2: Benefits processing - Benefits calculation for a normal retirement"
+          description: "Part 2: Normal Retirement Benefits Processing - Benefits calculation Stage"
         },
         {
           id: 3,
