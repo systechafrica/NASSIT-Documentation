@@ -29,7 +29,7 @@ After inputting the access IP address, a user is directed to the login page wher
 
 This is the dashboard (with the main menu and other controls) seen on a user’s screen when one successfully logs in to FundMaster. See the screenshot below:
 
-<img  alt="Landing Page" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd17.png"> 
+<img  alt="Landing Page" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media/PAS_LPage.jpg"> 
 
 
 The circled numbers in the screenshot above correspond to the numbers in the following table that describe the key navigation clickable elements on the FundMaster landing page:
