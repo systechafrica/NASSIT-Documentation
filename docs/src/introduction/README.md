@@ -38,17 +38,22 @@ The circled numbers in the screenshot above correspond to the numbers in the fol
 | **No.** 	| **UI Elements**    | **Description**                                                                                                                                   	|
 |---------	|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------	|
 | 1.    	| Top menu bar              | This is the bar where the system version trademark, the name of the running scheme, language drop-down menu, and logout button is located            |
-| 2.     	| Language drop-down menu   | Click to select a language of choice. This will render the navigation and content in the selected language                                           |
-| 3.    	| Logout button             | Clicking this button will terminate all the running processes and close the system                                                                   |
-| 4.    	| Main menu bar             | This is the location of the major menu. Click to expand and display more menu items                                                                  |
-| 5.    	| Scheme Setup link         | A shortcut to launching the scheme setup module. Click to open the setup page                                                                        |
-| 6.    	| Investments link          | **Access Denied: Subscription Required**                                     	                                                                        |
-| 7.    	| Workflow link             | **Access Denied: Subscription Required**                                     	                                                                        |
-| 8.    	| Fees and Commission link  | **Access Denied: Subscription Required**                                                                                                              |
-| 9.    	| Pensioners Register link  | A shortcut to the Pensioners Register                                                                                                            |
-| 10.   	| Administrative Panel link | A shortcut to the Administrative Panel                                                                                                            |
-| 11.   	| Accounts link             | **Access Denied: Subscription Required**                                                                                                              |
-| 12.   	| Members Register link     | A shortcut to the Members Register                                                                                                         |
+| 2.     	| Search Bar                | Click to select and launch some key processess from the landing page  
+| 3.     	| Language drop-down menu   | Click to select a language of choice. This will render the navigation and content in the selected language|
+| 4.    	| Logout button             | Clicking this button will terminate all the running processes and close the system                                                                   |
+| 5.    	| Main menu bar             | This is the location of the major menu. Click to expand and display more menu items                                                                  |
+| 6.    	| Scheme Setup link         | A shortcut to launching the scheme setup module. Click to open the setup page                                                                        |
+| 7.    	| Analytics engine link         | A shortcut to launching the analytics module. Click to open the analytics page                                                                        |
+| 8.   	    | Members Register link     | A shortcut to the Members Register  
+
+| 9.    	| Workflow link             | **Access Denied: Subscription Required**                                     	                                                                        |
+| 10.    	| Pensioners Register link  | A shortcut to the Pensioners Register                                                                                                                |
+| 11.    	| Investments link          | **Access Denied: Subscription Required**                                     	                                                                        |
+| 12.   	| Administrative Panel link | A shortcut to the Administrative Panel                                                                                                                   |
+| 13.    	| Fees and Commission link  | **Access Denied: Subscription Required**                                                                                                              |
+| 14.   	| Reports link             | **Access Denied: Subscription Required**                                                                                                              |
+| 15.   	| Accounts link             | **Access Denied: Subscription Required**                                                                                                              |
+                                                                                                       |
 
 
 
