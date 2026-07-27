@@ -2,7 +2,7 @@ const {description} = require('../../package');
 
 module.exports = {
     logo: "/img/logo/fundmaster-hero-image.png",
-    title: 'FundMaster Xc',
+    title: 'FundMaster',
     description: description,
     themeConfig: {
         logo: "/img/logo/fundmaster-hero-image.png",
@@ -25,7 +25,6 @@ module.exports = {
                     {text: 'Reporting Engine', link: '/reports/'},
                 ],
             },
-            {text: 'Glossary', link: '/glossary/'},
             {text: 'Video Tutorials', link: '/videotutorials/'},
         ],
         sidebar: getSidebar(),
@@ -34,12 +33,6 @@ module.exports = {
 
 function getSidebar() {
     return {
-        '/glossary/': generateSidebar(
-            '/glossary/',
-            'FundMaster Glossary',
-            [
-                '',
-            ]),
         '/introduction/': generateSidebar(
             '',
             'User Manuals',
