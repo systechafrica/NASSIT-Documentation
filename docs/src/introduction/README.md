@@ -59,7 +59,7 @@ Clicking the hamburger icon on the upper-left corner of the landing page will en
 
 Located on the lowermost side of the menu bar are more controls that enable other configurations for a user account. See screenshot below:
 
-<img  alt="main menu bar Image" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media/PAS_LPage.jpg">  
+<img  alt="main menu bar Image" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd1.png">  
 
 
  
