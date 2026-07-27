@@ -23,7 +23,7 @@ videos: [
    {
           id: 1,
           thumbnail: "https://img.youtube.com/vi/SN3eoVh147k/hqdefault.jpg",
-          videoUrl: "https://youtu.be/SN3eoVh147k"
+          videoUrl: "https://youtu.be/SN3eoVh147k",
           description: "Part 1: Normal Retirement Benefit Processing - Claim Initiation Stage"
         },
         {
