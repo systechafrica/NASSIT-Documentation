@@ -17,6 +17,8 @@ The **'Contribution Approval'** window lists individual member contributions tha
 
 ## Batch Contributions Register
 
+The Batch Contribution Register displays all employer contributions (irregular contributions) that were processed outside the standard Contribution Schedule submission process.
+
 After batch contributions are successfully uploaded into the system, they are collectively saved in the **Batch Contributions Register** where all the batch contributions are grouped based on the different establishments. To open this register, click the Batch Contributions Register as shown in the screenshot below:
 
 <img  alt="Batch Contributions Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image33.jpg">
@@ -58,7 +60,7 @@ To view batch contributions distribution to member's accounts, click the **Batch
 
 ### New Batch Contribution
 
-After downloading the contributions template and filling it with data. Click the **New Batch Contribution** link to open the window through which the template is uploaded back into the system. The following screenshot shows an example of a successful upload:
+To upload an irregular contribution to the system, first downloading the contributions template and filling it with contribution details. Click the **New Batch Contribution** link to open the window through which the template is uploaded back into the system. The following screenshot shows an example of a successful upload:
 
 <img  alt="New Batch Contribution" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image27.png">
 
@@ -74,6 +76,8 @@ The links under this category give access to windows where the Contributions Bil
 
 
 ## Contribution Schedules
+
+Contribution Schedules are the standard method for uploading employer contributions into the system. All regular employer contributions must be submitted using the Contribution Schedule process. The Batch Contributions method should only be used for processing irregular contributions that cannot be submitted through the standard Contribution Schedule workflow.
 
 The **Contribution Schedules** window lists all the contribution schedules generated in the system to date. Through the window, a new contribution schedule can be generated and emailed to establishments or downloaded among other operations. See screenshot below:
 
