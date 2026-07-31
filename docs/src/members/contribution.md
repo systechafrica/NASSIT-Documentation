@@ -60,7 +60,7 @@ To view batch contributions distribution to member's accounts, click the **Batch
 
 ### New Batch Contribution
 
-To upload an irregular contribution, first downloading the contributions template and fil it with contribution details. Click the **New Batch Contribution** link to open the window through which the template is uploaded into the system. The following screenshot shows an example of a successful upload:
+To upload an irregular contribution, first downloading the contributions template and fill it with contribution details. Click the **New Batch Contribution** link to open the window through which the template is uploaded into the system. The following screenshot shows an example of a successful upload:
 
 <img  alt="New Batch Contribution" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image27.png">
 
