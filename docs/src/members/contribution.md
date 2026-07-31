@@ -19,7 +19,7 @@ The **'Contribution Approval'** window lists individual member contributions tha
 
 The Batch Contribution Register displays all employer contributions (irregular contributions) that were processed outside the standard Contribution Schedule submission process.
 
-After batch contributions are successfully uploaded into the system, they are collectively saved in the **Batch Contributions Register** where all the batch contributions are grouped based on the different establishments. To open this register, click the Batch Contributions Register as shown in the screenshot below:
+After batch contributions are successfully uploaded into the system, they are collectively saved in the **Batch Contributions Register** where all the batch contributions for different employers are listed. To open this register, click the Batch Contributions Register as shown in the screenshot below:
 
 <img  alt="Batch Contributions Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/membersmedia/image33.jpg">
 
